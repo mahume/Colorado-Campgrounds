@@ -1,9 +1,9 @@
 import React from 'react';
 
-function NavItem(props) {
+function NavItem({ children, path }) {
   return (
-    <a className="nav-item nav-link" href={props.path}>
-      {props.children}<span className="sr-only">(current)</span>
+    <a className="nav-item nav-link" href={path}>
+      {children}
     </a>
   )
 }
