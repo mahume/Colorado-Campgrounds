@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer className="footer mt-auto py-3">
       <div className="container">
-        <span>Footer</span>
+        <span>Footer content goes here</span>
       </div>
     </footer>
   )
