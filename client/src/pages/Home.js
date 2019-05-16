@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Map from '../components/Map';
-import ResultsList from '../components/ResultsList';
+import QueryList from '../components/QueryList';
+import { request } from 'http';
 
 class Home extends Component {
   state = {};
@@ -10,7 +11,7 @@ class Home extends Component {
       <div>
         <Map />
         <div className="container">
-          <ResultsList />
+          <QueryList />
         </div>
       </div>
     )
