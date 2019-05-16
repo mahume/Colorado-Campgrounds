@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Map from '../components/Map';
-import ListGroup from '../components/ListGroup';
+import ResultsList from '../components/ResultsList';
 
 class Home extends Component {
   state = {};
@@ -10,7 +10,7 @@ class Home extends Component {
       <div>
         <Map />
         <div className="container">
-          <ListGroup />
+          <ResultsList />
         </div>
       </div>
     )
