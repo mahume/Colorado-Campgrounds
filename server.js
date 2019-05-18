@@ -17,8 +17,10 @@ if (process.env.NODE_ENV === 'production') {
 // Routes
 app.use(routes);
 
-// Mongo DB
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/users');
+// Connect to the Mongo DB
+mongoose.connect(
+  process.env.MONGODB_URI || 'mongodb://localhost/users'
+);
 
 // Server
 app.listen(PORT, function() {
