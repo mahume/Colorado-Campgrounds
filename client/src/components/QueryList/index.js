@@ -1,14 +1,14 @@
 import React from 'react';
+import ListGroup from 'react-bootstrap/ListGroup';
 import QueryItem from '../QueryItem';
 
 function QueryList() {
   return (
-    <ul className="list-group">
-      <QueryItem />
-      <QueryItem />
-      <QueryItem />
-      <QueryItem />
-    </ul>
+    <ListGroup as="ul">
+      <QueryItem as="li"></QueryItem>
+      <QueryItem as="li"></QueryItem>
+      <QueryItem as="li"></QueryItem>
+    </ListGroup>
   )
 }
 
