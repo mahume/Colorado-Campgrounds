@@ -3,10 +3,11 @@ import Container from 'react-bootstrap/Container';
 import Form from 'react-bootstrap/Form';
 import { Group, Label, Control, Text, Check } from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
+import './style.css';
 
 function LoginForm() {
   return (
-    <Container>
+    <Container className="shadow">
       <Form>
         <Group controlId="formBasicEmail">
           <Label>Email address</Label>
