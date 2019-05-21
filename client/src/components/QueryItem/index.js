@@ -1,11 +1,11 @@
 import React from 'react';
-import QueryImage from '../QueryImage';
+import Image from 'react-bootstrap/Image';
 import QueryTitle from '../QueryTitle';
 
 function QueryItem() {
   return (
     <li className="list-group-item">
-      <QueryImage />
+      <Image src="https://via.placeholder.com/100" rounded></Image>
       <QueryTitle />
     </li>
   )
