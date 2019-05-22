@@ -23,7 +23,7 @@ View on [Heroku](https://git.heroku.com/limitless-stream-96698.git)
 ## Authors
 
 - Alex Tyk
-- Anand Davaajord
+- Anand Davaadorj 
 - Andrew Clement
 - Mike Hume
 - Steven Slyker
