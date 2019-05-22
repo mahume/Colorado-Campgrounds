@@ -68,12 +68,6 @@ Promise.all(asyncCalls)
     })
 
     console.log(results)
-    // fs.writeFileSync('campsites.json', results, (err) => {
-    //   if (err) {
-    //     throw err;
-    //   }
-    //   console.log('The file has been saved')
-    // });
   })
 
 
