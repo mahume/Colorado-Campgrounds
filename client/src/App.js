@@ -1,9 +1,10 @@
-import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import React, { Component } from 'react';
+import axios from 'axios'
+import { Route, Link } from 'react-router-dom'
 import Signup from './components/sign-up'
-import LoginForm from './components/login-form'
-import Navbar from './components/navbar'
-import Home from './components/home'
+import LoginForm from './components/LoginForm'
+import Navbar from './components/NavigationBar'
+import Home from './pages/Home'
 
 class App extends Component {
   constructor() {
