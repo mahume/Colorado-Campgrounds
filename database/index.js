@@ -7,7 +7,7 @@ mongoose.Promise = global.Promise;
 // 27017 is the default mongoDB port
 const uri = 'mongodb://localhost:27017/simple-mern-passport';
 
-mongoose.connect(uri).then(
+mongoose.connect(uri, { useNewUrlParser: true }).then(
   () => {
     /** ready to use. The `mongoose.connect()` promise resolves to undefined. */
 
