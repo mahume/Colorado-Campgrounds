@@ -120,9 +120,14 @@
     "address": "710 CO-149, South Fork, CO 81154",
     "phone": "719-873-2248",
     "desc": "An RV community catering to the young at heart. Potlucks, easy access to ATV trails, and 14 lakes in surrounding area for fishing. Quiet mountain town with plenty to explore.",
-    "numberTentSites": "RV Sites: 44",
-    "numberRvSites": "",
-    "RvSiteInfo": [],
+    "numberTentSites": "",
+    "numberRvSites": "RV Sites: 44",
+    "RvSiteInfo": [
+      "Amps: 20, 30, 50",
+      "Pull Through Sites: 13",
+      "Full Hookup Sites: 44",
+      "Double Slide-out Sites: 44"
+    ],
     "numberOtherLodging": "",
     "otherLodgingInfo": [],
     "photos": [
@@ -168,15 +173,7 @@
     "title": "Base Camp at Golden Gate Canyon",
     "address": "661 CO-46, Black Hawk, CO 80422",
     "phone": "303-582-9979",
-    "desc": "Denver’s staycation destination! Where else can you set up camp, " +
-      "head back into town for your kid’s soccer game, and be back at " +
-      "camp to enjoy the rest of your weekend in the fresh mountain air? " +
-      "Our campground is privately owned and offers a mountain camping " +
-      "experience within an hour of the Denver metro area.\nElevation " +
-      "9,230′.\nChoose from camping cabins, RV camping sites, and tent " +
-      "sites.\nConvenience store, free WiFi, laundry, liquor store, " +
-      "propane, and showers/restrooms … and now even unleaded gas and " +
-      "diesel.",
+    "desc": "Denver’s staycation destination! Where else can you set up camp, head back into town for your kid’s soccer game, and be back at camp to enjoy the rest of your weekend in the fresh mountain air? Our campground is privately owned and offers a mountain camping experience within an hour of the Denver metro area.\nElevation 9,230′.\nChoose from camping cabins, RV camping sites, and tent sites.\nConvenience store, free WiFi, laundry, liquor store, propane, and showers/restrooms … and now even unleaded gas and diesel.",
     "numberTentSites": "Tent Sites: 8",
     "numberRvSites": "RV Sites: 22",
     "RvSiteInfo": [
@@ -186,9 +183,9 @@
       "Full Hookup Sites: 1",
       "Double Slide-out Sites: 2213"
     ],
-    numberOtherLodging: "Other Lodging: 13",
-    otherLodgingInfo: [],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 13",
+    "otherLodgingInfo": [],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN8216-1.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/base-camp2.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/base-camp3_0.jpg?resize=150%2C150&ssl=1",
@@ -204,7 +201,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/basecamp7.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/basecamp8.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -216,7 +213,7 @@
       "Pavilion area",
       "Playground"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Club / meeting room",
       "Pool - indoor",
       "Gaming / casino",
@@ -232,19 +229,7 @@
     "title": "Blue Mesa Outpost",
     "address": "940 Cove RoadGunnison, CO 81230",
     "phone": "970-641-4044",
-    "desc": "Welcome to Blue Mesa Outpost, overlooking the largest body of water " +
-      "in Colorado!\nEach of the accommodations envelope you with gorgeous " +
-      "views of Blue Mesa Reservoir and the surrounding Rocky Mountains of " +
-      "Gunnison, Colorado. Ten of our RV sites are pull through and face " +
-      "the reservoir or mesa. They’re 25 feet wide, ranging in length from " +
-      "80 to 100 feet. The four to six person, one bedroom cabins, and tent " +
-      "sites, each overlook the reservoir.\nThe reservoir boasts some of the " +
-      "best trout and salmon fishing in Colorado, and Blue Mesa Outpost is " +
-      "located just one mile from boat ramps. Located at 940 Cove Road, " +
-      "Gunnison, Colorado 81230, just 25 miles west of downtown Gunnison, " +
-      "and 35 miles east of Montrose,  off Highway 50, between mile markers " +
-      "131 and 132.\nFor your planning purposes, cabins require a minimum " +
-      "two night stay for holiday weekends and weekends in June / July.",
+    "desc": "Welcome to Blue Mesa Outpost, overlooking the largest body of water in Colorado!\nEach of the accommodations envelope you with gorgeous views of Blue Mesa Reservoir and the surrounding Rocky Mountains of Gunnison, Colorado. Ten of our RV sites are pull through and face the reservoir or mesa. They’re 25 feet wide, ranging in length from 80 to 100 feet. The four to six person, one bedroom cabins, and tent sites, each overlook the reservoir.\nThe reservoir boasts some of the best trout and salmon fishing in Colorado, and Blue Mesa Outpost is located just one mile from boat ramps. Located at 940 Cove Road, Gunnison, Colorado 81230, just 25 miles west of downtown Gunnison, and 35 miles east of Montrose,  off Highway 50, between mile markers 131 and 132.\nFor your planning purposes, cabins require a minimum two night stay for holiday weekends and weekends in June / July.",
     "numberTentSites": "Tent Sites: 10",
     "numberRvSites": "RV Sites: 12",
     "RvSiteInfo": [
@@ -254,9 +239,9 @@
       "Full Hookup Sites: 12",
       "Double Slide-out Sites: 12"
     ],
-    numberOtherLodging: "Other Lodging: 6",
-    otherLodgingInfo: [ "Types: Fully furnished, modern cabins" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 6",
+    "otherLodgingInfo": [ "Types: Fully furnished, modern cabins" ],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/571a-Copy.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN2636.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/559a-Copy.jpg?resize=150%2C150&ssl=1",
@@ -273,7 +258,7 @@
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/IMG_3183.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/rsrvoir.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -282,7 +267,7 @@
       "Playground",
       "Arcade / game room"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "LP for RVs",
       "LP for portables",
       "Fishing",
@@ -297,13 +282,18 @@
     "title": "Blue Spruce RV Park & Cabins",
     "address": "1875 County Rd 500Bayfield, CO 81122",
     "phone": "970-884-2641",
-    "desc": "",
-    "numberTentSites": "RV Sites: 77",
-    "numberRvSites": "",
-    "RvSiteInfo": [],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "desc": "Conveniently located miles from nowhere … come visit our quaint lake resort village in Southwest Colorado and the Rocky Mountains.\nJust 25 miles from Durango, Vallecito Lake is host to many conveniences and is the perfect get-away for every season. Whether you’re going camping, searching for cabin rentals, or both, consider the excellent facilities and serenity of our campground (unlike typical roadside RV parks) and variety of recreational opportunities nearby.\nCozy cabins and loft apartments available year ’round.",
+    "numberTentSites": "",
+    "numberRvSites": "RV Sites: 77",
+    "RvSiteInfo": [      
+      "Amps: 20, 30, 50",
+      "Max RV Length: 60 ft",
+      "Pull Through Sites: 16",
+      "Full Hookup Sites: 77",
+      "Double Slide-out Sites: 77"],
+    "numberOtherLodging": "Other Lodging: 11",
+    "otherLodgingInfo": [ "Types: Mobile homes and park model cabins" ],
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/blue-spruce1.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/blue_spruce_image_6.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/blue_spruce_image_7.jpg?resize=150%2C150&ssl=1",
@@ -311,7 +301,7 @@
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/blue_spruce_image_9.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/blue_spruce_image_10.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Satellite TV",
       "Restrooms",
@@ -325,7 +315,7 @@
       "Playground",
       "Arcade / game room"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Café / restaurant",
       "Golfing",
       "Pool - indoor",
@@ -345,21 +335,18 @@
     "title": "Bristlecone Lodge",
     "address": "510 Highway 67Woodland Park, CO 80863",
     "phone": "719-687-9518",
-    "desc": "Centrally located, Bristlecone Lodge is great for your quick " +
-      "getaway, family adventures or business stay. You will be within " +
-      "walking distance of downtown Woodland Park and its locally owned " +
-      "restaurants, Friday Farmers Market, galleries, unique shops and " +
-      "more. Located just 1.5 miles from Charis Bible College. Our " +
-      "cabins and RV sites are open all year for the many new and " +
-      "returning guests who just can’t get enough of our beautiful " +
-      "Colorado outdoors.\nThis is an urban campground catering to " +
-      "long-stay RVers.",
-    "numberTentSites": "RV Sites: 37",
-    "numberRvSites": "",
-    "RvSiteInfo": [],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "desc": "Centrally located, Bristlecone Lodge is great for your quick getaway, family adventures or business stay. You will be within walking distance of downtown Woodland Park and its locally owned restaurants, Friday Farmers Market, galleries, unique shops and more. Located just 1.5 miles from Charis Bible College. Our cabins and RV sites are open all year for the many new and returning guests who just can’t get enough of our beautiful Colorado outdoors.\nThis is an urban campground catering to long-stay RVers.",
+    "numberTentSites": "",
+    "numberRvSites": "RV Sites: 37",
+    "RvSiteInfo": [
+      "Amps: 20, 30, 50",
+      "Max RV Length: 80 ft",
+      "Pull Through Sites: 12",
+      "Full Hookup Sites: 37",
+      "Double Slide-out Sites: 33"],
+    "numberOtherLodging": "Other Lodging: 11",
+    "otherLodgingInfo": ["Types: Cabins, Park Models, B&B, duplex cabins, and a 2-bedroom unit"],
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/bristlecone_image_5.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/bristlecone3.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/bristlecone_image_3.jpg?resize=150%2C150&ssl=1",
@@ -370,7 +357,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/bristlecone4.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/bristlecone6.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Cable TV",
       "Restrooms",
@@ -380,7 +367,7 @@
       "Laundry",
       "Hot tub / spa"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "LP bottle exchange",
       "LP for RVs",
       "LP for portables",
@@ -407,7 +394,7 @@
     "title": "Buena Vista KOA",
     "address": "27700 County Road 303 Buena Vista CO 81211",
     "phone": "719-395-8318",
-    "desc": "",
+    "desc": "The stunning view of Mount Princeton provides a great way to wake up as you prepare for your day’s adventure in the Arkansas River Valley or in the majestic Collegiate Peaks. \nThe view from your campsite at this KOA is buena indeed – a panorama of five 14,000-foot-plus peaks frames this mountain valley. Tucked among rocks and shaded by pinon pines, the campground is a few miles southeast of the small resort town of Buena Vista and a mile from the Arkansas River. Hike or bike on public land adjacent on three sides of the KOA. \nYour hosts can arrange for a wide variety of other pursuits – such as rafting, fishing, ATVing, jeeping and soaking in hot springs – or direct you to hiking trails, ghost towns and rockhounding sites. At the KOA, play sand volleyball, basketball and horseshoes. Breakfast is served summer mornings in the Cook Shack. Enjoy this quiet and tranquil setting. \nGroups are welcome!",
     "numberTentSites": "Tent Sites: 21",
     "numberRvSites": "RV Sites: 46",
     "RvSiteInfo": [
@@ -416,12 +403,11 @@
       "Pull Through Sites: 31",
       "Full Hookup Sites: 20"
     ],
-    numberOtherLodging: "Other Lodging: 14",
-    otherLodgingInfo: [
-      "Types: Cabins, tepee, glamping options " +
-        "with canvas tent and even canvas cabins"
+    "numberOtherLodging": "Other Lodging: 14",
+    "otherLodgingInfo": [
+      "Types: Cabins, tepee, glamping options with canvas tent and even canvas cabins"
     ],
-    photos: [
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/BV2.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/BV1-1.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN8529.jpg?resize=150%2C150&ssl=1",
@@ -435,7 +421,7 @@
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/BV3.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/BVBanner.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -451,13 +437,13 @@
       "Hiking / nature trails",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [ "ATV / 4-wheeling", "Canoeing / kayaking", "River rafting" ]
+    "propertyNearbyActivities": [ "ATV / 4-wheeling", "Canoeing / kayaking", "River rafting" ]
   },
   {
     "title": "CanyonSide Campground",
     "address": "33040 Poudre Canyon Hwy  Bellvue CO 80512",
     "phone": "970-881-3481",
-    "desc": "",
+    "desc": "CanyonSide Campground is a family owned and operated campground located in the beautiful scenic Poudre Canyon, across from the Cache La Poudre River. This is Colorado’s nationally designated WILD AND SCENIC river. We have five fully furnished cabins, ten RV sites with full hook ups and a large tenting area. Your canyon experience includes dramatic scenery and outstanding recreational opportunities such as, white water rafting, kayaking, fly fishing and horseback riding. There are also miles of hiking and ATV trails. \nCOME OUT WITH YOUR FAMILY AND ENJOY NATURE AT ITS FINEST…..A PLACE YOU WANT TO BE”",
     "numberTentSites": "Tent Sites: 6",
     "numberRvSites": "RV Sites: 7",
     "RvSiteInfo": [
@@ -466,11 +452,11 @@
       "Full Hookup Sites: 7",
       "Double Slide-out Sites: 1"
     ],
-    numberOtherLodging: "Other Lodging: 5",
-    otherLodgingInfo: [
+    "numberOtherLodging": "Other Lodging: 5",
+    "otherLodgingInfo": [
       "Types: Cabins, cottages (3 2-bedroom, 1 1-bedroom, and 1 1-room cabin)"
     ],
-    photos: [
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/CanyonSide-Campground-Cabin2.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/CanyonSide-Campground-Cabin4-inside.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/CanyonSide-Campground-Cabin4.jpg?resize=150%2C150&ssl=1",
@@ -479,7 +465,7 @@
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/CanyonSide-Campground3.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/CanyonSide-Campground4.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -487,7 +473,7 @@
       "Firewood",
       "Playground"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Golfing",
       "Fishing",
       "Hiking / nature trails",
@@ -499,17 +485,7 @@
     "title": "Cedar Creek RV Park",
     "address": "126 Rose Lane, Montrose, CO 81401",
     "phone": "970-249-3884",
-    "desc": "Experience the true personality of a family owned park. Shady pull-thru " +
-      "sites. They’re big rig friendly, tents are welcomed, and even they offer " +
-      "some cabins, tiny house and retro and safari tent glamping options. " +
-      "In-town convenience/country quiet. Cedar Creek RV Park in Montrose is " +
-      "located in the Uncompahgre Valley on the western slope of the Rockies.\n" +
-      "Enjoy scenic day trips with the Rocky Mountains (directly east), the " +
-      "sparkling San Juan Mountains (25 miles south), and the largest flat top " +
-      "mountain, Grand Mesa (40 miles north). They’re also only 20 minutes from " +
-      "the breathtaking views of the Black Canyon of the Gunnison National " +
-      "Park.\nEnjoy a day of shopping or sightseeing in nearby Ridgway, " +
-      "Telluride, or Ouray.",
+    "desc": "Experience the true personality of a family owned park. Shady pull-thru sites. They’re big rig friendly, tents are welcomed, and even they offer some cabins, tiny house and retro and safari tent glamping options. In-town convenience/country quiet. Cedar Creek RV Park in Montrose is located in the Uncompahgre Valley on the western slope of the Rockies.\nEnjoy scenic day trips with the Rocky Mountains (directly east), the sparkling San Juan Mountains (25 miles south), and the largest flat top mountain, Grand Mesa (40 miles north). They’re also only 20 minutes from the breathtaking views of the Black Canyon of the Gunnison National Park.\nEnjoy a day of shopping or sightseeing in nearby Ridgway, Telluride, or Ouray.",
     "numberTentSites": "Tent Sites: 6",
     "numberRvSites": "RV Sites: 44",
     "RvSiteInfo": [
@@ -518,12 +494,11 @@
       "Pull Through Sites: 35",
       "Full Hookup Sites: 28"
     ],
-    numberOtherLodging: "Other Lodging: 6",
-    otherLodgingInfo: [
-      "Types: Cabins, glamping safari tent, " +
-        "rental retro RVs and some tiny houses"
+    "numberOtherLodging": "Other Lodging: 6",
+    "otherLodgingInfo": [
+      "Types: Cabins, glamping safari tent, rental retro RVs and some tiny houses"
     ],
-    photos: [
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN9562adjcropB.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN9570.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN9551adjcrop.jpg?resize=150%2C150&ssl=1",
@@ -551,7 +526,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN9545adj.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/cedar_creek_image_3.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Cable TV",
       "Restrooms",
@@ -564,7 +539,7 @@
       "Pavilion area",
       "Mini golf"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Café / restaurant",
       "ATV / 4-wheeling",
       "Biking trails",
@@ -580,7 +555,7 @@
     "title": "Chalk Creek Campground & RV Park",
     "address": "11430 County Road 197, Nathrop, CO 81236",
     "phone": "719-395-8301",
-    "desc": "",
+    "desc": "Experience the very best camping! Back to nature – just trees, grass, creek & stars. Awesome mountain views! Take it easy and relax in a site on or near Chalk Creek or use the luxury of a Full Hookup Site with views",
     "numberTentSites": "Tent Sites: 22",
     "numberRvSites": "RV Sites: 82",
     "RvSiteInfo": [
@@ -590,9 +565,9 @@
       "Full Hookup Sites: 29",
       "Double Slide-out Sites: 55"
     ],
-    numberOtherLodging: "Other Lodging: 5",
-    otherLodgingInfo: [ "Types: Cabins" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 5",
+    "otherLodgingInfo": [ "Types: Cabins" ],
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/chalk_creek_image_7.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/chalk-creek1.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/chalk-creek2.jpg?resize=150%2C150&ssl=1",
@@ -608,7 +583,7 @@
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/chalk_creek_image_10.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/chalk_creek_image_11.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -619,7 +594,7 @@
       "Arcade / game room",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Hot tub / spa",
       "Horse facility",
       "Fishing",
@@ -632,7 +607,7 @@
     "title": "Circle The Wagons RV Park",
     "address": "126 W 2ndLa Veta, CO 81055",
     "phone": "719-742-3233",
-    "desc": "",
+    "desc": "Family owned RV park in quiet, beautiful, mountainous part of southern Colorado. Easy access off of Hwy 160. All easy back-ins, strong wi fi, walking distance to town of La Veta. Laundry, clean showers and bathrooms, game room with large library. Free DVD movies. Handicap accessible. Clubhouse available for groups. Groups welcomed. Pets allowed and there’s even a dog park. \nLocal area has many activities, from museum and art shows to hiking and nature trails.",
     "numberTentSites": "Tent Sites: 2",
     "numberRvSites": "RV Sites: 43",
     "RvSiteInfo": [
@@ -641,9 +616,9 @@
       "Full Hookup Sites: 43",
       "Double Slide-out Sites: 43"
     ],
-    numberOtherLodging: "Other Lodging: 3",
-    otherLodgingInfo: [ "Types: Cabin, camper rentals" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 3",
+    "otherLodgingInfo": [ "Types: Cabin, camper rentals" ],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN5688.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/circle_the_wagons_image2.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/circle_the_wagons_image3.jpg?resize=150%2C150&ssl=1",
@@ -669,7 +644,7 @@
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN5701.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN5703.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -677,7 +652,7 @@
       "Club / meeting room",
       "Arcade / game room"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "ATV / 4-wheeling",
       "Fishing",
       "Hiking / nature trails",
@@ -689,13 +664,18 @@
     "title": "Colorado Heights Camping Resort",
     "address": "19575 Monument Hill Rd, Monument, CO 80132",
     "phone": "719-481-2336",
-    "desc": "",
-    "numberTentSites": "RV Sites: 230",
-    "numberRvSites": "",
-    "RvSiteInfo": [],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "desc": "Colorado Heights Camping Resort is located in the beautiful town of Monument, CO. It is nestled back in 28 acres of beatiful pine trees with an amazing view of Pikes Peak. It is 45 minutes away from Denver and 30 minutes from Colorado Springs. Colorado Heights Camping Resort has around 200 full hookup sites and 50 partial hookup sites. \nWe have been camping here the last 2 years. It is a great place to get away from the city and relax. They have a fun pool for the kids, a fishing pond and mini golf. Can’t wait for the weather to warm so we can get back! \nThis is conveniently located just north of Colorado Springs….They have a nice little fishing pond and great pool. Staff is very friendly and have free wifi.”",
+    "numberTentSites": "",
+    "numberRvSites": "RV Sites: 230",
+    "RvSiteInfo": [
+      "Amps: 30, 50",
+      "Max RV Length: 52 ft",
+      "Pull Through Sites: 30",
+      "Full Hookup Sites: 187",
+      "Double Slide-out Sites: 5"],
+    "numberOtherLodging": "",
+    "otherLodgingInfo": [],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/215025_234147596618128_6745705_n.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/225677_234145779951643_2113282_n.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/253921_234145729951648_6908565_n.jpg?resize=150%2C150&ssl=1",
@@ -711,7 +691,7 @@
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/colorado-heights1.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/P6080529.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -726,13 +706,13 @@
       "Fishing",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: []
+    "propertyNearbyActivities": []
   },
   {
     "title": "Colorado Springs KOA",
     "address": "8100 Bandley Drive, Fountain, CO 80817",
     "phone": "719-382-7575",
-    "desc": "",
+    "desc": "Imagine waking up to the beautiful view of Pikes Peak. Stay in a fully equipped Cabin, pitch a tent or pull into an RV site (including extra-large sites). We have a hall for rallies, family reunions, and potlucks, or have them catered by the staff. Enjoy a dip in the heated pool or relax in the hot tub. Don’t feel like cooking? Try our seasonal Cafe. \nPets will have a great time in our dog park and agility park. With so many things to do at KOA and in the area (Garden of the Gods is just one idea), you will want to stay as long as you can!",
     "numberTentSites": "Tent Sites: 8",
     "numberRvSites": "RV Sites: 136",
     "RvSiteInfo": [
@@ -742,9 +722,9 @@
       "Full Hookup Sites: 136",
       "Double Slide-out Sites: 20"
     ],
-    numberOtherLodging: "Other Lodging: 32",
-    otherLodgingInfo: [ "Types: Cabins" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 32",
+    "otherLodgingInfo": [ "Types: Cabins" ],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/koacosprgs-LG-1.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/Cabin-2.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/Cabins-1.jpg?resize=150%2C150&ssl=1",
@@ -755,19 +735,29 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/KOA-_0.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/Webpages20110092imq2gateyk.jpg.axd_.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
-       "Internet / Wifi",            "Cable TV",
-             "Restrooms",             "Showers",
-          "Dump station",          "LP for RVs",
-      "LP for portables",            "Firewood",
-               "Laundry", "Club / meeting room",
-         "Pavilion area",   "Café / restaurant",
-            "Playground",  "Arcade / game room",
-        "Pool - outdoor", "Water park / slides",
-         "Hot tub / spa",      "Horse facility",
-          "Bike rentals", "Handicap Accessible"
+    "propertyAmenities": [
+      "Internet / Wifi",           
+      "Cable TV",
+      "Restrooms",             
+      "Showers",
+      "Dump station",         
+      "LP for RVs",
+      "LP for portables",            
+      "Firewood",
+      "Laundry", 
+      "Club / meeting room",
+      "Pavilion area",   
+      "Café / restaurant",
+      "Playground",  
+      "Arcade / game room",
+      "Pool - outdoor", 
+      "Water park / slides",
+      "Hot tub / spa",      
+      "Horse facility",
+      "Bike rentals", 
+      "Handicap Accessible"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Gaming / casino",
       "ATV / 4-wheeling",
       "Biking trails",
@@ -784,23 +774,17 @@
     "title": "Cool Sunshine RV Park",
     "address": "1055 7th StAlamosa, CO 81101",
     "phone": "(719) 992-9105",
-    "desc": "Cool Sunshine RV Park rests in the middle of two magnificent mountain " +
-      "ranges, the San Juan Mountains and Sangre de Cristo Mountains. They’re " +
-      "located in the heart of Alamosa and just a block from downtown, shops, " +
-      "cuisine, city park, and walking trails.\nThis is the gateway to all the " +
-      "activities in the San Luis Valley. While you’re with them be sure to " +
-      "see the Great Sand Dunes National Park and Preserve, Zapata Falls, view " +
-      "Blanca Peak, the fourth tallest mountain in Colorado, and many more.",
+    "desc": "Cool Sunshine RV Park rests in the middle of two magnificent mountain ranges, the San Juan Mountains and Sangre de Cristo Mountains. They’re located in the heart of Alamosa and just a block from downtown, shops, cuisine, city park, and walking trails.\nThis is the gateway to all the activities in the San Luis Valley. While you’re with them be sure to see the Great Sand Dunes National Park and Preserve, Zapata Falls, view Blanca Peak, the fourth tallest mountain in Colorado, and many more.",
     "numberTentSites": "Tent Sites: 6",
     "numberRvSites": "RV Sites: 41",
     "RvSiteInfo": [ "Amps: 30, 50", "Max RV Length: 101 ft" ],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "numberOtherLodging": "",
+    "otherLodgingInfo": [],
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/CoolSunshine-1.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/CoolSunshine-2.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -809,45 +793,13 @@
       "Laundry",
       "Club / meeting room"
     ],
-    propertyNearbyActivities: [ "Café / restaurant", "Hiking / nature trails" ]
+    "propertyNearbyActivities": [ "Café / restaurant", "Hiking / nature trails" ]
   },
   {
     "title": "Cripple Creek KOA",
     "address": "2576 County Road 81Cripple Creek, CO 80813",
     "phone": "719-689-5647",
-    "desc": "At 10,000 feet above sea level, the Cripple Creek KOA is the highest KOA " +
-      "in the world. It is always cool (normal mid-June to mid-August highs " +
-      "70-80, normal lows 40-50 degrees Fahrenheit) and never humid. There are " +
-      "glorious sunsets with quiet, restful nights and fabulous star gazing . " +
-      "They have a Colorado high country setting, a peaceful mountain location " +
-      "bordering BLM forest land.\nThe Cripple Creek / Victor area is full of " +
-      "things to do:\n\nMollie Kathleen Gold Mine\nLive entertainment at the Butte " +
-      "Theater\nSteam train ride between Cripple Creek and Victor\nFlorissant " +
-      "Fossil Beds National Monument\nCC/Victor Gold Mining Company which is a " +
-      "huge commercial gold reclamation operation\nCripple Creek Museum\nNearby " +
-      "horseback riding\nHiking up Trachyte Knob adjacent to the campground\n" +
-      "Fishing at Skaguay or Eleven Mile reservoirs\nNumerous casinos in Cripple " +
-      "Creek for your gambling pleasure,\nAnd it is always fun to look for the " +
-      "donkeys that have roamed around Cripple Creek for years.\n\nThe campground " +
-      "is located centrally to the Colorado Springs / Pike’s Peak area " +
-      "attractions as well as the Royal Gorge Country attractions, each area " +
-      "being 45 minutes to one hour away. Guests use us as a base-camp for " +
-      "going to these other areas. They can keep you busy for days! The staff " +
-      "is able to help with reservations for our guests at numerous Colorado " +
-      "Springs and Royal Gorge attractions, e.g. Colorado Springs/Manitou " +
-      "Springs Cog Railway, Flying W Ranch in Colorado Springs, Royal Gorge " +
-      "Route Train, Echo Canyon or other rafting companies in the Royal Gorge " +
-      "area.\nAt the campground, the RV sites are spacious pull-thrus with open, " +
-      "spectacular views of the high mountain countryside. Tent campers may " +
-      "choose a wilderness site in the aspen trees or a deluxe tent site that " +
-      "has a ramada cover, electricity and water. We have ten camping cabins " +
-      "and two camping lodges. They offer pancake breakfast service on " +
-      "Saturdays and Sundays from Memorial Day to Labor Day for an additional " +
-      "charge. There is a camping kitchen for use by our guests. They have a " +
-      "game room, volleyball and a playground. All of the sites have fire pits " +
-      "for great campfires on cool evenings. Children 6 years and younger are " +
-      "free and pets are welcome.\nLeave the hot weather behind! Join in for " +
-      "COOL weather in our serene mountain setting!",
+    "desc": "At 10,000 feet above sea level, the Cripple Creek KOA is the highest KOA in the world. It is always cool (normal mid-June to mid-August highs 70-80, normal lows 40-50 degrees Fahrenheit) and never humid. There are glorious sunsets with quiet, restful nights and fabulous star gazing . They have a Colorado high country setting, a peaceful mountain location bordering BLM forest land.\nThe Cripple Creek / Victor area is full of things to do:\n\nMollie Kathleen Gold Mine\nLive entertainment at the Butte Theater\nSteam train ride between Cripple Creek and Victor\nFlorissant Fossil Beds National Monument\nCC/Victor Gold Mining Company which is a huge commercial gold reclamation operation\nCripple Creek Museum\nNearby horseback riding\nHiking up Trachyte Knob adjacent to the campground\nFishing at Skaguay or Eleven Mile reservoirs\nNumerous casinos in Cripple Creek for your gambling pleasure,\nAnd it is always fun to look for the donkeys that have roamed around Cripple Creek for years.\n\nThe campground is located centrally to the Colorado Springs / Pike’s Peak area attractions as well as the Royal Gorge Country attractions, each area being 45 minutes to one hour away. Guests use us as a base-camp for going to these other areas. They can keep you busy for days! The staff is able to help with reservations for our guests at numerous Colorado Springs and Royal Gorge attractions, e.g. Colorado Springs/Manitou Springs Cog Railway, Flying W Ranch in Colorado Springs, Royal Gorge Route Train, Echo Canyon or other rafting companies in the Royal Gorge area.\nAt the campground, the RV sites are spacious pull-thrus with open, spectacular views of the high mountain countryside. Tent campers may choose a wilderness site in the aspen trees or a deluxe tent site that has a ramada cover, electricity and water. We have ten camping cabins and two camping lodges. They offer pancake breakfast service on Saturdays and Sundays from Memorial Day to Labor Day for an additional charge. There is a camping kitchen for use by our guests. They have a game room, volleyball and a playground. All of the sites have fire pits for great campfires on cool evenings. Children 6 years and younger are free and pets are welcome.\nLeave the hot weather behind! Join in for COOL weather in our serene mountain setting!",
     "numberTentSites": "Tent Sites: 21",
     "numberRvSites": "RV Sites: 54",
     "RvSiteInfo": [
@@ -857,18 +809,18 @@
       "Full Hookup Sites: 32",
       "Double Slide-out Sites: 54"
     ],
-    numberOtherLodging: "Other Lodging: 12",
-    otherLodgingInfo: [
+    "numberOtherLodging": "Other Lodging: 12",
+    "otherLodgingInfo": [
       "Types: camping cabins and deluxe cabins (deluxe includes satellite TV)"
     ],
-    photos: [
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/CrippleCreekKOA.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/CrippleCreekKOA1.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/CrippleCreekKOA2.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/CrippleCreekKOA3.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/CrippleCreekKOA4.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -881,13 +833,16 @@
       "Playground",
       "Bike rentals"
     ],
-    propertyNearbyActivities: [ "Gaming / casino", "Hiking / nature trails" ]
+    "propertyNearbyActivities": [ 
+      "Gaming / casino", 
+      "Hiking / nature trails" 
+    ]
   },
   {
     "title": "Cutty’s Hayden Creek Resort",
     "address": "3428 Hayden Creek RdCoaldale, CO 81222",
     "phone": "719-942-4222",
-    "desc": "",
+    "desc": "Cutty’s Hayden Creek Resort of 157 acres is tucked away in the San Isabel National Forest in central Colorado’s Rocky Mountains. It’s approx. 2 hours SW of Colorado Springs and 1 hour from world-famous Royal Gorge Bridge and Park \nNo matter if you’re looking to bring your RV, host your reunion in a beautiful town surrounded by forest, or simply get away with the family and stay in one of our luxurious cabins, we’ve got something for everyone. \nHundreds of miles are available for horseback riding, whitewater rafting, or four-wheeling.",
     "numberTentSites": "Tent Sites: 38",
     "numberRvSites": "RV Sites: 130",
     "RvSiteInfo": [
@@ -895,11 +850,11 @@
       "Max RV Length: 45 ft",
       "Pull Through Sites: 90"
     ],
-    numberOtherLodging: "Other Lodging: 20",
-    otherLodgingInfo: [
+    "numberOtherLodging": "Other Lodging: 20",
+    "otherLodgingInfo": [
       "Types: Cabins; PopUp Trailer – Sleeps 6; Retro Trailer - Sleeps 4"
     ],
-    photos: [
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/cuttys_hayden_creek_image_3.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/cuttys_hayden_creek_image_4.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/cuttys_hayden_creek_image_6.jpg?resize=150%2C150&ssl=1",
@@ -908,7 +863,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/cuttys_hayden_creek_image_12.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/cuttys_hayden_creek_image_10-1.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -921,7 +876,7 @@
       "Pool - outdoor",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Horse facility",
       "ATV / 4-wheeling",
       "Fishing",
@@ -933,15 +888,7 @@
     "title": "Dolores River Campground",
     "address": "18680 Highway 145, Dolores, CO 81323",
     "phone": "970-882-7761",
-    "desc": "The Dolores River Campground is a beautiful, tree-filled campground that " +
-      "provides a true Colorado get-away. They’re located in Dolores Colorado, " +
-      "on the San Juan Skyway, with the scenic Dolores River running through " +
-      "the campground. In addition to great fly-fishing on the river, they also " +
-      "have an on-site fishing pond.\nGlamping is alive and well at Dolores " +
-      "River Campground. You can choose between renting a covered wagon or a " +
-      "yurt, or both … or multiples of each! Bring the extended family. Bring " +
-      "your friends. Glamping provides for the overflow of what your RV can " +
-      "handle.",
+    "desc": "The Dolores River Campground is a beautiful, tree-filled campground that provides a true Colorado get-away. They’re located in Dolores Colorado, on the San Juan Skyway, with the scenic Dolores River running through the campground. In addition to great fly-fishing on the river, they also have an on-site fishing pond.\nGlamping is alive and well at Dolores River Campground. You can choose between renting a covered wagon or a yurt, or both … or multiples of each! Bring the extended family. Bring your friends. Glamping provides for the overflow of what your RV can handle.",
     "numberTentSites": "Tent Sites: 10",
     "numberRvSites": "RV Sites: 76",
     "RvSiteInfo": [
@@ -951,13 +898,11 @@
       "Full Hookup Sites: 75",
       "Double Slide-out Sites: 76"
     ],
-    numberOtherLodging: "Other Lodging: 15",
-    otherLodgingInfo: [
-      "Types: Cabins, glamping yurts and covered " +
-        "wagons, retro travel trailers, cluster " +
-        "cabins"
+    "numberOtherLodging": "Other Lodging: 15",
+    "otherLodgingInfo": [
+      "Types: Cabins, glamping yurts and covered wagons, retro travel trailers, cluster cabins"
     ],
-    photos: [
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DoloresRiverCg.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN9205.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/Cabin.jpg?resize=150%2C150&ssl=1",
@@ -978,7 +923,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN9217.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN9223.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Cable TV",
       "Restrooms",
@@ -993,7 +938,7 @@
       "Fishing",
       "Canoeing / kayaking"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Dump station",
       "Café / restaurant",
       "Golfing",
@@ -1008,11 +953,7 @@
     "title": "Elk Creek Campground & RV Park",
     "address": "143 Co Rd 48, Grand Lake, CO 80447",
     "phone": "970-627-8502",
-    "desc": "Family-friendly camping with sparkling clean facilities. Located 1 " +
-      "mile from both the west entrance of the Rocky Mountain National Park " +
-      "and the town of Grand Lake!\nRV sites, tent sites, camper cabins, and " +
-      "even a tipi. Personalized service and, above all, MOOSE sightings " +
-      "daily.",
+    "desc": "Family-friendly camping with sparkling clean facilities. Located 1 mile from both the west entrance of the Rocky Mountain National Park and the town of Grand Lake!\nRV sites, tent sites, camper cabins, and even a tipi. Personalized service and, above all, MOOSE sightings daily.",
     "numberTentSites": "Tent Sites: 13",
     "numberRvSites": "RV Sites: 50",
     "RvSiteInfo": [
@@ -1020,9 +961,9 @@
       "Full Hookup Sites: 16",
       "Double Slide-out Sites: 47"
     ],
-    numberOtherLodging: "Other Lodging: 15",
-    otherLodgingInfo: [ "Types: Cabins and a tipi (glamping)" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 15",
+    "otherLodgingInfo": [ "Types: Cabins and a tipi (glamping)" ],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN6918_0.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN6876_0.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN6877_0.jpg?resize=150%2C150&ssl=1",
@@ -1038,7 +979,7 @@
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/PicMonkey-Collage_0.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/Elk-Creek-Campground-tipip.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -1051,7 +992,7 @@
       "Playground",
       "Arcade / game room"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Mini golf",
       "Golfing",
       "ATV / 4-wheeling",
@@ -1067,7 +1008,7 @@
     "title": "Estes Park KOA",
     "address": "2051 Big Thompson Ave, Estes Park, CO 80517",
     "phone": "(970) 586-2888",
-    "desc": "",
+    "desc": "At 7,500 feet, this campground is an ideal base camp for exploring the town of Estes Park and Rocky Mountain National Park. During peak summer months, take a free shuttle to the town (1.5 miles away) to check out the quaint shops, festivals, art fairs and cowboy sing-alongs. \nSpend a day at the national park to appreciate its pristine wilderness, endless hiking trails and plenty of elk, moose and deer. Drive Trail Ridge Road for panoramic views from 12,000 feet. \nAcross the street from this KOA, you’ll find Lake Estes and the Big Thompson River. \nRent fishing gear, bikes and/or boats at the marina. \nGo horseback riding next door. Just down the road is a family fun park with mini golf, bumper cars or bumper boats and rock climbing. Enjoy on-site pancake breakfasts, ice cream socials and free marshmallow roasts. \nTheres free Wi-Fi, and the store is stocked with supplies and souvenirs. \nCamp in a tent, RV, Cabin or Deluxe Cabin.",
     "numberTentSites": "Tent Sites: 17",
     "numberRvSites": "RV Sites: 43",
     "RvSiteInfo": [
@@ -1075,9 +1016,9 @@
       "Max RV Length: 38 ft",
       "Full Hookup Sites: 23"
     ],
-    numberOtherLodging: "Other Lodging: 27",
-    otherLodgingInfo: [ "Types: Deluxe cabins & sleeping cabins" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 27",
+    "otherLodgingInfo": [ "Types: Deluxe cabins & sleeping cabins" ],
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN8375adjcrop.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN8331.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN8332.jpg?resize=150%2C150&ssl=1",
@@ -1107,7 +1048,7 @@
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/estes-park-koa.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/estes-koa4.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Satellite TV",
       "Restrooms",
@@ -1124,7 +1065,7 @@
       "Electric car charger",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Club / meeting room",
       "Café / restaurant",
       "Arcade / game room",
@@ -1146,16 +1087,7 @@
     "title": "Falcon Meadow RV Campground",
     "address": "11150 Hwy 24, Peyton, CO 80831",
     "phone": "719-495-2694",
-    "desc": "We are a small rural family campground on Colorado’s high plains, near " +
-      "Colorado Springs.\nOpen all year, Falcon Meadow RV Campground is located " +
-      "on US Hwy 24 about 15 miles east of downtown Colorado Springs and about " +
-      "a mile west of Falcon town center.\nThey have big, full hook-up pull " +
-      "thrus for the big rigs (20-30-50 amp) and tent sites large enough to " +
-      "spread out. The campground is at 6,800′ altitude, looking across the " +
-      "20,000 acre Banning-Lewis Ranch with Pikes Peak (14,110′ altitude) in " +
-      "the background.\nHappy camping and RVing.\n(Those traveling with horses:  " +
-      "There are limitations so contact the office before making a " +
-      "reservation.)",
+    "desc": "We are a small rural family campground on Colorado’s high plains, near Colorado Springs.\nOpen all year, Falcon Meadow RV Campground is located on US Hwy 24 about 15 miles east of downtown Colorado Springs and about a mile west of Falcon town center.\nThey have big, full hook-up pull thrus for the big rigs (20-30-50 amp) and tent sites large enough to spread out. The campground is at 6,800′ altitude, looking across the 20,000 acre Banning-Lewis Ranch with Pikes Peak (14,110′ altitude) in the background.\nHappy camping and RVing.\n(Those traveling with horses:  There are limitations so contact the office before making a reservation.)",
     "numberTentSites": "Tent Sites: 10",
     "numberRvSites": "RV Sites: 47",
     "RvSiteInfo": [
@@ -1165,9 +1097,9 @@
       "Full Hookup Sites: 45",
       "Double Slide-out Sites: 47"
     ],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "numberOtherLodging": "",
+    "otherLodgingInfo": [],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/FALCON-MEADOW-2.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/falcon-meadow-a.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/FALCON-MEADOW-4.jpg?resize=150%2C150&ssl=1",
@@ -1178,7 +1110,7 @@
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/falcon_meadow_image_1.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/Falcon2.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -1189,30 +1121,22 @@
       "Laundry",
       "Playground"
     ],
-    propertyNearbyActivities: [ "Golfing", "Hiking / nature trails" ]
+    "propertyNearbyActivities": [ "Golfing", "Hiking / nature trails" ]
   },
   {
     "title": "Fireside Cabins and RV Park",
     "address": "6850 W US HWY 34 Loveland CO 80537",
     "phone": "(970) 667-2903",
-    "desc": "Located just west of Loveland Colorado, make Fireside Cabins and RV Park " +
-      "your resting place for exploring the Rocky Mountains! Fireside is only a " +
-      "short distance from the picturesque Rocky Mountain National Park and the " +
-      "Big Thompson Canyon. No matter what time of year you visit the area, you " +
-      "will find activities and recreation to please the whole family. Golfing, " +
-      "fishing, river rafting, hiking, mountain biking, and shopping are all " +
-      "within an easy drive.\nThey are 45 minutes from the beauty of Estes Park " +
-      "and 10 minutes from Loveland’s sightseeing, shopping and numerous " +
-      "activities and 15 or 20 minutes from the Fort Collins area. Cheyenne and " +
-      "Denver are about an hour’s drive from Loveland on I-25.\nUrban Campground " +
-      "catering to the long-term RVers plus they have cozy kitchenettes and " +
-      "non-kitchenettes as well available for long term from Oct 1 – May 1.",
-    "numberTentSites": "RV Sites: 35",
-    "numberRvSites": "",
-    "RvSiteInfo": [],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "desc": "Located just west of Loveland Colorado, make Fireside Cabins and RV Park your resting place for exploring the Rocky Mountains! Fireside is only a short distance from the picturesque Rocky Mountain National Park and the Big Thompson Canyon. No matter what time of year you visit the area, you will find activities and recreation to please the whole family. Golfing, fishing, river rafting, hiking, mountain biking, and shopping are all within an easy drive.\nThey are 45 minutes from the beauty of Estes Park and 10 minutes from Loveland’s sightseeing, shopping and numerous activities and 15 or 20 minutes from the Fort Collins area. Cheyenne and Denver are about an hour’s drive from Loveland on I-25.\nUrban Campground catering to the long-term RVers plus they have cozy kitchenettes and non-kitchenettes as well available for long term from Oct 1 – May 1.",
+    "numberTentSites": "",
+    "numberRvSites": "RV Sites: 35",
+    "RvSiteInfo": [
+      "Amps: 30, 50",
+      "Max RV Length: 40 ft",
+      "Full Hookup Sites: 35"],
+    "numberOtherLodging": "Other Lodging: 8",
+    "otherLodgingInfo": ["Types: Cabins (4 with kitchettes, 4 without)"],
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN7327.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN7339.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN7342-1.jpg?resize=150%2C150&ssl=1",
@@ -1220,14 +1144,14 @@
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/fire3.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/fire7.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Cable TV",
       "Restrooms",
       "Showers",
       "Laundry"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Firewood",
       "Club / meeting room",
       "Pavilion area",
@@ -1250,21 +1174,31 @@
     "title": "Foot of the Rockies RV Resort & Storage",
     "address": "53 Resort Point Colorado Springs CO 80905",
     "phone": "719-447-0670",
-    "desc": "",
-    "numberTentSites": "RV Sites: 64",
-    "numberRvSites": "",
-    "RvSiteInfo": [],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "desc": "Nestled at the foot of the Rocky Mountains, Foot of the Rockies RV Resort and Storage offers an outstanding location to discover Colorado Springs and all its attractions. \nA few reasons to camp with us: Entrancing city lights by night! Close to all major area attractions! Oversized RV lots to accommodate your 4-slide or 45 ft. motor home. Groups are welcome. \nPet friendly. Quiet, clean park. Weekly, monthly, daily rates! Extended stays welcome. \nI-25 • Hwy. 24 easy access. \nClose to hospitals, schools, colleges, and sports complexes. 50/30/20 amp pads. City water and sewer. Laundry facility! Free wifi! Camp host on site! Cabins to rent.",
+    "numberTentSites": "",
+    "numberRvSites": "RV Sites: 64",
+    "RvSiteInfo": [
+      "Amps: 20, 30, 50",
+      "Max RV Length: 50 ft",
+      "Full Hookup Sites: 64",
+      "Double Slide-out Sites: 64"
+    ],
+    "numberOtherLodging": "Other Lodging: 4",
+    "otherLodgingInfo": ["Types: Cabins"],
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN7835adj.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN7839cropped.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN7832.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN7840_0.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN7841_0.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [ "Internet / Wifi", "Dump station", "Laundry", "Playground" ],
-    propertyNearbyActivities: [
+    "propertyAmenities": [ 
+      "Internet / Wifi", 
+      "Dump station", 
+      "Laundry", 
+      "Playground" 
+    ],
+    "propertyNearbyActivities": [
       "LP bottle exchange",
       "LP for RVs",
       "LP for portables",
@@ -1276,15 +1210,18 @@
     "title": "Garden of the Gods RV Resort",
     "address": "Pikes Peak Way, Manitou Springs, CO 80829",
     "phone": "719-475-9450",
-    "desc": "",
+    "desc": "With spectacular views of Pikes Peak, “America’s Mountain.” Our location among Colorado’s historical mountain towns will make your camping experience in Colorado Springs truly memorable. Adding to this, we’ve upgraded to give you the modern comforts. Ideal for outdoor enthusiasts, families, rallies, and even individuals who want to “disconnect” and explore the picturesque surroundings of Garden of the Gods. \nCentrally located to many of Pikes Peak Regional attractions, Garden of the Gods RV Resort offers not only RV sites but bunkhouses, cottages and suites that can accommodate from 2 to 6 people.  New additions to our property are Tumbleweed Tiny Houses and for 2016 brand new Escape Cottages.  Prices range so please call for more information.",
     "numberTentSites": "Tent Sites: 19",
     "numberRvSites": "RV Sites: 176",
-    "RvSiteInfo": [ "Amps: 30, 50", "Max RV Length: 75 ft" ],
-    numberOtherLodging: "Other Lodging: 29",
-    otherLodgingInfo: [
+    "RvSiteInfo": [ 
+      "Amps: 30, 50", 
+      "Max RV Length: 75 ft" 
+    ],
+    "numberOtherLodging": "Other Lodging: 29",
+    "otherLodgingInfo": [
       "Types: Cabins, tiny homes, bunkhouses, garden cottages and suites"
     ],
-    photos: [
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/garden_of_the_gods_rv_resort_image_2.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/garden-of-the-gods1.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/garden-of-the-gods2.jpg?resize=150%2C150&ssl=1",
@@ -1294,7 +1231,7 @@
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/garden_of_the_gods_rv_resort_image_7.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/GoGRentalTinyHome.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Cable TV",
       "Restrooms",
@@ -1307,7 +1244,7 @@
       "Arcade / game room",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Internet / Wifi",
       "Satellite TV",
       "LP for RVs",
@@ -1321,7 +1258,7 @@
     "title": "Glenwood Canyon Resort",
     "address": "1308 County Road 129 Glenwood Springs CO 81601",
     "phone": "970-945-6737",
-    "desc": "",
+    "desc": "Tucked away in majestic Glenwood Canyon on the mighty Colorado River, Glenwood Canyon Resort is conveniently located on I- 70 just minutes from the world famous Glenwood Springs Hot Springs Pool and the very popular Hanging Lake Trail. Central to some of the best skiing in the world and right next to the Glenwood Canyon bike trail. Open year ’round. Diverse lodging types to meet your every need. Fabulous new event center complete with grand room, meeting facilities, and bar and grill. On-site activities. Glenwood Canyon Resort is your perfect Rocky Mountain base camp.",
     "numberTentSites": "Tent Sites: 26",
     "numberRvSites": "RV Sites: 49",
     "RvSiteInfo": [
@@ -1330,9 +1267,9 @@
       "Full Hookup Sites: 26",
       "Double Slide-out Sites: 26"
     ],
-    numberOtherLodging: "Other Lodging: 40",
-    otherLodgingInfo: [ "Types: Cabins" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 40",
+    "otherLodgingInfo": [ "Types: Cabins" ],
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/glenwood-canyon3.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/glenwood-canyon5.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/glenwood-canyon7.jpg?resize=150%2C150&ssl=1",
@@ -1342,7 +1279,7 @@
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/glenwood_canyon_image_4.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/glenwood_canyon_image_5.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Satellite TV",
       "Restrooms",
@@ -1360,7 +1297,7 @@
       "River rafting",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "LP bottle exchange",
       "LP for RVs",
       "Golfing",
@@ -1375,13 +1312,19 @@
     "title": "Golden Eagle Campground",
     "address": "710 Rock Creek Canyon Rd Colorado Springs CO 80926",
     "phone": "(719) 576-0450",
-    "desc": "",
-    "numberTentSites": "RV Sites: 155",
-    "numberRvSites": "",
-    "RvSiteInfo": [],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "desc": "The May family welcomes you to their beautiful ranch — 5-mile hiking trail, lakes for fishing, beautiful wildflowers, mountain vistas, and a wide variety of wildlife. This destination campground offers easy access to the many wonderful attractions of the Pikes Peak region. Large, shaded FHU pull-thrus; tenting; campfires; laundry; internet access; and a group area.",
+    "numberTentSites": "",
+    "numberRvSites": "RV Sites: 155",
+    "RvSiteInfo": [
+      "Amps: 20, 30, 50",
+      "Max RV Length: 50 ft",
+      "Pull Through Sites: 85",
+      "Full Hookup Sites: 96",
+      "Double Slide-out Sites: 70"
+    ],
+    "numberOtherLodging": "",
+    "otherLodgingInfo": [],
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/golden_eagle_campground_image_6.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/golden-eagle-1.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/golden-eagle-4.jpg?resize=150%2C150&ssl=1",
@@ -1391,7 +1334,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/golden_eagle_campground_image_7.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/golden_eagle_campground_image_10.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -1406,7 +1349,7 @@
       "Hiking / nature trails",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Cable TV",
       "Satellite TV",
       "LP bottle exchange",
@@ -1438,15 +1381,7 @@
     "title": "Goldfield RV Park",
     "address": "411 S 26th St Colorado Springs CO 80904",
     "phone": "888-471-0495",
-    "desc": "Goldfield RV Park gives you full access to the best of Colorado " +
-      "Springs, all year long. Our ideal location between Colorado City " +
-      "and Manitou Springs will make your visit one of a kind. We take " +
-      "pride in offering you a wide selection of site types along with the " +
-      "best rental rates in town. Our knowledgeable staff continuously " +
-      "strives to accommodate all your needs and feels privileged to be " +
-      "able to share their passion for Colorado with you. Whether you plan " +
-      "on staying just one night or all week long, we look forward to " +
-      "having you!",
+    "desc": "Goldfield RV Park gives you full access to the best of Colorado Springs, all year long. Our ideal location between Colorado City and Manitou Springs will make your visit one of a kind. We take pride in offering you a wide selection of site types along with the best rental rates in town. Our knowledgeable staff continuously strives to accommodate all your needs and feels privileged to be able to share their passion for Colorado with you. Whether you plan on staying just one night or all week long, we look forward to having you!",
     "numberTentSites": "Tent Sites: 5",
     "numberRvSites": "RV Sites: 52",
     "RvSiteInfo": [
@@ -1456,9 +1391,9 @@
       "Full Hookup Sites: 52",
       "Double Slide-out Sites: 10"
     ],
-    numberOtherLodging: "Other Lodging: 3",
-    otherLodgingInfo: [ "Types: Cabins" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 3",
+    "otherLodgingInfo": [ "Types: Cabins" ],
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/goldfield-1.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/goldfield-2.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/goldfield-3.jpg?resize=150%2C150&ssl=1",
@@ -1467,7 +1402,7 @@
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/goldfield_image_4.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/goldfield_image_5.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Satellite TV",
       "Restrooms",
@@ -1475,7 +1410,7 @@
       "Dump station",
       "Laundry"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "LP bottle exchange",
       "LP for RVs",
       "LP for portables",
@@ -1497,19 +1432,19 @@
     "title": "Greeley RV Park & Campground",
     "address": "501 E. 27th St. Greeley CO 80631",
     "phone": "970-353-6476",
-    "desc": "We’ve got everything you need…\n\nDaily/Weekly/Monthly sites\n" +
-      "60-ft Full hook-up pull through sites\nPersonal Unisex Shower " +
-      "Room\nLaundromat\nExercise Facility\nFree Wireless Internet\n" +
-      "General Store\nArcade Games\nFree Video Rental\nPets Allowed " +
-      "(some restrictions)\nMetered propane on long-term sites " +
-      "(limited quantity)\nWe also fill propane bottles (we can’t fill " +
-      "motorhome tanks)",
-    "numberTentSites": "RV Sites: 96",
-    "numberRvSites": "",
-    "RvSiteInfo": [],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "desc": "We’ve got everything you need…\n\nDaily/Weekly/Monthly sites\n60-ft Full hook-up pull through sites\nPersonal Unisex Shower Room\nLaundromat\nExercise Facility\nFree Wireless Internet\nGeneral Store\nArcade Games\nFree Video Rental\nPets Allowed (some restrictions)\nMetered propane on long-term sites (limited quantity)\nWe also fill propane bottles (we can’t fill motorhome tanks)",
+    "numberTentSites": "",
+    "numberRvSites": "RV Sites: 96",
+    "RvSiteInfo": [
+      "Amps: 20, 30, 50",
+      "Max RV Length: 60 ft",
+      "Pull Through Sites: 89",
+      "Full Hookup Sites: 96",
+      "Double Slide-out Sites: 96"
+    ],
+    "numberOtherLodging": "",
+    "otherLodgingInfo": [],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/13417517_1123715574336937_3338773210940895988_n.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/greeley_rv_park_image_5.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/greeley-rv-c.jpg?resize=150%2C150&ssl=1",
@@ -1518,20 +1453,20 @@
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/greeley_rv_park_image_3.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/greeley_rv_park_image_4.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Restrooms",
       "Showers",
       "LP for portables",
       "Laundry",
       "Arcade / game room"
     ],
-    propertyNearbyActivities: [ "LP bottle exchange", "LP for RVs" ]
+    "propertyNearbyActivities": [ "LP bottle exchange", "LP for RVs" ]
   },
   {
     "title": "Gunnison Lakeside RV Park & Cabins",
     "address": "28357 US-50, Gunnison, CO 81230",
     "phone": "970-641-0477",
-    "desc": "",
+    "desc": "Just 12 miles west of Gunnison, Colorado, Gunnison Lakeside RV Park & Cabins overlooks Blue Mesa Reservoir, Colorado’s largest Kokanee salmon fishery and the site where the state record Mackinaw was caught. Offering lake views and high country scenery, we are close to the Black Canyon of the Gunnison and share a border with Curecanti National Recreation Area. All FHU sites , plus wifi, propane, groceries, gifts, tackle, and more.",
     "numberTentSites": "Tent Sites: 4",
     "numberRvSites": "RV Sites: 66",
     "RvSiteInfo": [
@@ -1541,9 +1476,9 @@
       "Full Hookup Sites: 68",
       "Double Slide-out Sites: 68"
     ],
-    numberOtherLodging: "Other Lodging: 8",
-    otherLodgingInfo: [ "Types: cabins, 30" travel trailer with two slides, & bunkroom" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 8",
+    "otherLodgingInfo": [ "Types: cabins, 30' travel trailer with two slides, & bunkroom" ],
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/MG_9273.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/Gunnison-4.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/Gunnison-1.jpg?resize=150%2C150&ssl=1",
@@ -1565,7 +1500,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/IMGP1778.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/IMGP1780.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Satellite TV",
       "Restrooms",
@@ -1577,7 +1512,7 @@
       "Pavilion area",
       "Playground"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Golfing",
       "Horse facility",
       "ATV / 4-wheeling",
@@ -1594,7 +1529,7 @@
     "title": "Highlander RV Campground",
     "address": "1245 County Road 30Lake City, CO 81235",
     "phone": "970-944-2878",
-    "desc": "",
+    "desc": "We are located at the base of Hotchkiss Mountain just north of Lake San Cristobal with stunning views of Slumgullion Pass.  We have an on-site hiking trail and drive-off ATV access onto the Alpine Loop. Sites include full hook-ups, campfire ring, picnic table and free use of the pavilion.  Propane, RV Supplies, Public Laundry, Showers and Jeep Rentals available for guests and non-guests. \nHighlander RV Campground invites you to experience the best that Colorado has to offer.",
     "numberTentSites": "Tent Sites: 5",
     "numberRvSites": "RV Sites: 21",
     "RvSiteInfo": [
@@ -1604,9 +1539,9 @@
       "Full Hookup Sites: 26",
       "Double Slide-out Sites: 26"
     ],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "numberOtherLodging": "",
+    "otherLodgingInfo": [],
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/Facility-1.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/Campground.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/Cookout.jpg?resize=150%2C150&ssl=1",
@@ -1616,7 +1551,7 @@
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/RV_1.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/Wildlife.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -1628,7 +1563,7 @@
       "ATV / 4-wheeling",
       "Hiking / nature trails"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Dump station",
       "Café / restaurant",
       "Mini golf",
@@ -1644,13 +1579,7 @@
     "title": "Jellystone Park Larkspur",
     "address": "Jellystone Park at Larkspur 650 Sky View Lane Larkspur CO 80118",
     "phone": "720-325-2393",
-    "desc": "Jellystone Park™ Larkspur is a Yogi Bear™ themed, family-oriented, " +
-      "pet-friendly private RV park and campground.\nLocated half-way " +
-      "between Denver and Colorado Springs (north of Monument and south of " +
-      "Castle Rock) we have easy access to the best Colorado has to offer!\n" +
-      "Camping choices include RV sites, tent camping, tipis, glamping " +
-      "yurts, cabins and cottages, so consider them even for vacation " +
-      "rental options.",
+    "desc": "Jellystone Park™ Larkspur is a Yogi Bear™ themed, family-oriented, pet-friendly private RV park and campground.\nLocated half-way between Denver and Colorado Springs (north of Monument and south of Castle Rock) we have easy access to the best Colorado has to offer!\nCamping choices include RV sites, tent camping, tipis, glamping yurts, cabins and cottages, so consider them even for vacation rental options.",
     "numberTentSites": "Tent Sites: 25",
     "numberRvSites": "RV Sites: 98",
     "RvSiteInfo": [
@@ -1660,13 +1589,11 @@
       "Full Hookup Sites: 49",
       "Double Slide-out Sites: 18"
     ],
-    numberOtherLodging: "Other Lodging: 24",
-    otherLodgingInfo: [
-      "Types: Vacation rental cabins, " +
-        "cottages, glamping yurts and tepees " +
-        "(tipis)"
+    "numberOtherLodging": "Other Lodging: 24",
+    "otherLodgingInfo": [
+      "Types: Vacation rental cabins, cottages, glamping yurts and tepees (tipis)"
     ],
-    photos: [
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/jellystone_larkspur_image_8.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/jellystone-larkspur5.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/jellystone-larkspur6.jpg?resize=150%2C150&ssl=1",
@@ -1678,7 +1605,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/jellystone_larkspur_image_11.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/jellystone_larkspur_image_12.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -1693,7 +1620,7 @@
       "Pool - outdoor",
       "Hiking / nature trails"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Cable TV",
       "Satellite TV",
       "Club / meeting room",
@@ -1723,26 +1650,7 @@
     "title": "Jellystone Park of Estes",
     "address": "5495 US-36, Estes Park, CO 80517",
     "phone": "970-586-4230",
-    "desc": "Located just minutes from the beautiful valley town of Estes Park, " +
-      "Colorado is our Yogi Bear’s Jellystone ParkTM of Estes Campground. " +
-      "Situated in the midst of the Colorado Rockies and the Roosevelt National " +
-      "Forest, Jellystone ParkTM of Estes is the perfect Campground and RV Park " +
-      "for your family to explore nature at its best! Yogi is sometimes spotted " +
-      "wandering through our Estes Park Campground, as you take in the " +
-      "awe-inspiring views surrounding this amazing family Campground. Your " +
-      "family is sure to enjoy nature at its best and the stars as you settle " +
-      "in for an evening of story telling and S’mores by the campfire. A " +
-      "perfect pastime to end a day of family fun & activities. Our Estes park " +
-      "campground presents the very best in camping for the entire family. We " +
-      "are excited to see you soon!\nBring your family and your friends to our " +
-      "beautiful Estes Park Campground! Join in the fun! Relax as you surround " +
-      "yourself in Colorado Rocky Mountain nature or join in our planned " +
-      "activities for “kids” of all ages. See our Activity schedule on the " +
-      "events calendar. Make your Reservations early so you don’t miss out on " +
-      "all the fun! Jellystone ParkTM of Estes has amenities to please: RV & " +
-      "Estes Park Camping sites, Cabins… a heated pool, mini golf, game room, " +
-      "pavilion, and a well stocked store with essentials you may have " +
-      "forgotten and Yogi souvenirs too!",
+    "desc": "Located just minutes from the beautiful valley town of Estes Park, Colorado is our Yogi Bear’s Jellystone ParkTM of Estes Campground. Situated in the midst of the Colorado Rockies and the Roosevelt National Forest, Jellystone ParkTM of Estes is the perfect Campground and RV Park for your family to explore nature at its best! Yogi is sometimes spotted wandering through our Estes Park Campground, as you take in the awe-inspiring views surrounding this amazing family Campground. Your family is sure to enjoy nature at its best and the stars as you settle in for an evening of story telling and S’mores by the campfire. A perfect pastime to end a day of family fun & activities. Our Estes park campground presents the very best in camping for the entire family. We are excited to see you soon!\nBring your family and your friends to our beautiful Estes Park Campground! Join in the fun! Relax as you surround yourself in Colorado Rocky Mountain nature or join in our planned activities for “kids” of all ages. See our Activity schedule on the events calendar. Make your Reservations early so you don’t miss out on all the fun! Jellystone ParkTM of Estes has amenities to please: RV & Estes Park Camping sites, Cabins… a heated pool, mini golf, game room, pavilion, and a well stocked store with essentials you may have forgotten and Yogi souvenirs too!",
     "numberTentSites": "Tent Sites: 13",
     "numberRvSites": "RV Sites: 66",
     "RvSiteInfo": [
@@ -1751,9 +1659,9 @@
       "Full Hookup Sites: 30",
       "Double Slide-out Sites: 5"
     ],
-    numberOtherLodging: "Other Lodging: 25",
-    otherLodgingInfo: [ "Types: Cabins - Park Models - RV Rentals" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 25",
+    "otherLodgingInfo": [ "Types: Cabins - Park Models - RV Rentals" ],
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN1759.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/estes-park-5.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/yogi-estes-1.jpg?resize=150%2C150&ssl=1",
@@ -1761,7 +1669,7 @@
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/yogi-estes-park-mini-golf.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/yogi-estes-park.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -1778,7 +1686,7 @@
       "Pool - outdoor",
       "Hiking / nature trails"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Golfing",
       "Pool - indoor",
       "Horse facility",
@@ -1796,7 +1704,7 @@
     "title": "Jellystone Park of the Black Canyon",
     "address": "22045 South Highway 550 Montrose CO 81403",
     "phone": "970-249-6382",
-    "desc": "",
+    "desc": "Jellystone Park™ Larkspur is a Yogi Bear™ themed, family-oriented, pet-friendly private RV park and campground. \nLocated half-way between Denver and Colorado Springs (north of Monument and south of Castle Rock) we have easy access to the best Colorado has to offer! \nCamping choices include RV sites, tent camping, tipis, glamping yurts, cabins and cottages, so consider them even for vacation rental options.",
     "numberTentSites": "Tent Sites: 10",
     "numberRvSites": "RV Sites: 126",
     "RvSiteInfo": [
@@ -1806,9 +1714,9 @@
       "Full Hookup Sites: 140",
       "Double Slide-out Sites: 140"
     ],
-    numberOtherLodging: "Other Lodging: 11",
-    otherLodgingInfo: [ "Types: Cabins and a travel trailer" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 11",
+    "otherLodgingInfo": [ "Types: Cabins and a travel trailer" ],
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN2496.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/1a-1.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/jelleystone_black_canyon_map.jpg?resize=150%2C150&ssl=1",
@@ -1820,7 +1728,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/yogi-canyon2.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/yogi-canyon4.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -1837,26 +1745,16 @@
       "Hot tub / spa",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [ "ATV / 4-wheeling", "Biking trails", "Fishing" ]
+    "propertyNearbyActivities": [ 
+      "ATV / 4-wheeling", 
+      "Biking trails", 
+      "Fishing" ]
   },
   {
     "title": "Junction West RV Park",
     "address": "793 22 Road Grand Junction CO 81505",
     "phone": "970-245-8531",
-    "desc": "Come. Stay. Explore. Rest for the night or explore the spectacular " +
-      "natural and cultural attractions of Grand Junction. Enjoy the " +
-      "spotless bathrooms/showers, climate controlled laundry room, free " +
-      "high-speed WiFi, the playground, splash pad, pet area, and more.\nRV " +
-      "Sites:  The extra wide, pull-through sites have full hook-ups, " +
-      "picnic tables, and plenty of room for slide-outs and tow vehicles.\n" +
-      "Tent Sites:  Yes, tent camping is allowed, and the guests rave about " +
-      "having the grass!\nVacation Rental Options:  There are 2 units, fully " +
-      "furnished; a tiny house and a cabin. Just bring your own linens, " +
-      "food and personal items. You’ll find comfortable beds, dishes, pots " +
-      "and pans, and appliances ready for you.\nJunction West RV Park is " +
-      "conveniently located on the west side of Grand Junction Colorado, " +
-      "halfway between Salt Lake City, and Denver.\nCome and stay for a " +
-      "night or for awhile!",
+    "desc": "Come. Stay. Explore. Rest for the night or explore the spectacular natural and cultural attractions of Grand Junction. Enjoy the spotless bathrooms/showers, climate controlled laundry room, free high-speed WiFi, the playground, splash pad, pet area, and more.\nRV Sites:  The extra wide, pull-through sites have full hook-ups, picnic tables, and plenty of room for slide-outs and tow vehicles.\nTent Sites:  Yes, tent camping is allowed, and the guests rave about having the grass!\nVacation Rental Options:  There are 2 units, fully furnished; a tiny house and a cabin. Just bring your own linens, food and personal items. You’ll find comfortable beds, dishes, pots and pans, and appliances ready for you.\nJunction West RV Park is conveniently located on the west side of Grand Junction Colorado, halfway between Salt Lake City, and Denver.\nCome and stay for a night or for awhile!",
     "numberTentSites": "Tent Sites: 8",
     "numberRvSites": "RV Sites: 64",
     "RvSiteInfo": [
@@ -1866,9 +1764,9 @@
       "Full Hookup Sites: 64",
       "Double Slide-out Sites: 63"
     ],
-    numberOtherLodging: "Other Lodging: 2",
-    otherLodgingInfo: [ "Types: Tiny House; Cabin" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 2",
+    "otherLodgingInfo": [ "Types: Tiny House; Cabin" ],
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/junction-west1.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/junction_west_image_2a.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/junction-west-3.jpg?resize=150%2C150&ssl=1",
@@ -1900,7 +1798,7 @@
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN9746.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/JW.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Cable TV",
       "Satellite TV",
@@ -1916,7 +1814,7 @@
       "Sprinkler / spray area",
       "Electric car charger"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "LP bottle exchange",
       "Café / restaurant",
       "Mini golf",
@@ -1935,17 +1833,7 @@
     "title": "Kebler Corner RV Park, Campground & Cabins",
     "address": "30682  County Road 12Somerset, CO 81434",
     "phone": "(970) 929-5029",
-    "desc": "Looking to get away and unplug? Kebler Corner is where you can " +
-      "unwind in convenient accommodations. They offer an array of eight " +
-      "tiny-home style cabins, full RV hook-ups and primitive tent sites. " +
-      "Enjoy the breathtaking views with a variety of on-site amenities " +
-      "including river access, fishing and wi-fi access.\nKebler Corner also " +
-      "allows guests to easily visit state parks and area tourist " +
-      "attractions. Relax at the campground or explore the nearby " +
-      "destinations that are ideal for hiking, kayaking, rafting, biking, " +
-      "wine tasting, fruit picking, hunting and so much more. If you are " +
-      "looking for a memorable vacation experience in the Rocky Mountains " +
-      "of Colorado – look no further!",
+    "desc": "Looking to get away and unplug? Kebler Corner is where you can unwind in convenient accommodations. They offer an array of eight tiny-home style cabins, full RV hook-ups and primitive tent sites. Enjoy the breathtaking views with a variety of on-site amenities including river access, fishing and wi-fi access.\nKebler Corner also allows guests to easily visit state parks and area tourist attractions. Relax at the campground or explore the nearby destinations that are ideal for hiking, kayaking, rafting, biking, wine tasting, fruit picking, hunting and so much more. If you are looking for a memorable vacation experience in the Rocky Mountains of Colorado – look no further!",
     "numberTentSites": "Tent Sites: 20",
     "numberRvSites": "RV Sites: 23",
     "RvSiteInfo": [
@@ -1954,9 +1842,9 @@
       "Full Hookup Sites: 23",
       "Double Slide-out Sites: 23"
     ],
-    numberOtherLodging: "Other Lodging: 11",
-    otherLodgingInfo: [ "Types: Cabins" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 11",
+    "otherLodgingInfo": [ "Types: Cabins" ],
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/24068243_305053460009233_3989959872325752782_n.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN9695.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/24068046_305053513342561_8857685064600113527_n.jpg?resize=150%2C150&ssl=1",
@@ -1982,7 +1870,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN9686.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN9692.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -1993,7 +1881,7 @@
       "Horse facility",
       "Fishing"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Pool - outdoor",
       "Hot tub / spa",
       "ATV / 4-wheeling",
@@ -2009,26 +1897,21 @@
     "title": "Lake John Resort",
     "address": "2521 Jackson County Rd 7AWalden, CO 80480",
     "phone": "970.723.3226",
-    "desc": "Family-friendly, rural RV park in a quite setting. … Lake John Resort " +
-      "(Walden, Colorado) is a place to share with family and make friends for " +
-      "life!\nSpectacular views and a short walk to Lake John, a world-class " +
-      "Rocky Mountain Trout fishery in beautiful North Park, Colorado.\nThe gold " +
-      "medal waters of North Park as well as the alpine lakes of the Mt. Zirkel " +
-      "Wilderness offer outstanding angling opportunities.\nLake John Resort is " +
-      "only a short distance from the Delaney Butte Lakes, Big Creek Lake, " +
-      "Cowdrey Lake, the Grizzly Helena Trail and the many alpine lakes of Mt. " +
-      "Zirkel Wilderness.\nPublic lands offer\n\nHunting\nFishing\nHiking\n" +
-      "Snowmobiling\nCross-country skiing\nNorth Sand Hills Recreation Area\n" +
-      "Teller City Ghost Town\nIndian Ruins and much more.\n\nCabins with " +
-      "kitchenettes, utensils, showers, electric heat and linens. RV sites with " +
-      "full hookups, pull-thru access and views of the lake. Onsite General " +
-      "Store & Bait/Tackle Shop.",
-    "numberTentSites": "RV Sites: 30",
-    "numberRvSites": "",
-    "RvSiteInfo": [],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "desc": "Family-friendly, rural RV park in a quite setting. … Lake John Resort (Walden, Colorado) is a place to share with family and make friends for life!\nSpectacular views and a short walk to Lake John, a world-class Rocky Mountain Trout fishery in beautiful North Park, Colorado.\nThe gold medal waters of North Park as well as the alpine lakes of the Mt. Zirkel Wilderness offer outstanding angling opportunities.\nLake John Resort is only a short distance from the Delaney Butte Lakes, Big Creek Lake, Cowdrey Lake, the Grizzly Helena Trail and the many alpine lakes of Mt. Zirkel Wilderness.\nPublic lands offer\n\nHunting\nFishing\nHiking\nSnowmobiling\nCross-country skiing\nNorth Sand Hills Recreation Area\nTeller City Ghost Town\nIndian Ruins and much more.\n\nCabins with kitchenettes, utensils, showers, electric heat and linens. RV sites with full hookups, pull-thru access and views of the lake. Onsite General Store & Bait/Tackle Shop.",
+    "numberTentSites": "",
+    "numberRvSites": "RV Sites: 30",
+    "RvSiteInfo": [
+      "Amps: 20, 30, 50",
+      "Max RV Length: 45 ft",
+      "Pull Through Sites: 30",
+      "Full Hookup Sites: 30",
+      "Double Slide-out Sites: 20"
+    ],
+    "numberOtherLodging": "Other Lodging: 5",
+    "otherLodgingInfo": [
+      "Types: Cabin lodges"
+    ],
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/Untitled-attachment-00238.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/Untitled-attachment-00054.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/1Sunrise.jpg?resize=150%2C150&ssl=1",
@@ -2054,7 +1937,7 @@
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/41755264_2213123658729451_5731510290302894080_n.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/41861677_2213123828729434_3322656738217295872_n.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Showers",
       "Dump station",
@@ -2063,7 +1946,7 @@
       "Pavilion area",
       "Fishing"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Laundry",
       "Pool - indoor",
       "ATV / 4-wheeling",
@@ -2076,7 +1959,7 @@
     "title": "Lone Duck Campground",
     "address": "8855 W Hwy 24 Cascade CO 80809",
     "phone": "719-684-9907",
-    "desc": "",
+    "desc": "We have everything you need to have a great time in the Colorado Rockies. From tenting to fifth wheels and everything in between; let our family treat yours! We’re outside the city lights at the base of Pikes Peak — 7600 feet elevation — yet our proximity to all the area’s many attractions makes us an ideal location for families looking for a summer adventure or folks just passing through for a couple of days. We strive to make every stay special. You will love it here at “the Duck”!",
     "numberTentSites": "Tent Sites: 23",
     "numberRvSites": "RV Sites: 34",
     "RvSiteInfo": [
@@ -2086,14 +1969,14 @@
       "Full Hookup Sites: 8",
       "Double Slide-out Sites: 15"
     ],
-    numberOtherLodging: "Other Lodging: 7",
-    otherLodgingInfo: [],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 7",
+    "otherLodgingInfo": [],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/lone_duck_image_1.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/lone_duck_image_2.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/lone_duck_image_3.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Satellite TV",
       "Restrooms",
@@ -2107,7 +1990,7 @@
       "Fishing",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "LP bottle exchange",
       "LP for RVs",
       "LP for portables",
@@ -2137,21 +2020,19 @@
     "title": "Loveland RV Resort",
     "address": "4421 E Hwy 34 Loveland CO 80537",
     "phone": "970-667-1204",
-    "desc": "Nestled in the foothills of the Rocky Mountains, Loveland RV Resort " +
-      "offers year-round access to northern Colorado’s quaint small towns that " +
-      "are brimming with big-time adventure.\n170 standard and premium RV and " +
-      "tent sites available year round, as well as daily, weekly, and monthly " +
-      "storage.\nLoveland RV Resort boasts the largest tree canopy of any " +
-      "campground in the state, offering you a refreshing break from the day’s " +
-      "activities.\nPet friendly (do not accept Pit Bulls, Dobermans, Akitas, " +
-      "Rottweilers, Chows, and Staffordshire Terriers). Applicable pet fees " +
-      "will apply.",
-    "numberTentSites": "RV Sites: 157",
-    "numberRvSites": "",
-    "RvSiteInfo": [],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "desc": "Nestled in the foothills of the Rocky Mountains, Loveland RV Resort offers year-round access to northern Colorado’s quaint small towns that are brimming with big-time adventure.\n170 standard and premium RV and tent sites available year round, as well as daily, weekly, and monthly storage.\nLoveland RV Resort boasts the largest tree canopy of any campground in the state, offering you a refreshing break from the day’s activities.\nPet friendly (do not accept Pit Bulls, Dobermans, Akitas, Rottweilers, Chows, and Staffordshire Terriers). Applicable pet fees will apply.",
+    "numberTentSites": "",
+    "numberRvSites": "RV Sites: 157",
+    "RvSiteInfo": [
+      "Amps: 30, 50",
+      "Max RV Length: 65 ft",
+      "Pull Through Sites: 117",
+      "Full Hookup Sites: 157",
+      "Double Slide-out Sites: 130"
+    ],
+    "numberOtherLodging": "",
+    "otherLodgingInfo": [],
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN8162adj.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN8164.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN8169.jpg?resize=150%2C150&ssl=1",
@@ -2165,7 +2046,7 @@
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN8173.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/loveland_rv_resort_image_4.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -2179,7 +2060,7 @@
       "Mini golf",
       "Pool - outdoor"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Café / restaurant",
       "Golfing",
       "Horse facility",
@@ -2192,19 +2073,7 @@
     "title": "Middlefork RV Resort",
     "address": "255 US HWY 285 Fairplay, CO 80440",
     "phone": "719-836-4857",
-    "desc": "Located on the bank of the Middle Fork of the South Platte River in " +
-      "historic Fairplay, Colorado. Listen to the sound of rushing water and " +
-      "enjoy high temperatures in the seventies. Fish in our stocked trout " +
-      "ponds or fly fish the gold medal waters of the Middlefork. Our gold " +
-      "panning is second to none. Fairplay is only 86 miles from Denver on " +
-      "scenic Highway 285. We have full 50 Amp hookups with city water and " +
-      "sewer. Walk to restaurants and shops including the South Park Brewing " +
-      "Company.\nWorld class trout fishing on the Middlefork and private " +
-      "trout ponds\nMajestic mountain views\n33 50 Amp full hookups; city " +
-      "water and sewer\n23 miles to skiing\nFour wheel drive paradise \n\nRaft " +
-      "the Arkansas River\nHike the beautiful Mosquito Range\nOnly minutes " +
-      "from Breckenridge\nWalk to restauants and shops\nVisit historic South " +
-      "Park City",
+    "desc": "Located on the bank of the Middle Fork of the South Platte River in historic Fairplay, Colorado. Listen to the sound of rushing water and enjoy high temperatures in the seventies. Fish in our stocked trout ponds or fly fish the gold medal waters of the Middlefork. Our gold panning is second to none. Fairplay is only 86 miles from Denver on scenic Highway 285. We have full 50 Amp hookups with city water and sewer. Walk to restaurants and shops including the South Park Brewing Company.\nWorld class trout fishing on the Middlefork and private trout ponds\nMajestic mountain views\n33 50 Amp full hookups; city water and sewer\n23 miles to skiing\nFour wheel drive paradise \n\nRaft the Arkansas River\nHike the beautiful Mosquito Range\nOnly minutes from Breckenridge\nWalk to restauants and shops\nVisit historic South Park City",
     "numberTentSites": "Tent Sites: 3",
     "numberRvSites": "RV Sites: 45",
     "RvSiteInfo": [
@@ -2214,9 +2083,9 @@
       "Full Hookup Sites: 33",
       "Double Slide-out Sites: 45"
     ],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "numberOtherLodging": "",
+    "otherLodgingInfo": [],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN8492.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN8482.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN8496.jpg?resize=150%2C150&ssl=1",
@@ -2241,7 +2110,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/20150726_154611.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN8481.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -2250,7 +2119,7 @@
       "Club / meeting room",
       "Fishing"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "LP bottle exchange",
       "LP for RVs",
       "LP for portables",
@@ -2270,14 +2139,7 @@
     "title": "Monument RV Resort",
     "address": "607 CO-340, Fruita, CO 81521",
     "phone": "970-858-4405",
-    "desc": "Monument RV Resort offers a variety of accommodations to fit every " +
-      "lifestyle, from 95-foot pull-thrus for your big rig to tent sites and " +
-      "comfortable cabins. We’re in western Colorado, between Utah and Grand " +
-      "Junction Colorado. We have easy on and off access to I-70, yet we are " +
-      "located far enough away that you won’t hear freeway noise.\nThe Western " +
-      "Slope of Colorado is filled with wonder and beauty. Practically in our " +
-      "own backyard is the incredible Colorado National Monument, and right " +
-      "across the street is James R. Robb State Park.\nThey’re open all year!",
+    "desc": "Monument RV Resort offers a variety of accommodations to fit every lifestyle, from 95-foot pull-thrus for your big rig to tent sites and comfortable cabins. We’re in western Colorado, between Utah and Grand Junction Colorado. We have easy on and off access to I-70, yet we are located far enough away that you won’t hear freeway noise.\nThe Western Slope of Colorado is filled with wonder and beauty. Practically in our own backyard is the incredible Colorado National Monument, and right across the street is James R. Robb State Park.\nThey’re open all year!",
     "numberTentSites": "Tent Sites: 9",
     "numberRvSites": "RV Sites: 75",
     "RvSiteInfo": [
@@ -2287,9 +2149,9 @@
       "Full Hookup Sites: 80",
       "Double Slide-out Sites: 84"
     ],
-    numberOtherLodging: "Other Lodging: 5",
-    otherLodgingInfo: [ "Types: Cabins" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 5",
+    "otherLodgingInfo": [ "Types: Cabins" ],
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/monumment-rv-3.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/Monument-RV-Resort-logo2.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN9852.jpg?resize=150%2C150&ssl=1",
@@ -2308,7 +2170,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN9846.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN9847.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Cable TV",
       "Restrooms",
@@ -2323,7 +2185,7 @@
       "Pool - outdoor",
       "Hot tub / spa"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Firewood",
       "Pavilion area",
       "Café / restaurant",
@@ -2345,22 +2207,19 @@
     "title": "Mt Princeton RV Park & Cabins",
     "address": "30500-30622 Co Rd 383, Buena Vista, CO 81211",
     "phone": "719-395-6206",
-    "desc": "Warm, friendly service. Spacious level sites. Quiet, clean, safe " +
-      "park. New clubhouse with bathrooms, laundry, and community room.\n" +
-      "Complimentary limited WiFi. Your cell phone will work in our " +
-      "park. Beautiful mountain views.\nCabins with no minimum stays.\n" +
-      "Full hookup back-in and pull-thru sites with 30 and 50 amps. " +
-      "Playground and basketball hoop. Community fire ring. RV supplies.\n" +
-      "Closest RV park to town.\nPet friendly BUT 1 dog/site limit; pet " +
-      "fee.\nStorage for RVs, vehicles, boats.\nMount Princeton RV Park & " +
-      "Cabins is ready to be your home while you’re vacationing in Buena " +
-      "Vista!",
-    "numberTentSites": "RV Sites: 83",
-    "numberRvSites": "",
-    "RvSiteInfo": [],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "desc": "Warm, friendly service. Spacious level sites. Quiet, clean, safe park. New clubhouse with bathrooms, laundry, and community room.\nComplimentary limited WiFi. Your cell phone will work in our park. Beautiful mountain views.\nCabins with no minimum stays.\nFull hookup back-in and pull-thru sites with 30 and 50 amps. Playground and basketball hoop. Community fire ring. RV supplies.\nClosest RV park to town.\nPet friendly BUT 1 dog/site limit; pet fee.\nStorage for RVs, vehicles, boats.\nMount Princeton RV Park & Cabins is ready to be your home while you’re vacationing in Buena Vista!",
+    "numberTentSites": "",
+    "numberRvSites": "RV Sites: 83",
+    "RvSiteInfo": [
+      "Amps: 30, 50",
+      "Max RV Length: 60 ft",
+      "Pull Through Sites: 15",
+      "Full Hookup Sites: 83",
+      "Double Slide-out Sites: 83"
+    ],
+    "numberOtherLodging": "Other Lodging: 7",
+    "otherLodgingInfo": ["Types: Cabins"],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN8613.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/019-8.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/001-3.jpg?resize=150%2C150&ssl=1",
@@ -2389,7 +2248,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/mt_princeton_image_3-1.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN8603.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -2399,7 +2258,7 @@
       "Playground",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "LP bottle exchange",
       "Café / restaurant",
       "ATV / 4-wheeling",
@@ -2414,13 +2273,13 @@
     "title": "Muddy Creek Cabins",
     "address": "315 River Lane Kremmling CO 80459",
     "phone": "970-724-9559",
-    "desc": "",
-    "numberTentSites": "Other Lodging: 10",
+    "desc": "Muddy Creek Cabins are ten individual cabins on eight acres centrally located at the base of the famous Kremmling Cliffs. Muddy Creek Cabins are located right on the Muddy Creek that comes out of Wolford Reservoir.",
+    "numberTentSites": "",
     "numberRvSites": "",
     "RvSiteInfo": [],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 10",
+    "otherLodgingInfo": ["Types: Vacation rental cabin"],
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/Cabins.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/fox.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/luxury.jpg?resize=150%2C150&ssl=1",
@@ -2431,8 +2290,11 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/New_snowfall_.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/View.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [ "Internet / Wifi", "Cable TV" ],
-    propertyNearbyActivities: [
+    "propertyAmenities": [ 
+      "Internet / Wifi", 
+      "Cable TV" 
+    ],
+    "propertyNearbyActivities": [
       "Café / restaurant",
       "Hot tub / spa",
       "Biking trails",
@@ -2446,20 +2308,28 @@
     "title": "Ouray RV Park and Cabins",
     "address": "1700 N. Main St. Ouray CO 81427",
     "phone": "(970) 325-4523",
-    "desc": "",
+    "desc": "Located in the heart of historic Ouray Colorado is Ouray RV Park and Cabins. This family operation is a wonderful place for your family to vacation (or to stay even longer). \nThe entire park offers free access to Wi-Fi since they know you need some of the pleasures from back home. \nThe back in riverfront sites allow you to enjoy the beauty of the Uncompahgre River and the convenience of the Ouray Riverwalk directly behind your RV. \nBridal Veil Falls can often be seen on the mountainside behind the pull through sites during the summer season.",
     "numberTentSites": "Tent Sites: 1",
     "numberRvSites": "RV Sites: 63",
-    "RvSiteInfo": [ "Amps: 30, 50", "Max RV Length: 80 ft" ],
-    numberOtherLodging: "Other Lodging: 6",
-    otherLodgingInfo: [ "Types: Cabins" ],
-    photos: [
+    "RvSiteInfo": [ 
+      "Amps: 30, 50", 
+      "Max RV Length: 80 ft" 
+    ],
+    "numberOtherLodging": "Other Lodging: 6",
+    "otherLodgingInfo": [ "Types: Cabins" ],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/ouray-rv-sites.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/cabin0river.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/cabin-riverfront.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/ouray-rv-camping.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [ "Internet / Wifi", "Restrooms", "Showers", "Firewood" ],
-    propertyNearbyActivities: [
+    "propertyAmenities": [ 
+      "Internet / Wifi", 
+      "Restrooms", 
+      "Showers", 
+      "Firewood" 
+    ],
+    "propertyNearbyActivities": [
       "Laundry",
       "Café / restaurant",
       "Arcade / game room",
@@ -2476,13 +2346,13 @@
     "title": "Pagosa Riverside Campground",
     "address": "2270 E. Hwy 160 Pagosa Springs CO 81147",
     "phone": "970-264-5874; 888-785-3234",
-    "desc": "",
+    "desc": "Located on the San Juan River is the Southern Colorado Rockies, Pagosa Riverside Campground is at 7,200′ elevation, with nice warm days and pleasantly cool nites. While we are close to the highway to take you to adventures in the area, we are down next to the river away from highway noise. \nLargest RV parts selection in area. Fire ring in each site.",
     "numberTentSites": "Tent Sites: 32",
     "numberRvSites": "RV Sites: 57",
     "RvSiteInfo": [ "Amps: 20, 30, 50" ],
-    numberOtherLodging: "Other Lodging: 3",
-    otherLodgingInfo: [ "Types: Cabins" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 3",
+    "otherLodgingInfo": [ "Types: Cabins" ],
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/LAKE-1.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/River.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN8910.jpg?resize=150%2C150&ssl=1",
@@ -2496,7 +2366,7 @@
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN8944.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN8908.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Cable TV",
       "Restrooms",
@@ -2508,7 +2378,7 @@
       "Arcade / game room",
       "Fishing"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "LP for RVs",
       "LP for portables",
       "Golfing",
@@ -2519,22 +2389,7 @@
     "title": "Palisade Basecamp RV Resort",
     "address": "985 North River RoadPalisade, CO 81526",
     "phone": "(970) 462-9712",
-    "desc": "Welcome to Colorado’s newest RV park in the heart of Colorado’s Peach " +
-      "and Wine Capital.\nKick off your shoes and enjoy the ambiance of " +
-      "Palisade’s wine and fruit country as the Colorado River drifts by at " +
-      "your feet, or gear up to embark on an outdoor adventure from your " +
-      "campsite, cabin, or country home suite at Palisade Basecamp RV Resort.\n" +
-      "You can walk, ride, or float to wineries, fruit orchards, mountain " +
-      "biking, hiking, paddle boarding, festivals, and the historic downtown " +
-      "Palisade within a mile of Palisade Basecamp RV Resort.\nA short drive " +
-      "within 30 miles leads to the Colorado National Monument, Grand Mesa " +
-      "National Forest, and numerous historical sites of the West.\nUpon " +
-      "returning to Basecamp at the end of the day you can hang out by the pool " +
-      "and hot tub near the community shade shelter while the playground " +
-      "entertains the kids, or simply enjoy a western sunset from your campsite " +
-      "beside a wine grape vineyard or overlooking the river while you munch on " +
-      "a nutritious snack of fresh grown veggies, greens, and fruit from our " +
-      "on-site greenhouse and peach orchard.",
+    "desc": "Welcome to Colorado’s newest RV park in the heart of Colorado’s Peach and Wine Capital.\nKick off your shoes and enjoy the ambiance of Palisade’s wine and fruit country as the Colorado River drifts by at your feet, or gear up to embark on an outdoor adventure from your campsite, cabin, or country home suite at Palisade Basecamp RV Resort.\nYou can walk, ride, or float to wineries, fruit orchards, mountain biking, hiking, paddle boarding, festivals, and the historic downtown Palisade within a mile of Palisade Basecamp RV Resort.\nA short drive within 30 miles leads to the Colorado National Monument, Grand Mesa National Forest, and numerous historical sites of the West.\nUpon returning to Basecamp at the end of the day you can hang out by the pool and hot tub near the community shade shelter while the playground entertains the kids, or simply enjoy a western sunset from your campsite beside a wine grape vineyard or overlooking the river while you munch on a nutritious snack of fresh grown veggies, greens, and fruit from our on-site greenhouse and peach orchard.",
     "numberTentSites": "Tent Sites: 19",
     "numberRvSites": "RV Sites: 71",
     "RvSiteInfo": [
@@ -2544,16 +2399,16 @@
       "Full Hookup Sites: 71",
       "Double Slide-out Sites: 71"
     ],
-    numberOtherLodging: "Other Lodging: 15",
-    otherLodgingInfo: [ "Types: Country home suites, cabins" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 15",
+    "otherLodgingInfo": [ "Types: Country home suites, cabins" ],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/20180111_164519.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/20180111_164723.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/Basecamp-Features.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/Basecamp-Site-Plan_Web-Image_4-4-17.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/View-from-Rim-Trail.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -2573,7 +2428,7 @@
       "River rafting",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Cable TV",
       "Satellite TV",
       "LP bottle exchange",
@@ -2598,13 +2453,16 @@
     "title": "Peak View Park",
     "address": "19253 US Highway 24, Woodland Park, CO 80863",
     "phone": "(719) 502-7431",
-    "desc": "",
-    "numberTentSites": "RV Sites: 56",
-    "numberRvSites": "",
-    "RvSiteInfo": [],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "desc": "Peak View Park, in beautiful Woodland Park, Colorado, sits in the shadow of Pikes Peak, affording their long-term RV and Park Model Tiny Home residents spectacular views in every season. Make Peak View Park your seasonal or year-round retreat.",
+    "numberTentSites": "",
+    "numberRvSites": "RV Sites: 56",
+    "RvSiteInfo": [
+      "Amps: 30, 50",
+      "Full Hookup Sites: 71"
+    ],
+    "numberOtherLodging": "",
+    "otherLodgingInfo": [],
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/41c4b9_4680e6cd1a06460b87cf41dfb80c6de6.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/41c4b9_36962f43c08e41e7be0e3a0ead96dced.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/41c4b9_b12ada159e47457eacd63070f113d8ea.jpg?resize=150%2C150&ssl=1",
@@ -2613,17 +2471,14 @@
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/IMG_3171.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/IMG_3172.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [],
-    propertyNearbyActivities: []
+    "propertyAmenities": [],
+    "propertyNearbyActivities": []
   },
   {
     "title": "Priest Gulch Campground",
     "address": "26584 CO-145, Dolores, CO 81323",
     "phone": "970-562-3810",
-    "desc": "Nestled along the Beautiful Dolores River in Southwest " +
-      "Colorado midway between Telluride and Mesa Verde " +
-      "National Park is your Destination…Priest Gulch " +
-      "Campground.",
+    "desc": "Nestled along the Beautiful Dolores River in Southwest Colorado midway between Telluride and Mesa Verde National Park is your Destination…Priest Gulch Campground.",
     "numberTentSites": "Tent Sites: 4",
     "numberRvSites": "RV Sites: 88",
     "RvSiteInfo": [
@@ -2633,9 +2488,9 @@
       "Full Hookup Sites: 88",
       "Double Slide-out Sites: 87"
     ],
-    numberOtherLodging: "Other Lodging: 10",
-    otherLodgingInfo: [ "Types: 10 Cabins; 2 Bed & Breakfast Rooms" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 10",
+    "otherLodgingInfo": [ "Types: 10 Cabins; 2 Bed & Breakfast Rooms" ],
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN6299.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/Priest-Gulch-Campground.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN6298.jpg?resize=150%2C150&ssl=1",
@@ -2650,7 +2505,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN6305.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN6309.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -2663,25 +2518,35 @@
       "Playground",
       "Fishing"
     ],
-    propertyNearbyActivities: [ "ATV / 4-wheeling", "Biking trails", "Hiking / nature trails" ]
+    "propertyNearbyActivities": [ 
+      "ATV / 4-wheeling", 
+      "Biking trails", 
+      "Hiking / nature trails"
+    ]
   },
   {
     "title": "Prospect RV Park",
     "address": "11600 W. 44th Avenue Wheat Ridge CO 80033",
     "phone": "303-424-4414",
-    "desc": "",
-    "numberTentSites": "RV Sites: 71",
-    "numberRvSites": "",
-    "RvSiteInfo": [],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "desc": "Stay with us while you check out a Rockies or Broncos game; or shop the Cherry Creek and 16th Street Malls, tour the United State Mint, play the scenic golf courses, or just use The Prospect as your headquarters as you explore Rocky Mountain National Park, tour the US Air Force Academy, or experience world class skiing nearby. \nWe’re just the RV Park to afford you a nature getaway while staying close to all of the amenities of a major metropolitan center.",
+    "numberTentSites": "",
+    "numberRvSites": "RV Sites: 71",
+    "RvSiteInfo": [
+      "Amps: 20, 30, 50",
+      "Max RV Length: 45 ft",
+      "Pull Through Sites: 40",
+      "Full Hookup Sites: 47",
+      "Double Slide-out Sites: 60"
+    ],
+    "numberOtherLodging": "",
+    "otherLodgingInfo": [],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/prospectrv2.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/prospect-rv.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/prospectrv1-1.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/prospectrv3.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -2693,18 +2558,13 @@
       "Hiking / nature trails",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [ "Café / restaurant" ]
+    "propertyNearbyActivities": [ "Café / restaurant" ]
   },
   {
     "title": "Red Mountain RV Park",
     "address": "319 22nd St, Kremmling, CO 80459",
     "phone": "970-724-9593",
-    "desc": "Red Mountain RV Park in Kremmling Colorado is in the Rocky " +
-      "Mountains.\nEnjoy hunting, fishing, rafting, biking, snowmobiling, " +
-      "ATV accessible trails from park, pull-thrus, propane, laundry, " +
-      "WiFi, RV supplies/storage. Kremmling suits those who are adventure " +
-      "seekers as well as those who like to kick back to enjoy the slower " +
-      "pace.",
+    "desc": "Red Mountain RV Park in Kremmling Colorado is in the Rocky Mountains.\nEnjoy hunting, fishing, rafting, biking, snowmobiling, ATV accessible trails from park, pull-thrus, propane, laundry, WiFi, RV supplies/storage. Kremmling suits those who are adventure seekers as well as those who like to kick back to enjoy the slower pace.",
     "numberTentSites": "Tent Sites: 20",
     "numberRvSites": "RV Sites: 45",
     "RvSiteInfo": [
@@ -2714,9 +2574,9 @@
       "Full Hookup Sites: 45",
       "Double Slide-out Sites: 26"
     ],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "numberOtherLodging": "",
+    "otherLodgingInfo": [],
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN2061.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/red-mountain-rv1.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN2066.jpg?resize=150%2C150&ssl=1",
@@ -2727,7 +2587,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/red-mountain-2a.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/red-mountain.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -2741,13 +2601,13 @@
       "Winter snow sports",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [ "Café / restaurant" ]
+    "propertyNearbyActivities": [ "Café / restaurant" ]
   },
   {
     "title": "Riverview RV Park",
     "address": "2444 River Rim RdLoveland, CO 80537",
     "phone": "970-667-9910",
-    "desc": "",
+    "desc": "Riverview RV Park and Campground is set in the rolling foothills of the Rocky Mountains along the Big Thompson River. The quiet countryside setting of our family-oriented park, with its’ gorgeous surroundings and charming wood carvings, is a favorite for groups or a romantic getaway. \nHidden beneath the cottonwoods at 5,100′ elevation, Riverview RV Park and Campground is near the Big Thompson Canyon entrance. We are 30 minutes from the beauty of Estes Park and 20 minutes from unique shops, art district, and numerous family friendly activities within Loveland and Ft Collins. Cheyenne and Denver are about an hour’s drive from Loveland on I-25. \nVacation rental options include cabins and tiny houses.",
     "numberTentSites": "Tent Sites: 9",
     "numberRvSites": "RV Sites: 149",
     "RvSiteInfo": [
@@ -2757,9 +2617,9 @@
       "Full Hookup Sites: 126",
       "Double Slide-out Sites: 90"
     ],
-    numberOtherLodging: "Other Lodging: 3",
-    otherLodgingInfo: [ "Types: Cabins, tiny houses" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 3",
+    "otherLodgingInfo": [ "Types: Cabins, tiny houses" ],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/B6.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/Fishing.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/riverview-pics-2-001_0.jpg?resize=150%2C150&ssl=1",
@@ -2793,7 +2653,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN8228.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN8238.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Cable TV",
       "Restrooms",
@@ -2806,7 +2666,7 @@
       "Fishing",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Horse facility",
       "ATV / 4-wheeling",
       "Biking trails",
@@ -2818,40 +2678,13 @@
     "title": "Royal Gorge Cabins",
     "address": "45054 W US Hwy 50Canon City, CO 81212",
     "phone": "800-748-2953",
-    "desc": "Royal Gorge Cabins is an adventure resort just far enough in the Rocky " +
-      "Mountains to offer an authentic Colorado experience, but close to a " +
-      "variety of exciting outdoor adventures and attractions. We are located " +
-      "just an hour from Colorado Springs and minutes outside of Cañon City. " +
-      "Our focus is on providing you a one-of-a-kind lodging experience.\n" +
-      "Choose from our 1 bedroom, 1 bathroom luxury cabins designed for " +
-      "couples or spread out in our 2 bedroom, 1.5 bath cabin. Both cabins are " +
-      "well-appointed with modern amenities and incredible mountain views. " +
-      "(Larger cabins also have cable TV.)\nRoyal Gorge Cabins also offers " +
-      "canvas wall Glamping tents available in single queen and double queen " +
-      "sizes. Tent rentals are complete with linens and towels, private deck, " +
-      "picnic table and fire ring, and access to a shared shower house close " +
-      "by. Tent sites are also available – those guests have access to our " +
-      "bathrooms and shower house complete with washers and dryers.\nA full " +
-      "service seasonal restaurant and bar is on-site where you can watch a " +
-      "beautiful sunset on the shaded patio or watch TV on the large screens " +
-      "inside the dining room. The bar boasts 16 draft beers on tap with an " +
-      "emphasis on Colorado craft beers. The restaurant is open for lunch and " +
-      "dinner from Memorial Day through Labor Day.\nAlso on site is Colorado’s " +
-      "largest white water rafting company – Echo Canyon River Expeditions. " +
-      "The staff at Echo offers complimentary activity planning and can assist " +
-      "you with reservations or information about rafting, historic train " +
-      "rides, guided fishing, jeep tours, bike tours and much more. Allow the " +
-      "staff at Royal Gorge Cabins and Echo Canyon to assist you in planning " +
-      "the perfect Colorado vacation.",
+    "desc": "Royal Gorge Cabins is an adventure resort just far enough in the Rocky Mountains to offer an authentic Colorado experience, but close to a variety of exciting outdoor adventures and attractions. We are located just an hour from Colorado Springs and minutes outside of Cañon City. Our focus is on providing you a one-of-a-kind lodging experience.\nChoose from our 1 bedroom, 1 bathroom luxury cabins designed for couples or spread out in our 2 bedroom, 1.5 bath cabin. Both cabins are well-appointed with modern amenities and incredible mountain views. (Larger cabins also have cable TV.)\nRoyal Gorge Cabins also offers canvas wall Glamping tents available in single queen and double queen sizes. Tent rentals are complete with linens and towels, private deck, picnic table and fire ring, and access to a shared shower house close by. Tent sites are also available – those guests have access to our bathrooms and shower house complete with washers and dryers.\nA full service seasonal restaurant and bar is on-site where you can watch a beautiful sunset on the shaded patio or watch TV on the large screens inside the dining room. The bar boasts 16 draft beers on tap with an emphasis on Colorado craft beers. The restaurant is open for lunch and dinner from Memorial Day through Labor Day.\nAlso on site is Colorado’s largest white water rafting company – Echo Canyon River Expeditions. The staff at Echo offers complimentary activity planning and can assist you with reservations or information about rafting, historic train rides, guided fishing, jeep tours, bike tours and much more. Allow the staff at Royal Gorge Cabins and Echo Canyon to assist you in planning the perfect Colorado vacation.",
     "numberTentSites": "Tent Sites: 12",
-    "numberRvSites": "Other Lodging: 18",
-    "RvSiteInfo": [
-      "Types: Canvas glamping tents, rustic " +
-        "cabin, luxury cabins (1 and 2 bedroom)"
-    ],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "numberRvSites": "",
+    "RvSiteInfo": [],
+    "numberOtherLodging": "Other Lodging: 18",
+    "otherLodgingInfo": ["Types: Canvas glamping tents, rustic cabin, luxury cabins (1 and 2 bedroom)"],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/700_7289.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/EC19941.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/700_7329.jpg?resize=150%2C150&ssl=1",
@@ -2872,14 +2705,14 @@
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/IMG_9108.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/IMG_9239.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
       "Laundry",
       "Café / restaurant"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Horse facility",
       "Biking trails",
       "Fishing",
@@ -2892,14 +2725,7 @@
     "title": "Shady Grove Campground",
     "address": "300-398 Colorado Ave, Seibert, CO 80834",
     "phone": "970-664-2218",
-    "desc": "Shady Grove is a well-established RV park in Eastern Colorado. We " +
-      "are open year-round and offer 24 clean, quiet pull-thru RV sites. " +
-      "All of our sites are full hook-up and some are well over 100 feet " +
-      "long. Our spots have plenty of room for slide outs and the largest " +
-      "RVs.​\nWe honor most discounts and camping clubs (AAA, AARP, Good " +
-      "Sam, and more), and offer a discounted rate for weekly and monthly " +
-      "stays. We do not honor 50% off discount clubs. Work crews are always " +
-      "welcome!",
+    "desc": "Shady Grove is a well-established RV park in Eastern Colorado. We are open year-round and offer 24 clean, quiet pull-thru RV sites. All of our sites are full hook-up and some are well over 100 feet long. Our spots have plenty of room for slide outs and the largest RVs.​\nWe honor most discounts and camping clubs (AAA, AARP, Good Sam, and more), and offer a discounted rate for weekly and monthly stays. We do not honor 50% off discount clubs. Work crews are always welcome!",
     "numberTentSites": "Tent Sites: 2",
     "numberRvSites": "RV Sites: 24",
     "RvSiteInfo": [
@@ -2909,9 +2735,9 @@
       "Full Hookup Sites: 24",
       "Double Slide-out Sites: 24"
     ],
-    numberOtherLodging: "Other Lodging: 2",
-    otherLodgingInfo: [ "Types: Cabins" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 2",
+    "otherLodgingInfo": [ "Types: Cabins" ],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/IMG_0245.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN0203.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN0204.jpg?resize=150%2C150&ssl=1",
@@ -2927,14 +2753,14 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/IMG_0238.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/IMG_0240.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
       "Laundry",
       "Electric car charger"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Club / meeting room",
       "Pavilion area",
       "Café / restaurant",
@@ -2947,19 +2773,24 @@
     "title": "Silver Summit RV Park",
     "address": "640 Mineral St Silverton CO 81433",
     "phone": "970-387-0240",
-    "desc": "",
-    "numberTentSites": "RV Sites: 37",
-    "numberRvSites": "",
-    "RvSiteInfo": [],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "desc": "Silver Summit has grassy, roomy FHU sites with 20/30/50 amp service and free WiFi. Watch as the famous Durango & Silverton Narrow Gauge Railroad turns around next to our RV park. You can Jeep (onsite rental or bring your own), ATV, hike, bike, or fish with Silver Summit RV Park as your home base. Take a day trip to Mesa Verde National Park, Black Canyon of the Gunnison National Park, Aztec Ruins National Monument, or take the scenic one-day drive of the San Juan Skyway. Relax after a fun day enjoying the area in our hot tub and listen to the Animas River and look up into the night skies and see more stars than you have ever seen before.",
+    "numberTentSites": "",
+    "numberRvSites": "RV Sites: 37",
+    "RvSiteInfo": [
+      "Amps: 20, 30, 50",
+      "Max RV Length: 45 ft",
+      "Pull Through Sites: 1",
+      "Full Hookup Sites: 37"
+    ],
+    "numberOtherLodging": "",
+    "otherLodgingInfo": [],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/silver-summit-a.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/silver-summit-b.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/silver-summit-rv.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/silver-summit1.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Cable TV",
       "Restrooms",
@@ -2968,18 +2799,17 @@
       "Laundry",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [ "Hot tub / spa", "ATV / 4-wheeling", "Hiking / nature trails" ]
+    "propertyNearbyActivities": [ 
+      "Hot tub / spa", 
+      "ATV / 4-wheeling", 
+      "Hiking / nature trails" 
+    ]
   },
   {
     "title": "Snowy Peaks RV Park & Rentals",
     "address": "30430 US Hwy 24Buena Vista, CO 81211",
     "phone": "719-395-8481",
-    "desc": "Snowy Peaks RV Park & Rentals is on the Collegiate Peaks Scenic Byway " +
-      "in Buena Vista Colorado.  Beautiful views!\nLarge sites with lawns & " +
-      "trees, fire pits, private showers, cable TV, free WiFi, propane, " +
-      "clubhouse, activities, and more!\nThey also have rooms available, " +
-      "which come in handy as overflow when you travel with your extended " +
-      "family.",
+    "desc": "Snowy Peaks RV Park & Rentals is on the Collegiate Peaks Scenic Byway in Buena Vista Colorado.  Beautiful views!\nLarge sites with lawns & trees, fire pits, private showers, cable TV, free WiFi, propane, clubhouse, activities, and more!\nThey also have rooms available, which come in handy as overflow when you travel with your extended family.",
     "numberTentSites": "Tent Sites: 8",
     "numberRvSites": "RV Sites: 80",
     "RvSiteInfo": [
@@ -2989,9 +2819,9 @@
       "Full Hookup Sites: 65",
       "Double Slide-out Sites: 78"
     ],
-    numberOtherLodging: "Other Lodging: 2",
-    otherLodgingInfo: [ "Types: Guest rooms" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 2",
+    "otherLodgingInfo": [ "Types: Guest rooms" ],
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/snowy-peaks3.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/2005_05-520_sp.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/2005_07-411_sp.jpg?resize=150%2C150&ssl=1",
@@ -3001,7 +2831,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/snowy-peaks-5.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/snowy-peaks1.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Cable TV",
       "Restrooms",
@@ -3013,7 +2843,7 @@
       "Club / meeting room",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "LP bottle exchange",
       "Horse facility",
       "ATV / 4-wheeling",
@@ -3028,19 +2858,7 @@
     "title": "Sportsman’s Campground & Mountain Cabins",
     "address": "2095 Taylor LanePagosa Springs, CO 81147",
     "phone": "970-731-2300",
-    "desc": "At Sportsman’s Campground and Mountain Cabins you can experience the " +
-      "majestic San Juan Mountains at this quiet, family-friendly and " +
-      "pet-friendly RV and tent campground and mountain cabins.\nEnjoy the " +
-      "cool, refreshing mountain air at an elevation of 8,100′, and 18 " +
-      "scenic miles (6.5 paved and 11.5 maintained gravel) from the highway " +
-      "and 20 miles NW of Pagosa Springs, in southwest Colorado.\nLeave the " +
-      "crowds behind and relax with family and friends at our ecologically " +
-      "friendly campground. Fish for trout on nearby waters, take a scenic " +
-      "and refreshing hike into the San Juan Mountains, check out beautiful " +
-      "Piedra Falls, take a guided horseback ride to Ice Cave Ridge or the " +
-      "Weminuche Wilderness with an onsite outfitter Crazy Horse Outfitter " +
-      "& Guides, or just relax under one of our beautiful ponderosa pine " +
-      "trees!",
+    "desc": "At Sportsman’s Campground and Mountain Cabins you can experience the majestic San Juan Mountains at this quiet, family-friendly and pet-friendly RV and tent campground and mountain cabins.\nEnjoy the cool, refreshing mountain air at an elevation of 8,100′, and 18 scenic miles (6.5 paved and 11.5 maintained gravel) from the highway and 20 miles NW of Pagosa Springs, in southwest Colorado.\nLeave the crowds behind and relax with family and friends at our ecologically friendly campground. Fish for trout on nearby waters, take a scenic and refreshing hike into the San Juan Mountains, check out beautiful Piedra Falls, take a guided horseback ride to Ice Cave Ridge or the Weminuche Wilderness with an onsite outfitter Crazy Horse Outfitter & Guides, or just relax under one of our beautiful ponderosa pine trees!",
     "numberTentSites": "Tent Sites: 1",
     "numberRvSites": "RV Sites: 30",
     "RvSiteInfo": [
@@ -3050,9 +2868,9 @@
       "Full Hookup Sites: 31",
       "Double Slide-out Sites: 25"
     ],
-    numberOtherLodging: "Other Lodging: 7",
-    otherLodgingInfo: [ "Types: Cabins" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 7",
+    "otherLodgingInfo": [ "Types: Cabins" ],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/SPORT1.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/sportsmans5.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/sportsmans-camp.jpg?resize=150%2C150&ssl=1",
@@ -3063,7 +2881,7 @@
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN8992adj.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN8872adj.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Cable TV",
       "Restrooms",
       "Showers",
@@ -3076,7 +2894,7 @@
       "Biking trails",
       "Hiking / nature trails"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Internet / Wifi",
       "Golfing",
       "Gaming / casino",
@@ -3089,7 +2907,7 @@
     "title": "Steamboat Springs KOA",
     "address": "3603 Lincoln Ave. Steamboat Springs CO 80487",
     "phone": "970-879-0273",
-    "desc": "",
+    "desc": "Steamboat Springs KOA wants to be your favorite vacation spot in northwest Colorado. \nTake the free bus to galleries, a pioneer museum, fine dining, and shopping. \nThey’re minutes from Steamboat Ski Resort and area natural hot springs! \nYear ’round activities and events, including: Winter Carnival; Steamboat Marathon, Half Marathon & 10K; Mustang Roundup; Cowboys’ Roundup Days; Hot Air Balloon Rodeo; All Arts Festival; Wild West Air Fest; and OktoberWest. \nEnjoy our heated pool, mini golf, bike rentals, volleyball, horseshoes, and more.",
     "numberTentSites": "Tent Sites: 36",
     "numberRvSites": "RV Sites: 99",
     "RvSiteInfo": [
@@ -3098,9 +2916,9 @@
       "Full Hookup Sites: 99",
       "Double Slide-out Sites: 102"
     ],
-    numberOtherLodging: "Other Lodging: 11",
-    otherLodgingInfo: [ "Types: Cabins" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 11",
+    "otherLodgingInfo": [ "Types: Cabins" ],
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/steamboat_springs_koa_image_7.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/steamboat-koa.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/steamboat-koa1.jpg?resize=150%2C150&ssl=1",
@@ -3111,7 +2929,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/steamboat_springs_koa_image_5.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/steamboat_springs_koa_image_6.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Cable TV",
       "Restrooms",
       "Showers",
@@ -3129,7 +2947,7 @@
       "Bike rentals",
       "Fishing"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "LP bottle exchange",
       "Golfing",
       "ATV / 4-wheeling",
@@ -3145,7 +2963,7 @@
     "title": "Sugar Loafin’ RV Campground & Cabins",
     "address": "2665 CR 4 Leadville CO 80461",
     "phone": "719-486-1031",
-    "desc": "",
+    "desc": "Leadville Colorado is a wonderful summer get-away destination, and Sugar Loafin’ RV Campground & Cabins offers enjoyable scenery and a very pleasing setting for your campsite. \nScenery piled to the Sky! Cabins, drive-thrus, back-ins, slide-outs OK, water and electric, wooded tent sites.  Heated bathrooms, laundry, store, rec room, internet ports",
     "numberTentSites": "Tent Sites: 28",
     "numberRvSites": "RV Sites: 66",
     "RvSiteInfo": [
@@ -3155,9 +2973,9 @@
       "Full Hookup Sites: 42",
       "Double Slide-out Sites: 66"
     ],
-    numberOtherLodging: "Other Lodging: 2",
-    otherLodgingInfo: [ "Types: Cabins" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 2",
+    "otherLodgingInfo": [ "Types: Cabins" ],
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN0117adj.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN0100.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/sugar-loafin2.jpg?resize=150%2C150&ssl=1",
@@ -3186,7 +3004,7 @@
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/sugar-loafin-cabin.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/sugar-loafin5.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Restrooms",
       "Showers",
       "Dump station",
@@ -3195,7 +3013,7 @@
       "Playground",
       "Arcade / game room"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "LP bottle exchange",
       "LP for RVs",
       "LP for portables",
@@ -3210,13 +3028,13 @@
     "title": "The River Forks",
     "address": "1601 Hwy 34Drake, CO 80515",
     "phone": "(970) 669-2380",
-    "desc": "",
+    "desc": "The River Forks Inn was established in 1905. The inn and campground have recently recovered from the severe flooding of 2013. Drake is convenient to Estes Park and close to many spectacular hiking, climbing and fishing areas. The riverfront campground includes tent and RV sites and offers picnic tables, fire rings, and a campground restroom with shower. \nThe Bed & Breakfast offers wonderful rooms for those who prefer sleeping indoors. \nThere’s a bar & restaurant on site. The bar has live music every Saturday night. \nCheck out our website for info, rates, and availability!",
     "numberTentSites": "Tent Sites: 1",
     "numberRvSites": "RV Sites: 11",
     "RvSiteInfo": [ "Amps: 30, 50" ],
-    numberOtherLodging: "Other Lodging: 10",
-    otherLodgingInfo: [ "Types: B&B lodge rooms" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 10",
+    "otherLodgingInfo": [ "Types: B&B lodge rooms" ],
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/river_forks_image_2.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/IMG_9882.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/IMG_9880.jpg?resize=150%2C150&ssl=1",
@@ -3227,7 +3045,7 @@
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/river_forks_image_3.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/river_forks_image_4.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -3236,7 +3054,7 @@
       "Café / restaurant",
       "Hiking / nature trails"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Horse facility",
       "Biking trails",
       "Bike rentals",
@@ -3248,15 +3066,7 @@
     "title": "The Views RV Park and Campground",
     "address": "24990 Hwy 184Dolores, CO 81323",
     "phone": "970-749-6489",
-    "desc": "Enjoy your stay in the full hook-up RV sites overlooking some " +
-      "incredible vistas. For those who love to tent camp, that’s OK too! " +
-      "And for those who aren’t into RVing or tenting, or perhaps you " +
-      "brought along more people than can sleep in your RV, enjoy " +
-      "glamping options or other rental possibilities!\nIt’s possible to " +
-      "see all four states from The Views RV Park, as well as incredible " +
-      "sunrises and sunsets.  There’s plenty of elbow room from your " +
-      "neighbor as well.\nEasy drive in to Dolores.\nSee our photos tab for " +
-      "more images.",
+    "desc": "Enjoy your stay in the full hook-up RV sites overlooking some incredible vistas. For those who love to tent camp, that’s OK too! And for those who aren’t into RVing or tenting, or perhaps you brought along more people than can sleep in your RV, enjoy glamping options or other rental possibilities!\nIt’s possible to see all four states from The Views RV Park, as well as incredible sunrises and sunsets.  There’s plenty of elbow room from your neighbor as well.\nEasy drive in to Dolores.\nSee our photos tab for more images.",
     "numberTentSites": "Tent Sites: 10",
     "numberRvSites": "RV Sites: 50",
     "RvSiteInfo": [
@@ -3266,9 +3076,9 @@
       "Full Hookup Sites: 50",
       "Double Slide-out Sites: 50"
     ],
-    numberOtherLodging: "Other Lodging: 3",
-    otherLodgingInfo: [ "Types: cabin; glamping tents; rental retro RVs" ],
-    photos: [
+    "numberOtherLodging": "Other Lodging: 3",
+    "otherLodgingInfo": [ "Types: cabin; glamping tents; rental retro RVs" ],
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/1-20170520_201957.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/The-Views-RV-Park-3.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN9077.jpg?resize=150%2C150&ssl=1",
@@ -3289,7 +3099,7 @@
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/The-Views-RV-Park2.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/from-bathhouse_preview.jpeg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Restrooms",
       "Showers",
@@ -3300,7 +3110,7 @@
       "Laundry",
       "Pavilion area"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Golfing",
       "Pool - outdoor",
       "ATV / 4-wheeling",
@@ -3318,35 +3128,19 @@
     "title": "Uncompahgre River RV ParkAn Adult 50+ Resort that’s Top Rated!",
     "address": "804 S Church AvenueOlathe, CO 81425",
     "phone": "970-323-8706",
-    "desc": "An Adult 50+ Resort that’s Top Rated!\nThe RV park is located centrally " +
-      "to more attractions and opportunities of discovery than you will have " +
-      "the time to enjoy. Many folks check in for a day and stay for a month! " +
-      "The Uncompahgre River RV Park is a great experience, whether you are a " +
-      "‘first-timer’ or an ‘old timer’.\nThe Perfect Setting\nSet amongst the " +
-      "cottonwoods flanking the river and corn fields, our park provides the " +
-      "feeling of a remote locale with amenities of urban life. If you can’t " +
-      "find what you need in Olathe, Delta and Montrose are only 10 miles to " +
-      "the north and south and offer a larger variety of stores, shops, and " +
-      "restaurants.\n30 acres and over 1/4 mile of river frontage provide a " +
-      "rural feel with urban amenities.\nDiscover all Western Colorado has to " +
-      "offer from our top rated Resort. Our off the beaten path Resort allows " +
-      "you to explore from a convenient central location.\nThey provide full " +
-      "service hookups with level concrete parking pads and patios, ample shade " +
-      "trees, some of the top rated facilities in the state!\nYour Home for " +
-      "Exploring Scenic Western Colorado\nWestern Colorado and Eastern Utah are " +
-      "considered some of the most scenic areas in the United States! You can " +
-      "easily experience all they have to offer including:\n\nBlack Canyon of the " +
-      "Gunnison National Park\nColorado National Monument\nGrand Mesa – the " +
-      "largest flat top mountain in North America with over 300 lakes.\nOver 20 " +
-      "State Parks\n5 National Parks\nNumerous Hot Springs!\nFestivals Galore!\n" +
-      "Jazz, Bluegrass and Blues Festivals\nPeach, Cherry, Lavender and Harvest " +
-      "Festivals\nWine Festivals",
-    "numberTentSites": "RV Sites: 42",
-    "numberRvSites": "",
-    "RvSiteInfo": [],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "desc": "An Adult 50+ Resort that’s Top Rated!\nThe RV park is located centrally to more attractions and opportunities of discovery than you will have the time to enjoy. Many folks check in for a day and stay for a month! The Uncompahgre River RV Park is a great experience, whether you are a ‘first-timer’ or an ‘old timer’.\nThe Perfect Setting\nSet amongst the cottonwoods flanking the river and corn fields, our park provides the feeling of a remote locale with amenities of urban life. If you can’t find what you need in Olathe, Delta and Montrose are only 10 miles to the north and south and offer a larger variety of stores, shops, and restaurants.\n30 acres and over 1/4 mile of river frontage provide a rural feel with urban amenities.\nDiscover all Western Colorado has to offer from our top rated Resort. Our off the beaten path Resort allows you to explore from a convenient central location.\nThey provide full service hookups with level concrete parking pads and patios, ample shade trees, some of the top rated facilities in the state!\nYour Home for Exploring Scenic Western Colorado\nWestern Colorado and Eastern Utah are considered some of the most scenic areas in the United States! You can easily experience all they have to offer including:\n\nBlack Canyon of the Gunnison National Park\nColorado National Monument\nGrand Mesa – the largest flat top mountain in North America with over 300 lakes.\nOver 20 State Parks\n5 National Parks\nNumerous Hot Springs!\nFestivals Galore!\nJazz, Bluegrass and Blues Festivals\nPeach, Cherry, Lavender and Harvest Festivals\nWine Festivals",
+    "numberTentSites": "",
+    "numberRvSites": "RV Sites: 42",
+    "RvSiteInfo": [
+      "Amps: 30, 50",
+      "Max RV Length: 70 ft",
+      "Pull Through Sites: 24",
+      "Full Hookup Sites: 42",
+      "Double Slide-out Sites: 42"
+    ],
+    "numberOtherLodging": "Other Lodging: 3",
+    "otherLodgingInfo": ["Types: Cabins"],
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN9590.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/1004437_118794591624114_443186881_n.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/un1.png?resize=150%2C150&ssl=1",
@@ -3361,7 +3155,7 @@
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/Unc5.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/Unc7.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Cable TV",
       "Restrooms",
@@ -3374,7 +3168,7 @@
       "Fishing",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "LP for RVs",
       "LP for portables",
       "Café / restaurant",
@@ -3394,7 +3188,7 @@
     "title": "United Campground",
     "address": "1322 Animas View Dr, Durango, CO 81301",
     "phone": "970-247-3853",
-    "desc": "",
+    "desc": "Located in the beautiful Animas Valley of Durango Colorado. \nUnited Campground is on the banks of the Animas River. \nDurango & Silverton Narrow Gauge train runs through the campground! \nPlenty of shade trees",
     "numberTentSites": "Tent Sites: 58",
     "numberRvSites": "RV Sites: 81",
     "RvSiteInfo": [
@@ -3404,9 +3198,9 @@
       "Full Hookup Sites: 81",
       "Double Slide-out Sites: 38"
     ],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "numberOtherLodging": "",
+    "otherLodgingInfo": [],
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN9275.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN9286.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN9282.jpg?resize=150%2C150&ssl=1",
@@ -3419,7 +3213,7 @@
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN9273.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN9288.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Satellite TV",
       "Restrooms",
@@ -3432,30 +3226,25 @@
       "Hiking / nature trails",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: []
+    "propertyNearbyActivities": []
   },
   {
     "title": "Ute Bluff Lodge, Cabins & RV Park",
     "address": "27680 US Hwy 160 South Fork CO 81154",
     "phone": "719-873-5595",
-    "desc": "Creatively decorated rustic log cabins, comfortable lodge rooms, and " +
-      "fully equipped RV spaces on 17 beautiful acres is what you will find at " +
-      "Ute Bluff Lodge.  Adjacent to the Rio Grande National Forest, close to " +
-      "the Rio Grande River, and just minutes from Wolf Creek Ski Area.\nOur " +
-      "guests enjoy a recreation room with a full kitchen, two hot tubs on a " +
-      "beautiful deck, free Wi-fi, DirecTV with 50+ channels, gas grills, a " +
-      "guest laundry, a real tipi, a spacious parking area, extra clean rooms, " +
-      "and a friendly welcome.\nWhether you’re looking for a vacation filled " +
-      "with fun and adventure, or you just want to sit back and relax for the " +
-      "weekend, make Ute Bluff your vacation destination.  We would love to " +
-      "make your acquaintance, and we will do our best to make your visit an " +
-      "enjoyable one!",
-    "numberTentSites": "RV Sites: 29",
-    "numberRvSites": "",
-    "RvSiteInfo": [],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "desc": "Creatively decorated rustic log cabins, comfortable lodge rooms, and fully equipped RV spaces on 17 beautiful acres is what you will find at Ute Bluff Lodge.  Adjacent to the Rio Grande National Forest, close to the Rio Grande River, and just minutes from Wolf Creek Ski Area.\nOur guests enjoy a recreation room with a full kitchen, two hot tubs on a beautiful deck, free Wi-fi, DirecTV with 50+ channels, gas grills, a guest laundry, a real tipi, a spacious parking area, extra clean rooms, and a friendly welcome.\nWhether you’re looking for a vacation filled with fun and adventure, or you just want to sit back and relax for the weekend, make Ute Bluff your vacation destination.  We would love to make your acquaintance, and we will do our best to make your visit an enjoyable one!",
+    "numberTentSites": "",
+    "numberRvSites": "RV Sites: 29",
+    "RvSiteInfo": [
+      "Amps: 30, 50",
+      "Max RV Length: 45 ft",
+      "Pull Through Sites: 8",
+      "Full Hookup Sites: 29",
+      "Double Slide-out Sites: 29"
+    ],
+    "numberOtherLodging": "Other Lodging: 28",
+    "otherLodgingInfo": [],
+    "photos": [
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN5825.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/ute-bluff1.jpg?resize=150%2C150&ssl=1",
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/ute-bluff3.jpg?resize=150%2C150&ssl=1",
@@ -3464,7 +3253,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/ute_bluff_lodge_image_3.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/ute5.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Cable TV",
       "Restrooms",
@@ -3477,7 +3266,7 @@
       "Hiking / nature trails",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Café / restaurant",
       "Golfing",
       "Horse facility",
@@ -3494,37 +3283,19 @@
     "title": "Westerly RV Park",
     "address": "6440 Co Rd 203, Durango, CO 81301",
     "phone": "970-247-1275",
-    "desc": "Open all year, Westerly RV Park is located five miles north of " +
-      "historic Durango, Colorado in the beautiful Animas River Valley of " +
-      "Southwest Colorado.  This small quiet park is landscaped with lots of " +
-      "trees and offers ample spaces.\nThe park is located just across the " +
-      "county road from Trimble Spa & Natural Hot Springs.  In addition to " +
-      "the natural hot mineral soaking pools Trimble offers an Olympic-sized " +
-      "outdoor swimming pool and various relaxing and therapeutic spa " +
-      "services set on beautifully landscaped grounds.  Westerly guests " +
-      "receive discounted entry and spa fees at the hot springs, which are " +
-      "also open all year.\nAmenities at Westerly include generous spaces with " +
-      "full hook-ups (20, 30 and 50 amp electrical service, water, and sewer " +
-      "pump out at each site) as well as free WIFI and a laundry with " +
-      "commercial washers and dryers. The park is designed for self-contained " +
-      "vehicles as there are no public restrooms or showers on site. Shower " +
-      "and bathroom facilities are available with admission to neighboring " +
-      "Trimble Spa & Natural Hot Springs.\nThe park is located within easy " +
-      "reach of all that the Durango area has to offer: National Forest " +
-      "hiking and mountain bike trails, skiing at Purgatory at Durango " +
-      "Mountain Resort, rafting and kayaking on the Animas River (a launch " +
-      "site just ½ mile from the park), jeeping, ATVing and horseback riding " +
-      "in the surrounding mountains, riding the Durango & Silverton Narrow " +
-      "Gauge Train, visiting the ancient Anasazi Indian cliff dwellings of " +
-      "Mesa Verde, plus much, much more.\nThe park is also close to shopping " +
-      "at Trimble Crossing, golfing and dining at the beautiful Dalton Ranch " +
-      "Golf Club, and all the amenities of downtown Durango.",
-    "numberTentSites": "RV Sites: 25",
-    "numberRvSites": "",
-    "RvSiteInfo": [],
-    numberOtherLodging: "",
-    otherLodgingInfo: [],
-    photos: [
+    "desc": "Open all year, Westerly RV Park is located five miles north of historic Durango, Colorado in the beautiful Animas River Valley of Southwest Colorado.  This small quiet park is landscaped with lots of trees and offers ample spaces.\nThe park is located just across the county road from Trimble Spa & Natural Hot Springs.  In addition to the natural hot mineral soaking pools Trimble offers an Olympic-sized outdoor swimming pool and various relaxing and therapeutic spa services set on beautifully landscaped grounds.  Westerly guests receive discounted entry and spa fees at the hot springs, which are also open all year.\nAmenities at Westerly include generous spaces with full hook-ups (20, 30 and 50 amp electrical service, water, and sewer pump out at each site) as well as free WIFI and a laundry with commercial washers and dryers. The park is designed for self-contained vehicles as there are no public restrooms or showers on site. Shower and bathroom facilities are available with admission to neighboring Trimble Spa & Natural Hot Springs.\nThe park is located within easy reach of all that the Durango area has to offer: National Forest hiking and mountain bike trails, skiing at Purgatory at Durango Mountain Resort, rafting and kayaking on the Animas River (a launch site just ½ mile from the park), jeeping, ATVing and horseback riding in the surrounding mountains, riding the Durango & Silverton Narrow Gauge Train, visiting the ancient Anasazi Indian cliff dwellings of Mesa Verde, plus much, much more.\nThe park is also close to shopping at Trimble Crossing, golfing and dining at the beautiful Dalton Ranch Golf Club, and all the amenities of downtown Durango.",
+    "numberTentSites": "",
+    "numberRvSites": "RV Sites: 25",
+    "RvSiteInfo": [
+      "Amps: 20, 30, 50",
+      "Max RV Length: 70 ft",
+      "Pull Through Sites: 4",
+      "Full Hookup Sites: 25",
+      "Double Slide-out Sites: 25"
+    ],
+    "numberOtherLodging": "",
+    "otherLodgingInfo": [],
+    "photos": [
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/Two-RVs-July-2014-2.jpeg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/2014-04-24-09.22.50.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/Winter-2017-at-Westerly-1.jpeg?resize=150%2C150&ssl=1",
@@ -3556,14 +3327,14 @@
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/DSCN9298.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN9303.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Satellite TV",
       "Dump station",
       "Firewood",
       "Laundry"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Restrooms",
       "Café / restaurant",
       "Golf cart rental",
@@ -3584,12 +3355,7 @@
     "title": "Winding River Resort",
     "address": "1447 CR 491 Grand Lake CO 80447",
     "phone": "970-627-3215",
-    "desc": "This family campground & lodging resort is located on the Colorado " +
-      "River, bordering Rocky Mountain National Park and Arapaho National " +
-      "Forest, offers\nyou limitless beauty and recreation.\nSummer:  " +
-      "horse/pony/hay rides, animal farm, chuck wagon meals, fishing, " +
-      "hiking, ATV rentals, guest horses welcome.\nWinter:  cabins, sleigh " +
-      "rides, snowmobile rentals.\nThey even have glamping covered wagons!",
+    "desc": "This family campground & lodging resort is located on the Colorado River, bordering Rocky Mountain National Park and Arapaho National Forest, offers\nyou limitless beauty and recreation.\nSummer:  horse/pony/hay rides, animal farm, chuck wagon meals, fishing, hiking, ATV rentals, guest horses welcome.\nWinter:  cabins, sleigh rides, snowmobile rentals.\nThey even have glamping covered wagons!",
     "numberTentSites": "Tent Sites: 39",
     "numberRvSites": "RV Sites: 113",
     "RvSiteInfo": [
@@ -3599,13 +3365,11 @@
       "Full Hookup Sites: 44",
       "Double Slide-out Sites: 80"
     ],
-    numberOtherLodging: "Other Lodging: 10",
-    otherLodgingInfo: [
-      "Types: housekeeping cabins, camper " +
-        "cabins, lodgerooms, glamping covered " +
-        "wagon"
+    "numberOtherLodging": "Other Lodging: 10",
+    "otherLodgingInfo": [
+      "Types: housekeeping cabins, camper cabins, lodgerooms, glamping covered wagon"
     ],
-    photos: [
+    "photos": [
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN1414.jpg?resize=150%2C150&ssl=1",
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/Winding-River-9.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN1409.jpg?resize=150%2C150&ssl=1",
@@ -3632,7 +3396,7 @@
       "https://i1.wp.com/campcolorado.com/wp-content/uploads/DSCN1402.jpg?resize=150%2C150&ssl=1",
       "https://i0.wp.com/campcolorado.com/wp-content/uploads/DSCN1412.jpg?resize=150%2C150&ssl=1"
     ],
-    propertyAmenities: [
+    "propertyAmenities": [
       "Internet / Wifi",
       "Satellite TV",
       "Restrooms",
@@ -3652,7 +3416,7 @@
       "Winter snow sports",
       "Handicap Accessible"
     ],
-    propertyNearbyActivities: [
+    "propertyNearbyActivities": [
       "Cable TV",
       "Café / restaurant",
       "Mini golf",
