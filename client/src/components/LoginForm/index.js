@@ -1,49 +1,43 @@
-import React from 'react'
+import React from 'react';
+import Container from 'react-bootstrap/Container';
+import Form from 'react-bootstrap/Form';
+import { Group, Label, Control, Text } from 'react-bootstrap/Form';
+import Button from 'react-bootstrap/Button';
 
 function LoginForm({ username, password, handleChange, handleSubmit }) {
     return (
-        <div>
-            <h4>Login</h4>
-            <form className="form-horizontal">
-                <div className="form-group">
-                    <div className="col-1 col-ml-auto">
-                        <label className="form-label" htmlFor="username">Username</label>
-                    </div>
-                    <div className="col-3 col-mr-auto">
-                        <input className="form-input"
-                            type="text"
-                            id="username"
-                            name="username"
-                            placeholder="Username"
-                            value={username}
-                            onChange={handleChange}
-                        />
-                    </div>
-                </div>
-                <div className="form-group">
-                    <div className="col-1 col-ml-auto">
-                        <label className="form-label" htmlFor="password">Password: </label>
-                    </div>
-                    <div className="col-3 col-mr-auto">
-                        <input className="form-input"
-                            placeholder="password"
-                            type="password"
-                            name="password"
-                            value={password}
-                            onChange={handleChange}
-                        />
-                    </div>
-                </div>
-                <div className="form-group ">
-                    <div className="col-7"></div>
-                    <button
-                        className="btn btn-primary col-1 col-mr-auto"
-                        onClick={handleSubmit}
-                        type="submit">Login
-                    </button>
-                </div>
-            </form>
-        </div>
+        <Container>
+            <Form>
+            <Group controlId="formBasicUsername">
+                <Text>Login</Text>
+                <Label>Username</Label>
+                <Control 
+                    type="text" 
+                    placeholder="Username" 
+                    name="username"
+                    value={username}
+                    onChange={handleChange}
+                />
+            </Group>
+            <Group controlId="formBasicPassword">
+                <Label>Password</Label>
+                <Control 
+                    type="password" 
+                    placeholder="Password" 
+                    name="password"
+                    value={password}
+                    onChange={handleChange}
+                />
+            </Group>
+            <Button 
+                variant="primary" 
+                type="submit"
+                onClick={handleSubmit}
+            >
+                Login
+            </Button>
+            </Form>            
+        </Container>
     )
 }
 
