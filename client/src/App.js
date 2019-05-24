@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
-import axios from 'axios';
 import { Route } from 'react-router-dom';
+import axios from 'axios';
+
 import Home from './pages/Home';
 import Login from './pages/Login';
+
 import Signup from './components/Signup';
-// import LoginForm from './components/LoginForm';
 import NavigationBar from './components/NavigationBar';
 
 class App extends Component {
@@ -57,11 +58,10 @@ class App extends Component {
           updateUser={this.updateUser} 
           loggedIn={this.state.loggedIn} 
         />
-        {/* greet user if logged in: */}
+        {/* Greet user */}
         {this.state.loggedIn &&
           <p>Join the party, {this.state.username}!</p>
         }
-        {/* Routes to different components */}
         <Route
           exact path="/"
           component={Home} 
@@ -73,12 +73,14 @@ class App extends Component {
           render={() =>
             <Login
               updateUser={this.updateUser}
-            />}
+            />
+          }
         />
         <Route
           path="/signup"
           render={() =>
-            <Signup/>}
+            <Signup/>
+          }
         />
       </div>
     );
