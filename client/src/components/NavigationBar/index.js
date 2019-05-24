@@ -6,12 +6,7 @@ import logo from '../../logo.svg';
 import '../../App.css';
 
 class NavigationBar extends Component {
-    constructor() {
-        super()
-        this.logout = this.logout.bind(this)
-    }
-
-    logout(event) {
+    logout = event => {
         event.preventDefault()
         console.log('logging out')
         axios.post('/user/logout').then(response => {
