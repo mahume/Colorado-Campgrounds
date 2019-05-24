@@ -4,7 +4,7 @@ import QueryList from '../components/QueryList';
 
 class Home extends Component {
   state = {};
-
+  
   render() {
     return (
       <div>
@@ -13,7 +13,7 @@ class Home extends Component {
           <QueryList />
         </div>
       </div>
-    )
+    );
   }
 }
 
