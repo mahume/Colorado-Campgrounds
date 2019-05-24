@@ -1,10 +1,11 @@
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
+import axios from 'axios'
+import Navbar from 'react-bootstrap/Navbar';
 import logo from '../../logo.svg';
 import '../../App.css';
-import axios from 'axios'
 
-class Navbar extends Component {
+class NavigationBar extends Component {
     constructor() {
         super()
         this.logout = this.logout.bind(this)
@@ -69,4 +70,4 @@ class Navbar extends Component {
     }
 }
 
-export default Navbar
+export default NavigationBar;
