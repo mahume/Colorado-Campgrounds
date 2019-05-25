@@ -1,12 +1,14 @@
 import React, { Component } from 'react'
 import axios from 'axios'
+// Bootstrap
 import Navbar from 'react-bootstrap/Navbar';
 import { Brand, Toggle, Collapse } from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import { Link } from 'react-bootstrap/Nav';
+import Image from 'react-bootstrap/Image';
 
 import logo from '../../logo.svg';
-import '../../App.css';
+import './style.css';
 
 class NavigationBar extends Component {
     logout = e => {
@@ -33,17 +35,22 @@ class NavigationBar extends Component {
         console.log(this.props);
         
         return (
-            <Navbar bg="light" expand="lg">
-                <img src={logo} className="App-logo" alt="logo" />
-                <Brand href="#home">Colorado Campgrounds</Brand>
+            <Navbar 
+                bg="dark" 
+                variant="dark" 
+                expand="lg"
+            >
+                <Brand href="/">Colorado Campgrounds</Brand>
+                <Image src={logo} className="logo" alt="logo" />
                 <Toggle aria-controls="basic-navbar-nav" />
                 <Collapse id="basic-navbar-nav">
-                    <Nav className="mr-auto">
-                        { loggedIn 
+                    <Nav className="ml-auto">
+                        { 
+                            loggedIn 
                             ? 
                             <Link href="#" onClick={this.logout}>Logout</Link>
                             :
-                            <div>
+                            <div className="d-flex">
                                 <Link href="/">Home</Link>
                                 <Link href="/login">Login</Link>
                                 <Link href="/signup">Signup</Link>

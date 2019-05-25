@@ -5,7 +5,7 @@ import Container from 'react-bootstrap/Container';
 function Map() {
   return (
     <Jumbotron fluid>
-      <Container>
+      <Container className="text-center">
         <h1>Google Map</h1>
         <p>We could put the Map here</p>
       </Container>
