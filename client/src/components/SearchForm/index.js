@@ -8,7 +8,7 @@ import Button from 'react-bootstrap/Button';
 function SearchForm() {
   return (
     <Form>
-      <Group controlId="formGridAddress1">
+      <Group as={Col} controlId="formGridAddress1">
         <Label>Address</Label>
         <Control placeholder="1234 Main St" />
       </Group>  
@@ -16,7 +16,7 @@ function SearchForm() {
         <Label>City</Label>
         <Control />
       </Group>
-      <Row>
+      <Row as={Col}>
         <Group as={Col} controlId="formGridState">
           <Label>State</Label>
           <Control as="select">
@@ -29,8 +29,8 @@ function SearchForm() {
           <Control />
         </Group>
       </Row>    
-      <Button variant="primary" type="submit">
-        Submit
+      <Button as={Col} variant="primary" type="submit">
+        Search
       </Button>      
     </Form>
   )
