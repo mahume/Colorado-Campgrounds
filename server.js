@@ -10,7 +10,7 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 
 // Middleware
-const user = require('./routes/user');
+const user = require('./routes/api/users');
 
 // MIDDLEWARE
 app.use(morgan('dev'));
