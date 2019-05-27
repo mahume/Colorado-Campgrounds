@@ -1,4 +1,5 @@
 const express = require('express');
+const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const morgan = require('morgan');
 const session = require('express-session');
@@ -20,6 +21,7 @@ app.use(
   })
 );
 app.use(bodyParser.json());
+
 
 // Sessions
 app.use(

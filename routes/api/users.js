@@ -1,17 +1,8 @@
-const router = require('express').Router();
+const express = require('express');
+
+const router = express.Router();
 const User = require('../../database/models/user');
 const passport = require('../../passport');
-const usersController = require('../../controllers/usersController');
-
-// router.route('/')
-//   .get(usersController.findOne)
-//   .post(usersController.findOne);
-
-// router.route('/login')
-//   .post();
-
-router.route('/logout')
-  .post(usersController.logout);
 
 router.post('/', (req, res) => {
   console.log('user signup');
@@ -65,13 +56,13 @@ router.get('/', (req, res, next) => {
   }
 });
 
-// router.post('/logout', (req, res) => {
-//   if (req.user) {
-//     req.logout();
-//     res.send({ msg: 'logging out' });
-//   } else {
-//     res.send({ msg: 'no user to log out' });
-//   }
-// });
+router.post('/logout', (req, res) => {
+  if (req.user) {
+    req.logout();
+    res.send({ msg: 'logging out' });
+  } else {
+    res.send({ msg: 'no user to log out' });
+  }
+});
 
 module.exports = router;
