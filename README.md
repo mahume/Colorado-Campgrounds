@@ -7,7 +7,7 @@ Colorado Campsites is an all in one platform when it comes to Colorado recreatio
 
 ## Getting Started
 
-View on [Heroku](https://git.heroku.com/limitless-stream-96698.git)
+View on [Heroku](https://colorado-campgrounds.herokuapp.com/)
 
 ## Built With
 
