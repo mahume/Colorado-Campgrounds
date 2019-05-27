@@ -1,10 +1,12 @@
 import React from 'react';
 import ListGroup from 'react-bootstrap/ListGroup';
 import QueryItem from '../QueryItem';
+import './style.css'
 
 function QueryList() {
   return (
-    <ListGroup as="ul">
+    <ListGroup id="list-group" as="ul">
+      <QueryItem as="li"></QueryItem>
       <QueryItem as="li"></QueryItem>
       <QueryItem as="li"></QueryItem>
       <QueryItem as="li"></QueryItem>
