@@ -5,16 +5,22 @@ import { Row, Group, Label, Control } from 'react-bootstrap/Form';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
 
-function SearchForm() {
+
+function SearchForm({ handleChange, handleSubmit }) {
   return (
-    <Form>
+    <Form id="weatherSearchForm">
       <Group as={Col} controlId="formGridAddress1">
         <Label>Address</Label>
-        <Control placeholder="1234 Main St" />
+        <Control 
+          placeholder="1234 Main St" 
+          onChange={handleChange}
+        />
       </Group>  
       <Group as={Col} controlId="formGridCity">
         <Label>City</Label>
-        <Control />
+        <Control 
+          onChange={handleChange}
+        />
       </Group>
       <Row as={Col}>
         <Group as={Col} controlId="formGridState">
@@ -26,10 +32,17 @@ function SearchForm() {
         </Group>
         <Group as={Col} controlId="formGridZip">
           <Label>Zip</Label>
-          <Control />
+          <Control 
+            onChange={handleChange}
+          />
         </Group>
       </Row>    
-      <Button as={Col} variant="primary" type="submit">
+      <Button 
+        as={Col} 
+        variant="primary" 
+        type="submit"
+        onClick={handleSubmit}
+      >
         Search
       </Button>      
     </Form>
