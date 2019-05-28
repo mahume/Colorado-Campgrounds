@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import axios from 'axios';
 // React-Bootstrap
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
@@ -9,8 +10,35 @@ import SearchForm from '../components/SearchForm';
 import QueryList from '../components/QueryList';
 
 class Home extends Component {
-  state = {};
-  
+  state = {
+    searchAddress: '',
+    searchCity: '',
+    searchState: '',
+    searchZip: '',
+  };
+
+  handleChange = e => {
+    const { name, value } = e.target;
+    this.setState({
+      [name]: value
+    });
+  }
+  handleSubmit = e => {
+    e.preventDefault();
+    axios
+      .get('/geocode', {
+        city: this.state.searchCity,
+      })
+      .then(response => {
+        console.log('Geocode response: ');
+        console.log(response);
+      })
+      .catch(error => {
+        console.log('Search error: ')
+        console.log(error);    
+      })
+  }
+
   render() {
     return (
       <div>
@@ -24,7 +52,14 @@ class Home extends Component {
         <Container fluid>
           <Row>
             <Col lg={3}>
-              <SearchForm />
+              <SearchForm 
+                address={this.state.searchAddress}
+                city={this.state.searchCity}
+                state={this.state.searchState}
+                zip={this.state.searchZip}
+                handleChange={this.handleChange}
+                handleSubmit={this.handleSubmit}
+              />
             </Col>
             <Col>
               <QueryList />
