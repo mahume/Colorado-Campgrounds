@@ -19,6 +19,8 @@ class Home extends Component {
 
   handleChange = e => {
     const { name, value } = e.target;
+    console.log(name, value);
+    
     this.setState({
       [name]: value
     });
@@ -56,6 +58,10 @@ class Home extends Component {
           <Row>
             <Col lg={3}>
               <SearchForm 
+                address={this.state.searchAddress}
+                city={this.state.searchCity}
+                state={this.state.searchState}
+                zip={this.state.searchZip}
                 handleChange={this.handleChange}
                 handleSubmit={this.handleSubmit}
               />

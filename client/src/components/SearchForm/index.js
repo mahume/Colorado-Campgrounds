@@ -6,26 +6,37 @@ import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
 
 
-function SearchForm({ handleChange, handleSubmit }) {
+function SearchForm({ address, city, state, zip, handleChange, handleSubmit }) {
   return (
     <Form id="weatherSearchForm">
       <Group as={Col} controlId="formGridAddress1">
         <Label>Address</Label>
         <Control 
+          type="text"
           placeholder="1234 Main St" 
+          name="searchAddress"
+          value={address}
           onChange={handleChange}
         />
       </Group>  
       <Group as={Col} controlId="formGridCity">
         <Label>City</Label>
         <Control 
+          type="text"
+          name="searchCity"
+          value={city}
           onChange={handleChange}
         />
       </Group>
       <Row as={Col}>
         <Group as={Col} controlId="formGridState">
           <Label>State</Label>
-          <Control as="select">
+          <Control 
+            as="select"
+            name="searchState"
+            value={state}
+            onChange={handleChange}
+          >
             <option>Choose...</option>
             <option>...</option>
           </Control>
@@ -33,6 +44,9 @@ function SearchForm({ handleChange, handleSubmit }) {
         <Group as={Col} controlId="formGridZip">
           <Label>Zip</Label>
           <Control 
+            type="number"
+            name="searchZip"
+            value={zip}
             onChange={handleChange}
           />
         </Group>

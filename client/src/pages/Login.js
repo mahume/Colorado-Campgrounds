@@ -8,7 +8,7 @@ class Login extends Component {
     username: '',
     password: '',
     redirectTo: null,
-  }
+  };
   handleChange = e => {
     const { name, value } = e.target;
     this.setState({
