@@ -53,7 +53,13 @@
       "Biking trails",
       "Bike rentals",
       "Fishing"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Arrowhead Point Campground and Cabins",
@@ -113,7 +119,13 @@
       "Hiking / nature trails",
       "Canoeing / kayaking",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Aspen Ridge RV Park",
@@ -167,7 +179,13 @@
       "Hiking / nature trails",
       "Canoeing / kayaking",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Base Camp at Golden Gate Canyon",
@@ -223,7 +241,13 @@
       "Hiking / nature trails",
       "River rafting",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Blue Mesa Outpost",
@@ -276,7 +300,13 @@
       "Water skiing",
       "Canoeing / kayaking",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Blue Spruce RV Park & Cabins",
@@ -329,7 +359,13 @@
       "Canoeing / kayaking",
       "River rafting",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Bristlecone Lodge",
@@ -388,7 +424,13 @@
       "Marina",
       "Canoeing / kayaking",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Buena Vista KOA",
@@ -437,7 +479,17 @@
       "Hiking / nature trails",
       "Handicap Accessible"
     ],
-    "propertyNearbyActivities": [ "ATV / 4-wheeling", "Canoeing / kayaking", "River rafting" ]
+    "propertyNearbyActivities": [ 
+      "ATV / 4-wheeling", 
+      "Canoeing / kayaking", 
+      "River rafting" 
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "N"
   },
   {
     "title": "CanyonSide Campground",
@@ -479,7 +531,13 @@
       "Hiking / nature trails",
       "Canoeing / kayaking",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Cedar Creek RV Park",
@@ -549,7 +607,13 @@
       "Water skiing",
       "Canoeing / kayaking",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Chalk Creek Campground & RV Park",
@@ -601,7 +665,13 @@
       "Hiking / nature trails",
       "River rafting",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Circle The Wagons RV Park",
@@ -658,7 +728,13 @@
       "Hiking / nature trails",
       "Canoeing / kayaking",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Colorado Heights Camping Resort",
@@ -706,7 +782,13 @@
       "Fishing",
       "Handicap Accessible"
     ],
-    "propertyNearbyActivities": []
+    "propertyNearbyActivities": [],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "N",
+    "hasPets": "Y",
+    "hasFishing": "Y"
   },
   {
     "title": "Colorado Springs KOA",
@@ -768,7 +850,13 @@
       "Canoeing / kayaking",
       "River rafting",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Cool Sunshine RV Park",
@@ -793,7 +881,16 @@
       "Laundry",
       "Club / meeting room"
     ],
-    "propertyNearbyActivities": [ "Café / restaurant", "Hiking / nature trails" ]
+    "propertyNearbyActivities": [ 
+      "Café / restaurant", 
+      "Hiking / nature trails" 
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "N"
   },
   {
     "title": "Cripple Creek KOA",
@@ -836,7 +933,13 @@
     "propertyNearbyActivities": [ 
       "Gaming / casino", 
       "Hiking / nature trails" 
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "N"
   },
   {
     "title": "Cutty’s Hayden Creek Resort",
@@ -882,7 +985,13 @@
       "Fishing",
       "Hiking / nature trails",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Dolores River Campground",
@@ -947,7 +1056,13 @@
       "Bike rentals",
       "Hiking / nature trails",
       "Marina"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "Y"
   },
   {
     "title": "Elk Creek Campground & RV Park",
@@ -1002,7 +1117,13 @@
       "Marina",
       "Water skiing",
       "Canoeing / kayaking"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Estes Park KOA",
@@ -1081,7 +1202,13 @@
       "Marina",
       "Canoeing / kayaking",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Falcon Meadow RV Campground",
@@ -1121,7 +1248,16 @@
       "Laundry",
       "Playground"
     ],
-    "propertyNearbyActivities": [ "Golfing", "Hiking / nature trails" ]
+    "propertyNearbyActivities": [ 
+      "Golfing", 
+      "Hiking / nature trails" 
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "N"
   },
   {
     "title": "Fireside Cabins and RV Park",
@@ -1168,7 +1304,13 @@
       "Marina",
       "Water skiing",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Foot of the Rockies RV Resort & Storage",
@@ -1204,7 +1346,13 @@
       "LP for portables",
       "Café / restaurant",
       "Golfing"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "N",
+    "hasPets": "Y",
+    "hasFishing": "N"
   },
   {
     "title": "Garden of the Gods RV Resort",
@@ -1252,7 +1400,13 @@
       "Laundry",
       "Playground",
       "Hiking / nature trails"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "N"
   },
   {
     "title": "Glenwood Canyon Resort",
@@ -1306,7 +1460,13 @@
       "Hot tub / spa",
       "ATV / 4-wheeling",
       "Fishing"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "N",
+    "hasPets": "Y",
+    "hasFishing": "Y"
   },
   {
     "title": "Golden Eagle Campground",
@@ -1375,7 +1535,13 @@
       "Water skiing",
       "Canoeing / kayaking",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "Y"
   },
   {
     "title": "Goldfield RV Park",
@@ -1426,7 +1592,13 @@
       "Canoeing / kayaking",
       "River rafting",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Greeley RV Park & Campground",
@@ -1460,7 +1632,16 @@
       "Laundry",
       "Arcade / game room"
     ],
-    "propertyNearbyActivities": [ "LP bottle exchange", "LP for RVs" ]
+    "propertyNearbyActivities": [ 
+      "LP bottle exchange", 
+      "LP for RVs" 
+    ],
+    "hasWifi": "N",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "N",
+    "hasPets": "Y",
+    "hasFishing": "N"
   },
   {
     "title": "Gunnison Lakeside RV Park & Cabins",
@@ -1523,7 +1704,13 @@
       "Water skiing",
       "Canoeing / kayaking",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Highlander RV Campground",
@@ -1573,7 +1760,13 @@
       "Fishing",
       "Hiking / nature trails",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Jellystone Park Larkspur",
@@ -1644,7 +1837,13 @@
       "Canoeing / kayaking",
       "River rafting",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "N"
   },
   {
     "title": "Jellystone Park of Estes",
@@ -1698,7 +1897,13 @@
       "Canoeing / kayaking",
       "River rafting",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Jellystone Park of the Black Canyon",
@@ -1748,7 +1953,14 @@
     "propertyNearbyActivities": [ 
       "ATV / 4-wheeling", 
       "Biking trails", 
-      "Fishing" ]
+      "Fishing" 
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "N",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Junction West RV Park",
@@ -1827,7 +2039,13 @@
       "Canoeing / kayaking",
       "River rafting",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "N"
   },
   {
     "title": "Kebler Corner RV Park, Campground & Cabins",
@@ -1891,7 +2109,13 @@
       "Canoeing / kayaking",
       "River rafting",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "Y"
   },
   {
     "title": "Lake John Resort",
@@ -1953,7 +2177,13 @@
       "Biking trails",
       "Hiking / nature trails",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "Y"
   },
   {
     "title": "Lone Duck Campground",
@@ -2014,7 +2244,13 @@
       "Water skiing",
       "Canoeing / kayaking",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "Y"
   },
   {
     "title": "Loveland RV Resort",
@@ -2067,7 +2303,13 @@
       "Biking trails",
       "Fishing",
       "Hiking / nature trails"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Middlefork RV Resort",
@@ -2133,7 +2375,13 @@
       "Hiking / nature trails",
       "River rafting",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "Y"
   },
   {
     "title": "Monument RV Resort",
@@ -2201,7 +2449,13 @@
       "Hiking / nature trails",
       "Canoeing / kayaking",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Mt Princeton RV Park & Cabins",
@@ -2267,7 +2521,13 @@
       "Hiking / nature trails",
       "Canoeing / kayaking",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Muddy Creek Cabins",
@@ -2302,7 +2562,13 @@
       "Hiking / nature trails",
       "River rafting",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Ouray RV Park and Cabins",
@@ -2340,7 +2606,13 @@
       "Canoeing / kayaking",
       "River rafting",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Pagosa Riverside Campground",
@@ -2383,7 +2655,13 @@
       "LP for portables",
       "Golfing",
       "Hiking / nature trails"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "Y"
   },
   {
     "title": "Palisade Basecamp RV Resort",
@@ -2447,7 +2725,13 @@
       "Biking trails",
       "Bike rentals",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "Y"
   },
   {
     "title": "Peak View Park",
@@ -2472,7 +2756,13 @@
       "https://i2.wp.com/campcolorado.com/wp-content/uploads/IMG_3172.jpg?resize=150%2C150&ssl=1"
     ],
     "propertyAmenities": [],
-    "propertyNearbyActivities": []
+    "propertyNearbyActivities": [],
+    "hasWifi": "N",
+    "hasRestrooms": "NA",
+    "hasShowers": "NA",
+    "hasHiking": "NA",
+    "hasPets": "NA",
+    "hasFishing": "N"
   },
   {
     "title": "Priest Gulch Campground",
@@ -2522,7 +2812,13 @@
       "ATV / 4-wheeling", 
       "Biking trails", 
       "Hiking / nature trails"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "Y"
   },
   {
     "title": "Prospect RV Park",
@@ -2558,7 +2854,15 @@
       "Hiking / nature trails",
       "Handicap Accessible"
     ],
-    "propertyNearbyActivities": [ "Café / restaurant" ]
+    "propertyNearbyActivities": [ 
+      "Café / restaurant" 
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "Y"
   },
   {
     "title": "Red Mountain RV Park",
@@ -2601,7 +2905,15 @@
       "Winter snow sports",
       "Handicap Accessible"
     ],
-    "propertyNearbyActivities": [ "Café / restaurant" ]
+    "propertyNearbyActivities": [ 
+      "Café / restaurant" 
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "N",
+    "hasPets": "Y",
+    "hasFishing": "Y"
   },
   {
     "title": "Riverview RV Park",
@@ -2672,7 +2984,13 @@
       "Biking trails",
       "Fishing",
       "Hiking / nature trails"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "Y"
   },
   {
     "title": "Royal Gorge Cabins",
@@ -2719,7 +3037,13 @@
       "Hiking / nature trails",
       "Canoeing / kayaking",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Shady Grove Campground",
@@ -2767,7 +3091,13 @@
       "Playground",
       "Golfing",
       "Hiking / nature trails"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "N"
   },
   {
     "title": "Silver Summit RV Park",
@@ -2803,7 +3133,13 @@
       "Hot tub / spa", 
       "ATV / 4-wheeling", 
       "Hiking / nature trails" 
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "N"
   },
   {
     "title": "Snowy Peaks RV Park & Rentals",
@@ -2852,7 +3188,13 @@
       "Canoeing / kayaking",
       "River rafting",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "N",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Sportsman’s Campground & Mountain Cabins",
@@ -2901,7 +3243,13 @@
       "Fishing",
       "Hiking / nature trails",
       "Canoeing / kayaking"
-    ]
+    ],
+    "hasWifi": "N",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Steamboat Springs KOA",
@@ -2957,7 +3305,13 @@
       "Canoeing / kayaking",
       "River rafting",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "N",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "Y"
   },
   {
     "title": "Sugar Loafin’ RV Campground & Cabins",
@@ -3022,7 +3376,13 @@
       "Bike rentals",
       "Fishing",
       "Hiking / nature trails"
-    ]
+    ],
+    "hasWifi": "N",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "The River Forks",
@@ -3060,7 +3420,13 @@
       "Bike rentals",
       "Fishing",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "N",
+    "hasFishing": "NB"
   },
   {
     "title": "The Views RV Park and Campground",
@@ -3122,7 +3488,13 @@
       "Canoeing / kayaking",
       "River rafting",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Uncompahgre River RV ParkAn Adult 50+ Resort that’s Top Rated!",
@@ -3182,7 +3554,13 @@
       "Water skiing",
       "Canoeing / kayaking",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "Y"
   },
   {
     "title": "United Campground",
@@ -3226,7 +3604,13 @@
       "Hiking / nature trails",
       "Handicap Accessible"
     ],
-    "propertyNearbyActivities": []
+    "propertyNearbyActivities": [],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "Y"
   },
   {
     "title": "Ute Bluff Lodge, Cabins & RV Park",
@@ -3277,7 +3661,13 @@
       "Canoeing / kayaking",
       "River rafting",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Westerly RV Park",
@@ -3349,7 +3739,13 @@
       "Canoeing / kayaking",
       "River rafting",
       "Winter snow sports"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   },
   {
     "title": "Winding River Resort",
@@ -3430,6 +3826,12 @@
       "Water skiing",
       "Canoeing / kayaking",
       "River rafting"
-    ]
+    ],
+    "hasWifi": "Y",
+    "hasRestrooms": "Y",
+    "hasShowers": "Y",
+    "hasHiking": "Y",
+    "hasPets": "Y",
+    "hasFishing": "NB"
   }
 ]
