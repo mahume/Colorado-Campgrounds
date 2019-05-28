@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Route } from 'react-router-dom';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 import axios from 'axios';
 
 import Home from './pages/Home';
@@ -43,36 +43,38 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
-        <NavigationBar 
-          updateUser={this.updateUser} 
-          loggedIn={this.state.loggedIn} 
-        />
-        {/* Greet user */}
-        {this.state.loggedIn &&
-          <p>Join the party, {this.state.username}!</p>
-        }
-        <Route
-          exact path="/"
-          component={Home} 
-        />
-        <Route
-          path="/login"
-          // component={Login}
-          // updateUser={this.updateUser}
-          render={() =>
-            <Login
-              updateUser={this.updateUser}
-            />
+      <Router>
+        <div className="App">
+          <NavigationBar 
+            updateUser={this.updateUser} 
+            loggedIn={this.state.loggedIn} 
+          />
+          {/* Greet user */}
+          {this.state.loggedIn &&
+            <p>Join the party, {this.state.username}!</p>
           }
-        />
-        <Route
-          path="/signup"
-          render={() =>
-            <Signup/>
-          }
-        />
-      </div>
+          <Route
+            exact path="/"
+            component={Home} 
+          />
+          <Route
+            path="/login"
+            // component={Login}
+            // updateUser={this.updateUser}
+            render={() =>
+              <Login
+                updateUser={this.updateUser}
+              />
+            }
+          />
+          <Route
+            path="/signup"
+            render={() =>
+              <Signup/>
+            }
+          />
+        </div>
+      </Router>
     );
   }
 }

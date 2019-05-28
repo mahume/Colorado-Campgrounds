@@ -1,4 +1,5 @@
 const geocode = require('../client/utils/geocode');
+const forecast = require('../client/utils/forecast');
 
 module.exports = {
   getLocation(req, res) {
