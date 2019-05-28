@@ -1,7 +1,7 @@
 const router = require('express').Router();
 const geocodeController = require('../../controllers/geocodeController');
 
-router.route('/geocode')
+router.route('/location')
   .get(geocodeController.getLocation)
 
 module.exports = router;

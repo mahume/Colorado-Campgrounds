@@ -52,6 +52,7 @@ function SearchForm({ address, city, state, zip, handleChange, handleSubmit }) {
         </Group>
       </Row>    
       <Button 
+        href="api/geocode/location"
         as={Col} 
         variant="primary" 
         type="submit"
