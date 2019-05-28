@@ -1,7 +1,7 @@
 const geocode = require('../client/utils/geocode');
 
 module.exports = {
-  getWeather(req, res) {
+  getLocation(req, res) {
     if (!req.query.address) {
       return res.send({
         error: 'You must provide an address',

@@ -1,7 +1,7 @@
 const router = require('express').Router();
 const geocodeController = require('../../controllers/geocodeController');
 
-router.route('/weather')
-  .get(geocodeController.getWeather)
+router.route('/geocode')
+  .get(geocodeController.getLocation)
 
 module.exports = router;

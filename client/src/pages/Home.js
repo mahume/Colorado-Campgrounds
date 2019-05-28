@@ -19,8 +19,6 @@ class Home extends Component {
 
   handleChange = e => {
     const { name, value } = e.target;
-    console.log(name, value);
-    
     this.setState({
       [name]: value
     });
@@ -28,18 +26,15 @@ class Home extends Component {
   handleSubmit = e => {
     e.preventDefault();
     axios
-      .get('/weather', {
-        searchAddress: this.state.searchAddress,
-        searchCity: this.state.searchCity,
-        searchState: this.state.searchState,
-        searchZip: this.state.searchZip,
+      .get('/geocode', {
+        city: this.state.searchCity,
       })
       .then(response => {
-        console.log('weather response: ');
+        console.log('Geocode response: ');
         console.log(response);
       })
       .catch(error => {
-        console.log('login error: ')
+        console.log('Search error: ')
         console.log(error);    
       })
   }
