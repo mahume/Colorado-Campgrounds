@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { withRouter } from 'react-router-dom';
 import axios from 'axios';
 import SignupForm from '../components/SignupForm';
 
@@ -21,17 +22,23 @@ class Signup extends Component {
 
 		//request to server to add a new username/password
     axios
-      .post('/user/', {
+      .post('/api/users', {
         username: this.state.username,
         password: this.state.password
       })
 			.then(response => {
 				console.log(response)
-				if (!response.data.errmsg) {
+				if (!response.data.errmsg && response.data) {
 					console.log('successful signup')
-					this.setState({ //redirect to login page
-						redirectTo: '/login'
-					})
+          axios.post('/api/users/login', { ...response.data, password: this.state.password })
+            .then(response2 => {
+              console.log(response2.data);
+              this.props.updateUser({
+                loggedIn: true,
+                username: response.data.username
+              }).then(() => this.props.history.push('/'));
+            })
+            .catch(error => console.error(error));
 				} else {
 					console.log('username already taken')
 				}
@@ -54,4 +61,4 @@ class Signup extends Component {
   }
 }
 
-export default Signup;
+export default withRouter(Signup);

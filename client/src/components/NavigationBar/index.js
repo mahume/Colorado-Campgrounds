@@ -15,7 +15,7 @@ class NavigationBar extends Component {
         e.preventDefault();
         console.log('logging out');
         axios
-            .post('/user/logout').then(response => {
+            .post('/api/users/logout').then(response => {
                 console.log(response.data)
                 if (response.status === 200) {
                     this.props.updateUser({

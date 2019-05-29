@@ -1,6 +1,9 @@
 const router = require('express').Router();
 const User = require('../../database/models/user');
 const passport = require('../../passport');
+const isAuthenticated = require('../../middleware/isAuthenticated');
+
+const usersController = require('../../controllers/usersController');
 
 router.post('/', (req, res) => {
   console.log('user signup');
@@ -27,22 +30,25 @@ router.post('/', (req, res) => {
   });
 });
 
-router.post(
-  '/login',
-  function(req, res, next) {
-    console.log('routes/user.js, login, req.body: ');
-    console.log(req.body);
-    next();
-  },
-  passport.authenticate('local'),
-  (req, res) => {
-    console.log('logged in', req.user);
-    const userInfo = {
-      username: req.user.username,
-    };
-    res.send(userInfo);
-  }
-);
+router.route('/login')
+  .post(passport.authenticate('local'), usersController.login)
+
+// router.post(
+//   '/login',
+//   function(req, res, next) {
+//     console.log('routes/user.js, login, req.body: ');
+//     console.log(req.body);
+//     next();
+//   },
+//   passport.authenticate('local'),
+//   (req, res) => {
+//     console.log('logged in', req.user);
+//     const userInfo = {
+//       username: req.user.username,
+//     };
+//     res.send(userInfo);
+//   }
+// );
 
 router.get('/', (req, res, next) => {
   console.log('===== user!!======');
@@ -54,7 +60,7 @@ router.get('/', (req, res, next) => {
   }
 });
 
-router.post('/logout', (req, res) => {
+router.post('/logout', isAuthenticated, (req, res) => {
   if (req.user) {
     req.logout();
     res.send({ msg: 'logging out' });
