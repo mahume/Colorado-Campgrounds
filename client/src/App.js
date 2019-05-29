@@ -17,11 +17,13 @@ class App extends Component {
     this.getUser();
   }
   updateUser = userObject => {
-    this.setState(userObject);
+    return new Promise((resolve, reject) => {
+      this.setState(userObject, () => resolve());
+    });
   }
   getUser = () => {
     axios
-      .get('/user/')
+      .get('/api/users')
       .then(response => {
         console.log('Get user response: ');
         console.log(response.data);
@@ -54,7 +56,8 @@ class App extends Component {
             <p>Join the party, {this.state.username}!</p>
           }
           <Route
-            exact path="/"
+            exact 
+            path="/"
             component={Home} 
           />
           <Route
@@ -70,7 +73,9 @@ class App extends Component {
           <Route
             path="/signup"
             render={() =>
-              <Signup/>
+              <Signup
+                updateUser={this.updateUser}
+              />
             }
           />
         </div>
