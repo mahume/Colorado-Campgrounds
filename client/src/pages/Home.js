@@ -6,7 +6,6 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 // Components
 import Map from '../components/Map';
-import SearchForm from '../components/SearchForm';
 import QueryList from '../components/QueryList';
 
 class Home extends Component {
@@ -52,14 +51,6 @@ class Home extends Component {
         <Container fluid>
           <Row>
             <Col lg={3}>
-              <SearchForm 
-                address={this.state.searchAddress}
-                city={this.state.searchCity}
-                state={this.state.searchState}
-                zip={this.state.searchZip}
-                handleChange={this.handleChange}
-                handleSubmit={this.handleSubmit}
-              />
             </Col>
             <Col>
               <QueryList />
