@@ -4,9 +4,11 @@ import QueryTitle from '../QueryTitle';
 
 function QueryItem() {
   return (
-    <li className="list-group-item">
-      <Image src="https://via.placeholder.com/100" rounded></Image>
+    <li className="list-group-item mt-0">
       <QueryTitle />
+      <Image 
+        src="https://via.placeholder.com/100"
+      ></Image>
     </li>
   )
 }

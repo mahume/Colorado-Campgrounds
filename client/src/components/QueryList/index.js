@@ -5,7 +5,17 @@ import './style.css'
 
 function QueryList() {
   return (
-    <ListGroup id="list-group" as="ul">
+    <ListGroup 
+      id="list-group" 
+      className="ml-0 mt-0"
+      as="ul"
+    >
+      <QueryItem as="li"></QueryItem>
+      <QueryItem as="li"></QueryItem>
+      <QueryItem as="li"></QueryItem>
+      <QueryItem as="li"></QueryItem>
+      <QueryItem as="li"></QueryItem>
+      <QueryItem as="li"></QueryItem>
       <QueryItem as="li"></QueryItem>
       <QueryItem as="li"></QueryItem>
       <QueryItem as="li"></QueryItem>

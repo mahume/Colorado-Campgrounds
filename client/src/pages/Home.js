@@ -46,7 +46,10 @@ class Home extends Component {
             <Col lg={7}>
               <Map />
             </Col>
-            <Col lg={5}>
+            <Col 
+              lg={5}
+              className="pl-0 mt-0"
+            >
               <QueryList />
             </Col>
           </Row>
