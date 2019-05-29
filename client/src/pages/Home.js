@@ -43,16 +43,10 @@ class Home extends Component {
       <div>
         <Container className="mt-3" fluid>
           <Row>
-            <Col>
+            <Col lg={7}>
               <Map />
             </Col>
-          </Row>
-        </Container>
-        <Container fluid>
-          <Row>
-            <Col lg={3}>
-            </Col>
-            <Col>
+            <Col lg={5}>
               <QueryList />
             </Col>
           </Row>
