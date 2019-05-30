@@ -8,6 +8,7 @@ function QueryList() {
     <ListGroup 
       id="list-group" 
       className="ml-0 mt-0"
+      variant="flush"
       as="ul"
     >
       <QueryItem as="li"></QueryItem>
