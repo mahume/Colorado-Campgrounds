@@ -59,7 +59,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "38.02638",
+    "longitude": "-107.67396"
   },
   {
     "title": "Arrowhead Point Campground and Cabins",
@@ -125,7 +127,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "38.91158",
+    "longitude": "-106.18179"
   },
   {
     "title": "Aspen Ridge RV Park",
@@ -185,7 +189,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "37.67449",
+    "longitude": "-106.65075"
   },
   {
     "title": "Base Camp at Golden Gate Canyon",
@@ -247,7 +253,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "39.8332",
+    "longitude": "-105.42927"
   },
   {
     "title": "Blue Mesa Outpost",
@@ -306,7 +314,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "38.44117",
+    "longitude": "-107.31188"
   },
   {
     "title": "Blue Spruce RV Park & Cabins",
@@ -365,7 +375,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "37.21914",
+    "longitude": "-107.34074"
   },
   {
     "title": "Bristlecone Lodge",
@@ -430,7 +442,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "38.998051",
+    "longitude": "-105.063362"
   },
   {
     "title": "Buena Vista KOA",
@@ -489,7 +503,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "N"
+    "hasFishing": "N",
+    "latitude": "38.81948",
+    "longitude": "-106.09187"
   },
   {
     "title": "CanyonSide Campground",
@@ -537,7 +553,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "40.6977",
+    "longitude": "-105.61127"
   },
   {
     "title": "Cedar Creek RV Park",
@@ -613,7 +631,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "38.48579",
+    "longitude": "-107.85925"
   },
   {
     "title": "Chalk Creek Campground & RV Park",
@@ -671,7 +691,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "38.74443",
+    "longitude": "-106.07921"
   },
   {
     "title": "Circle The Wagons RV Park",
@@ -734,7 +756,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "37.37691",
+    "longitude": "-105.10176"
   },
   {
     "title": "Colorado Heights Camping Resort",
@@ -788,7 +812,9 @@
     "hasShowers": "Y",
     "hasHiking": "N",
     "hasPets": "Y",
-    "hasFishing": "Y"
+    "hasFishing": "Y",
+    "latitude": "39.11747",
+    "longitude": "-104.86375"
   },
   {
     "title": "Colorado Springs KOA",
@@ -856,7 +882,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "38.71234",
+    "longitude": "-104.72371"
   },
   {
     "title": "Cool Sunshine RV Park",
@@ -890,7 +918,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "N"
+    "hasFishing": "N",
+    "latitude": "37.53966",
+    "longitude": "-105.74863"
   },
   {
     "title": "Cripple Creek KOA",
@@ -939,7 +969,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "N"
+    "hasFishing": "N",
+    "latitude": "38.77468",
+    "longitude": "-105.20323"
   },
   {
     "title": "Cutty’s Hayden Creek Resort",
@@ -991,7 +1023,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "38.33838",
+    "longitude": "-105.79613"
   },
   {
     "title": "Dolores River Campground",
@@ -1062,7 +1096,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "Y"
+    "hasFishing": "Y",
+    "latitude": "37.47606",
+    "longitude": "-108.45454"
   },
   {
     "title": "Elk Creek Campground & RV Park",
@@ -1123,7 +1159,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "40.25116",
+    "longitude": "-105.84485"
   },
   {
     "title": "Estes Park KOA",
@@ -1208,7 +1246,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "40.37867",
+    "longitude": "-105.48722"
   },
   {
     "title": "Falcon Meadow RV Campground",
@@ -1257,7 +1297,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "N"
+    "hasFishing": "N",
+    "latitude": "38.92344",
+    "longitude": "-104.62083"
   },
   {
     "title": "Fireside Cabins and RV Park",
@@ -1310,7 +1352,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "40.41795",
+    "longitude": "-105.17696"
   },
   {
     "title": "Foot of the Rockies RV Resort & Storage",
@@ -1352,7 +1396,9 @@
     "hasShowers": "Y",
     "hasHiking": "N",
     "hasPets": "Y",
-    "hasFishing": "N"
+    "hasFishing": "N",
+    "latitude": "38.83071",
+    "longitude": "-104.84446"
   },
   {
     "title": "Garden of the Gods RV Resort",
@@ -1406,7 +1452,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "N"
+    "hasFishing": "N",
+    "latitude": "38.85754",
+    "longitude": "-104.88687"
   },
   {
     "title": "Glenwood Canyon Resort",
@@ -1466,7 +1514,9 @@
     "hasShowers": "Y",
     "hasHiking": "N",
     "hasPets": "Y",
-    "hasFishing": "Y"
+    "hasFishing": "Y",
+    "latitude": "39.56157",
+    "longitude": "-107.2932"
   },
   {
     "title": "Golden Eagle Campground",
@@ -1541,7 +1591,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "Y"
+    "hasFishing": "Y",
+    "latitude": "38.70164",
+    "longitude": "-104.84332"
   },
   {
     "title": "Goldfield RV Park",
@@ -1598,7 +1650,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "38.84521",
+    "longitude": "-104.86713"
   },
   {
     "title": "Greeley RV Park & Campground",
@@ -1641,7 +1695,9 @@
     "hasShowers": "Y",
     "hasHiking": "N",
     "hasPets": "Y",
-    "hasFishing": "N"
+    "hasFishing": "N",
+    "latitude": "40.39342",
+    "longitude": "-104.6715"
   },
   {
     "title": "Gunnison Lakeside RV Park & Cabins",
@@ -1710,7 +1766,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "38.48929",
+    "longitude": "-107.10436"
   },
   {
     "title": "Highlander RV Campground",
@@ -1766,7 +1824,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "37.92164",
+    "longitude": "-107.33279"
   },
   {
     "title": "Jellystone Park Larkspur",
@@ -1843,7 +1903,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "N"
+    "hasFishing": "N",
+    "latitude": "39.26572",
+    "longitude": "-104.89823"
   },
   {
     "title": "Jellystone Park of Estes",
@@ -1903,7 +1965,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "40.34106",
+    "longitude": "-105.4294"
   },
   {
     "title": "Jellystone Park of the Black Canyon",
@@ -1960,7 +2024,9 @@
     "hasShowers": "Y",
     "hasHiking": "N",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "38.33166",
+    "longitude": "-107.78293"
   },
   {
     "title": "Junction West RV Park",
@@ -2045,7 +2111,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "N"
+    "hasFishing": "N",
+    "latitude": "39.12009",
+    "longitude": "-108.64571"
   },
   {
     "title": "Kebler Corner RV Park, Campground & Cabins",
@@ -2115,7 +2183,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "Y"
+    "hasFishing": "Y",
+    "latitude": "38.93867",
+    "longitude": "-107.35918"
   },
   {
     "title": "Lake John Resort",
@@ -2183,7 +2253,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "Y"
+    "hasFishing": "Y",
+    "latitude": "40.79057",
+    "longitude": "-106.48278"
   },
   {
     "title": "Lone Duck Campground",
@@ -2250,7 +2322,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "Y"
+    "hasFishing": "Y",
+    "latitude": "38.91745",
+    "longitude": "-104.98476"
   },
   {
     "title": "Loveland RV Resort",
@@ -2309,7 +2383,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "40.4089",
+    "longitude": "-105.01281"
   },
   {
     "title": "Middlefork RV Resort",
@@ -2381,7 +2457,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "Y"
+    "hasFishing": "Y",
+    "latitude": "39.21884",
+    "longitude": "-105.99269"
   },
   {
     "title": "Monument RV Resort",
@@ -2455,7 +2533,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "39.14932",
+    "longitude": "-108.73786"
   },
   {
     "title": "Mt Princeton RV Park & Cabins",
@@ -2527,7 +2607,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "38.86163",
+    "longitude": "-106.14221"
   },
   {
     "title": "Muddy Creek Cabins",
@@ -2568,7 +2650,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "40.06206",
+    "longitude": "-106.39297"
   },
   {
     "title": "Ouray RV Park and Cabins",
@@ -2612,7 +2696,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "38.036604",
+    "longitude": "-107.677914"
   },
   {
     "title": "Pagosa Riverside Campground",
@@ -2661,7 +2747,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "Y"
+    "hasFishing": "Y",
+    "latitude": "37.268218",
+    "longitude": "-107.050829"
   },
   {
     "title": "Palisade Basecamp RV Resort",
@@ -2731,7 +2819,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "Y"
+    "hasFishing": "Y",
+    "latitude": "39.1129828",
+    "longitude": "-108.3281393"
   },
   {
     "title": "Peak View Park",
@@ -2762,7 +2852,9 @@
     "hasShowers": "NA",
     "hasHiking": "NA",
     "hasPets": "NA",
-    "hasFishing": "N"
+    "hasFishing": "N",
+    "latitude": "38.978642",
+    "longitude": "-105.041553"
   },
   {
     "title": "Priest Gulch Campground",
@@ -2818,7 +2910,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "Y"
+    "hasFishing": "Y",
+    "latitude": "37.4711673",
+    "longitude": "-108.5111462"
   },
   {
     "title": "Prospect RV Park",
@@ -2862,7 +2956,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "Y"
+    "hasFishing": "Y",
+    "latitude": "39.7781509",
+    "longitude": "-105.1282367"
   },
   {
     "title": "Red Mountain RV Park",
@@ -2913,7 +3009,9 @@
     "hasShowers": "Y",
     "hasHiking": "N",
     "hasPets": "Y",
-    "hasFishing": "Y"
+    "hasFishing": "Y",
+    "latitude": "40.059656",
+    "longitude": "-106.3674471"
   },
   {
     "title": "Riverview RV Park",
@@ -2990,7 +3088,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "Y"
+    "hasFishing": "Y",
+    "latitude": "40.736033",
+    "longitude": "-105.468815"
   },
   {
     "title": "Royal Gorge Cabins",
@@ -3043,7 +3143,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "38.496093",
+    "longitude": "-105.320053"
   },
   {
     "title": "Shady Grove Campground",
@@ -3097,7 +3199,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "N"
+    "hasFishing": "N",
+    "latitude": "39.297555",
+    "longitude": "-102.869508"
   },
   {
     "title": "Silver Summit RV Park",
@@ -3139,7 +3243,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "N"
+    "hasFishing": "N",
+    "latitude": "37.8073516",
+    "longitude": "-107.6655653"
   },
   {
     "title": "Snowy Peaks RV Park & Rentals",
@@ -3194,7 +3300,9 @@
     "hasShowers": "Y",
     "hasHiking": "N",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "38.8606491",
+    "longitude": "-106.1457859"
   },
   {
     "title": "Sportsman’s Campground & Mountain Cabins",
@@ -3249,7 +3357,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "37.44924",
+    "longitude": "-107.194669"
   },
   {
     "title": "Steamboat Springs KOA",
@@ -3311,7 +3421,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "Y"
+    "hasFishing": "Y",
+    "latitude": "40.5040653",
+    "longitude": "-106.8709479"
   },
   {
     "title": "Sugar Loafin’ RV Campground & Cabins",
@@ -3382,7 +3494,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "39.2486014",
+    "longitude": "-106.3506145"
   },
   {
     "title": "The River Forks",
@@ -3426,7 +3540,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "N",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "40.431751",
+    "longitude": "-105.340915"
   },
   {
     "title": "The Views RV Park and Campground",
@@ -3494,7 +3610,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "37.490515",
+    "longitude": "-108.592993"
   },
   {
     "title": "Uncompahgre River RV ParkAn Adult 50+ Resort that’s Top Rated!",
@@ -3560,7 +3678,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "Y"
+    "hasFishing": "Y",
+    "latitude": "38.602963",
+    "longitude": "-107.985767"
   },
   {
     "title": "United Campground",
@@ -3610,7 +3730,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "Y"
+    "hasFishing": "Y",
+    "latitude": "37.3190916",
+    "longitude": "-107.8511939"
   },
   {
     "title": "Ute Bluff Lodge, Cabins & RV Park",
@@ -3667,7 +3789,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "37.677003",
+    "longitude": "-106.594745"
   },
   {
     "title": "Westerly RV Park",
@@ -3745,7 +3869,9 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "37.3917906",
+    "longitude": "-107.8478914"
   },
   {
     "title": "Winding River Resort",
@@ -3832,6 +3958,8 @@
     "hasShowers": "Y",
     "hasHiking": "Y",
     "hasPets": "Y",
-    "hasFishing": "NB"
+    "hasFishing": "NB",
+    "latitude": "40.278131",
+    "longitude": "-105.851809"
   }
 ]
