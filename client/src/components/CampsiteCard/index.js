@@ -4,20 +4,23 @@ import { Img, Body, Title, Text, Link } from 'react-bootstrap/Card';
 import ListGroup from 'react-bootstrap/ListGroup';
 import ListGroupItem from 'react-bootstrap/ListGroupItem';
 import ImageCarousel from '../ImageCarousel';
+import campsites from '../../campsites.json';
 
-function CampsiteCard({ images, title, desc, phone, address }) {  
+function CampsiteCard({ campsiteSelected, images, title, desc, phone, address }) {  
+  console.log(campsiteSelected);
+  
   return (
     <Card>
       <ImageCarousel 
-        images={images}
+        images={campsites[campsiteSelected].photos}
       />
       <Body className="text-center">
-        <Title>{title}</Title>
+        <Title>{campsites[campsiteSelected].title}</Title>
         {/* <Text scrollable>{desc}</Text> */}
       </Body>
       <ListGroup className="list-group-flush">
-        <ListGroupItem>{`Phone: ${phone}`}</ListGroupItem>
-        <ListGroupItem>{`Address: ${address}`}</ListGroupItem>
+        <ListGroupItem>{`Phone: ${campsites[campsiteSelected].phone}`}</ListGroupItem>
+        <ListGroupItem>{`Address: ${campsites[campsiteSelected].address}`}</ListGroupItem>
       </ListGroup>
       <Body>
         <Link href="#">View</Link>
