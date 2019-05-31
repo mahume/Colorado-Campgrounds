@@ -1,6 +1,7 @@
 import React from 'react';
 import ListGroup from 'react-bootstrap/ListGroup';
 import QueryItem from '../QueryItem';
+import campsites from '../../campsites.json';
 import './style.css'
 
 function QueryList() {
@@ -11,16 +12,13 @@ function QueryList() {
       variant="flush"
       as="ul"
     >
-      <QueryItem as="li"></QueryItem>
-      <QueryItem as="li"></QueryItem>
-      <QueryItem as="li"></QueryItem>
-      <QueryItem as="li"></QueryItem>
-      <QueryItem as="li"></QueryItem>
-      <QueryItem as="li"></QueryItem>
-      <QueryItem as="li"></QueryItem>
-      <QueryItem as="li"></QueryItem>
-      <QueryItem as="li"></QueryItem>
-      <QueryItem as="li"></QueryItem>
+      {campsites.map(campsite => (
+            <QueryItem 
+              as="li" 
+              title={campsite.title}
+              img={campsite.photos[0]}
+            />
+      ))}
     </ListGroup>
   )
 }

@@ -3,12 +3,15 @@ import Image from 'react-bootstrap/Image';
 import QueryTitle from '../QueryTitle';
 import campsites from '../../campsites.json';
 
-function QueryItem() {
+
+function QueryItem({ title, img }) {
   return (
     <li className="list-group-item mt-0">
-      <QueryTitle />
+      <QueryTitle 
+        title={title}
+      />
       <Image 
-        src="https://via.placeholder.com/100"
+        src={img}
       ></Image>
     </li>
   )
