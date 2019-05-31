@@ -1,8 +1,8 @@
 import React from 'react';
 
-function QueryTitle() {
+function QueryTitle({ title }) {
   return (
-    <h5 className="d-inline-block">Campsite Name Here</h5>
+    <h5 className="d-inline-block">{title}</h5>
   )
 }
 
