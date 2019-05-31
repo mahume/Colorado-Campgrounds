@@ -1,13 +1,12 @@
 import React from 'react';
 import Image from 'react-bootstrap/Image';
 import QueryTitle from '../QueryTitle';
-import campsites from '../../campsites.json';
 
-
-function QueryItem({ title, img }) {
+function QueryItem({ key, title, img }) {
   return (
     <li className="list-group-item mt-0">
       <Image 
+        key={key}
         src={img}
       ></Image>
       <QueryTitle 
