@@ -6,7 +6,9 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 // Components
 import Map from '../components/Map';
-import QueryList from '../components/QueryList';
+import CampsiteCard from '../components/CampsiteCard';
+import campsites from '../campsites.json';
+
 
 class Home extends Component {
   state = {
@@ -50,7 +52,13 @@ class Home extends Component {
               lg={5}
               className="pl-0 mt-0"
             >
-              <QueryList />
+              <CampsiteCard 
+                images={campsites[0].photos}
+                title={campsites[0].title}
+                desc={campsites[0].desc}  
+                phone={campsites[0].phone}
+                address={campsites[0].address}
+              />          
             </Col>
           </Row>
         </Container>
