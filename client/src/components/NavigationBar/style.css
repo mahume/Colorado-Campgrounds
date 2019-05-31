@@ -1,4 +1,9 @@
 .logo {
-  height: 80px;
+  height: 150px;
+  position: fixed;
+  z-index: 1;
 }
 
+.navbar {
+  background: #404F24;
+}
