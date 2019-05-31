@@ -1,6 +1,7 @@
 import React from 'react';
 import Image from 'react-bootstrap/Image';
 import QueryTitle from '../QueryTitle';
+import campsites from '../../campsites.json';
 
 function QueryItem() {
   return (

@@ -7,7 +7,7 @@ import Nav from 'react-bootstrap/Nav';
 import { Link } from 'react-bootstrap/Nav';
 import Image from 'react-bootstrap/Image';
 
-import logo from '../../logo.svg';
+import logo from '../../CO-CampLogo_Transp.svg';
 import './style.css';
 
 class NavigationBar extends Component {
