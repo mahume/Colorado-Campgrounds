@@ -1,13 +1,14 @@
 import React from 'react';
 
-function QueryTitle({ key, title, address, phone }) {
+function QueryTitle({ key, address, phone }) {
   return (
-    <h5 
+    <p 
       key={key}
       className="d-inline-block"
     >
-      {title}
-    </h5>
+      {phone}{"\n"}
+      {address}
+    </p>
   )
 }
 

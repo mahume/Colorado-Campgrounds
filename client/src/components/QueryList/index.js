@@ -19,6 +19,8 @@ function QueryList() {
               img={campsite.photos[0]}
               key={campsite.title}
               title={campsite.title}
+              phone={campsite.phone}
+              address={campsite.address}
             />
       ))}
     </ListGroup>
