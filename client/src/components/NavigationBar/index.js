@@ -7,7 +7,7 @@ import Nav from 'react-bootstrap/Nav';
 import { Link } from 'react-bootstrap/Nav';
 import Image from 'react-bootstrap/Image';
 
-import logo from '../../logo.svg';
+import logo from '../../CO-CampLogo_Transp.svg';
 import './style.css';
 
 class NavigationBar extends Component {
@@ -40,7 +40,7 @@ class NavigationBar extends Component {
                 variant="dark" 
                 expand="lg"
             >
-                <Brand href="/">Colorado Campgrounds</Brand>
+                <Brand href="/"></Brand>
                 <Image src={logo} className="logo" alt="logo" />
                 <Toggle aria-controls="basic-navbar-nav" />
                 <Collapse id="basic-navbar-nav">
