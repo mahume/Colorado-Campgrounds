@@ -7,12 +7,12 @@ import campsites from '../../campsites.json';
 function QueryItem({ title, img }) {
   return (
     <li className="list-group-item mt-0">
-      <QueryTitle 
-        title={title}
-      />
       <Image 
         src={img}
       ></Image>
+      <QueryTitle 
+        title={title}
+      />
     </li>
   )
 }

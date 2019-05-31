@@ -15,8 +15,8 @@ function QueryList() {
       {campsites.map(campsite => (
             <QueryItem 
               as="li" 
-              title={campsite.title}
               img={campsite.photos[0]}
+              title={campsite.title}
             />
       ))}
     </ListGroup>
