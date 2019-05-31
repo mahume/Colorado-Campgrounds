@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import GoogleMapReact from 'google-map-react';
 import MapMarker from '../MapMarker';
+import campsites from '../../campsites.json';
 
 const AnyReactComponent = ({ text }) => <div>{text}</div>;
 
@@ -22,10 +23,12 @@ class SimpleMap extends Component {
           defaultCenter={this.props.center}
           defaultZoom={this.props.zoom}
         >
-          <MapMarker
-            lat={39.11}
-            lng={-105.55}
-          />
+          {campsites.map(campsite => (
+            <MapMarker 
+              lat={campsite.latitude}
+              lng={campsite.longitude}
+            />
+          ))}
         </GoogleMapReact>
       </div>
     );
