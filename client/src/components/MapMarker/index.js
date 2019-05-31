@@ -1,13 +1,13 @@
 import React from 'react';
 import './style.css';
 
-function MapMarker({ lat, lng, text }) {
+function MapMarker({ key, lat, lng }) {  
   return (
     <i 
-      id="map-marker"
-      className="fas fa-campground fa-lg"
-      lat={39.11}
-      lng={-105.55}
+      key={key}
+      className="fas fa-campground fa-lg map-marker"
+      lat={lat}
+      lng={lng}
     ></i>
   )
 }
