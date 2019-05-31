@@ -12,32 +12,14 @@ import campsites from '../campsites.json';
 
 class Home extends Component {
   state = {
-    searchAddress: '',
-    searchCity: '',
-    searchState: '',
-    searchZip: '',
+    campsiteSelected: 1,
   };
 
-  handleChange = e => {
-    const { name, value } = e.target;
+  displayCampground = e => {
+    const { value } = e.target.attributes.index;
     this.setState({
-      [name]: value
-    });
-  }
-  handleSubmit = e => {
-    e.preventDefault();
-    axios
-      .get('/geocode', {
-        city: this.state.searchCity,
-      })
-      .then(response => {
-        console.log('Geocode response: ');
-        console.log(response);
-      })
-      .catch(error => {
-        console.log('Search error: ')
-        console.log(error);    
-      })
+      campsiteSelected: parseInt(value),
+    })
   }
 
   render() {
@@ -46,18 +28,14 @@ class Home extends Component {
         <Container className="mt-3" fluid>
           <Row>
             <Col lg={7}>
-              <Map />
+              <Map displayCampground={this.displayCampground} />
             </Col>
             <Col 
               lg={5}
               className="pl-0 mt-0"
             >
               <CampsiteCard 
-                images={campsites[0].photos}
-                title={campsites[0].title}
-                desc={campsites[0].desc}  
-                phone={campsites[0].phone}
-                address={campsites[0].address}
+                campsiteSelected={this.state.campsiteSelected}
               />          
             </Col>
           </Row>

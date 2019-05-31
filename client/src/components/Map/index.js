@@ -12,11 +12,9 @@ class SimpleMap extends Component {
     zoom: 7.5
   };
 
-  handleClick = e => {
-    
-  }
-
   render() {
+    const { displayCampground } = this.props;
+
     return (
       // Important! Always set the container height explicitly
       <div style={{ height: '85vh', width: '100%' }}>
@@ -25,11 +23,13 @@ class SimpleMap extends Component {
           defaultCenter={this.props.center}
           defaultZoom={this.props.zoom}
         >
-          {campsites.map(campsite => (
+          {campsites.map((campsite, index) => (
             <MapMarker 
-              key={campsite.title}
+              key={index}
+              index={index}
               lat={campsite.latitude}
               lng={campsite.longitude}
+              displayCampground={displayCampground}
             />
           ))}
         </GoogleMapReact>
