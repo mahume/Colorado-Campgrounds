@@ -5,14 +5,13 @@ import QueryTitle from '../QueryTitle';
 function QueryItem({ key, title, img }) {
   return (
     <li className="list-group-item mt-0">
-      <QueryTitle 
-        key={key}
-        title={title}
-      />
       <Image 
         key={key}
         src={img}
       ></Image>
+      <QueryTitle 
+        title={title}
+      />
     </li>
   )
 }
