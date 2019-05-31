@@ -36,7 +36,7 @@ class NavigationBar extends Component {
         
         return (
             <Navbar 
-                bg="dark" 
+                className="navbar"
                 variant="dark" 
                 expand="lg"
             >
