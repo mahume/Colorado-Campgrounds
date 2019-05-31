@@ -3,11 +3,12 @@ import Container from 'react-bootstrap/Container';
 import Form from 'react-bootstrap/Form';
 import { Group, Label, Control, Text } from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
+// import './style.css'
 
 function Signup({ username, password, handleChange, handleSubmit }) {
 	return (
 		<Container>
-			<Form>
+			<Form className="signupform">
 				<Group controlId="formBasicUsername">
 					<Text>Sign up</Text>
 					<Label>Username</Label>
