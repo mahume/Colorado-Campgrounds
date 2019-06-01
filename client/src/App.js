@@ -5,8 +5,11 @@ import axios from 'axios';
 import Home from './pages/Home';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
+import NewCampsite from './pages/NewCampsite';
 
 import NavigationBar from './components/NavigationBar';
+
+import './App.css';
 
 class App extends Component {
   state = {
@@ -53,12 +56,17 @@ class App extends Component {
           />
           {/* Greet user */}
           {this.state.loggedIn &&
-            <p>Join the party, {this.state.username}!</p>
+            <p className="loginPtext">Join the party, {this.state.username}!</p>
           }
           <Route
             exact 
             path="/"
             component={Home} 
+          />
+          <Route 
+            exact 
+            path="/new-campsite" 
+            component={NewCampsite} 
           />
           <Route
             path="/login"
