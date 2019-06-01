@@ -48,7 +48,11 @@ class NavigationBar extends Component {
                         { 
                             loggedIn 
                             ? 
-                            <Link href="#" onClick={this.logout}>Logout</Link>
+                            <div className="d-flex LoggedMenu">
+                                <Link href="/">Home</Link>
+                                <Link href="/new-campsite">Submit New Campsite</Link>
+                                <Link href="#" onClick={this.logout}>Logout</Link>
+                            </div>
                             :
                             <div className="d-flex">
                                 <Link href="/">Home</Link>

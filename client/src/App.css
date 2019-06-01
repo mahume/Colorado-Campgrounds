@@ -29,3 +29,40 @@
 #nav-container {
   align-items: flex-end;
 }
+
+.loginPtext {
+  padding-top: 20px;
+  font-size: 20px;
+}
+
+.Amenity {
+  padding-left: 20px;
+  padding-right: 5px;
+}
+
+.formInputLabel {
+  padding-right: 20px;
+}
+
+.formInput {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.formRowFour {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.formRowEight {
+  padding-bottom: 15px;
+}
+
+.newCampFormSbmt {
+  padding-top: 15px;
+}
+
+textarea {
+  height: 150px;
+  width: 400px;
+}
