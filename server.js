@@ -32,7 +32,7 @@ app.use(passport.initialize());
 app.use(passport.session()); // calls the deserializeUser
 
 // Routes
-app.use(express.static(path.join(__dirname + 'client/build')))
+app.use(express.static(path.join(__dirname + '/client/build')))
 app.use('/', routes);
 
 // Starting Server
