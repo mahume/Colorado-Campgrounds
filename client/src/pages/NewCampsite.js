@@ -118,7 +118,7 @@ class NewCampsite extends React.Component {
           <input type="checkbox" value={this.state.value} onChange={this.handleChange} />
       </div>
       <div>
-        <textarea className='newCampDescripArea' name="comment" form="usrform">Enter a brief description here...</textarea>
+        <textarea className='newCampDescripArea' name="comment" form="usrform" placeholder="Enter a brief description here..."></textarea>
       </div>
       <div className='newCampFormSbmt'>
         <input type="submit" value="Submit" /> 
