@@ -1,4 +1,5 @@
 const express = require('express');
+const path = require('path');
 const bodyParser = require('body-parser');
 const morgan = require('morgan');
 const session = require('express-session');
@@ -29,7 +30,9 @@ app.use(session({
 // Passport
 app.use(passport.initialize());
 app.use(passport.session()); // calls the deserializeUser
+
 // Routes
+app.use(express.static(path.join(__dirname + 'client/build')))
 app.use('/', routes);
 
 // Starting Server

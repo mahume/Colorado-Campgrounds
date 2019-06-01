@@ -25,8 +25,8 @@ View on [Heroku](https://colorado-campgrounds.herokuapp.com/)
 - Alex Tyk
 - Anand Davaadorj 
 - Andrew Clement
-- Mike Hume
 - Steven Slyker
+- Mike Hume
 
 ## Prep
 
