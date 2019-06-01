@@ -26,19 +26,19 @@ class NewCampsite extends React.Component {
         <label className='formInputLabel'>
           Campsite Name:
         </label>
-          <input className='formInput' type="text" value={this.state.value} onChange={this.handleChange} />
+          <input className='formInput' type="text" onChange={this.handleChange} />
       </div>
       <div className='formRowTwo'>
         <label className='formInputLabel'>
           Latitude:
         </label>
-          <input className='formInput' type="text" value={this.state.value} onChange={this.handleChange} />
+          <input className='formInput' type="text" onChange={this.handleChange} />
       </div> 
       <div className='formRowThree'>
         <label className='formInputLabel'>
           Longitude:
         </label>
-          <input className='formInput' type="text" value={this.state.value} onChange={this.handleChange} />
+          <input className='formInput' type="text" onChange={this.handleChange} />
       </div>
       <div className='formRowFour'>  
         <label>
