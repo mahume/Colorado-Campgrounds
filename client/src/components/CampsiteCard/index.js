@@ -10,7 +10,7 @@ function CampsiteCard({ campsiteSelected, images, title, desc, phone, address })
   console.log(campsiteSelected);
   
   return (
-    <Card>
+    <Card className="h-100">
       <ImageCarousel 
         images={campsites[campsiteSelected].photos}
       />

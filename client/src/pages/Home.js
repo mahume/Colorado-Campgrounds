@@ -27,12 +27,17 @@ class Home extends Component {
       <div>
         <Container className="mt-3" fluid>
           <Row>
-            <Col lg={7}>
+            <Col 
+              lg={12} 
+              xl={8}
+              className="mb-3"
+            >
               <Map displayCampground={this.displayCampground} />
             </Col>
             <Col 
-              lg={5}
-              className="pl-0 mt-0"
+              lg={12}
+              xl={4}
+              className="pl-0 mt-0 mb-3"
             >
               <CampsiteCard 
                 campsiteSelected={this.state.campsiteSelected}
