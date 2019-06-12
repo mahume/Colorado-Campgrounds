@@ -6,6 +6,7 @@ import Home from './pages/Home';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
 import NewCampsite from './pages/NewCampsite';
+import ViewCampsite from './pages/ViewCampsite';
 
 import NavigationBar from './components/NavigationBar';
 
@@ -62,6 +63,11 @@ class App extends Component {
             exact 
             path="/"
             component={Home} 
+          />
+          <Route
+            exact 
+            path="/view"
+            component={ViewCampsite} 
           />
           <Route 
             exact 

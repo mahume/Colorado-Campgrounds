@@ -23,7 +23,7 @@ function CampsiteCard({ campsiteSelected, images, title, desc, phone, address })
         <ListGroupItem>{`Address: ${campsites[campsiteSelected].address}`}</ListGroupItem>
       </ListGroup>
       <Body>
-        <Link href="#">View</Link>
+        <Link href="/view">View</Link>
       </Body>
     </Card>
   )

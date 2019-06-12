@@ -66,3 +66,17 @@ textarea {
   height: 150px;
   width: 400px;
 }
+
+.indCampOtherLodg {
+  padding-top: 20px;
+}
+
+.indCampStyle {
+  position: relative;
+  display: block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: -1px;
+  background-color: #fff;
+  border-top: 1px solid rgba(0,0,0,.125);
+}
